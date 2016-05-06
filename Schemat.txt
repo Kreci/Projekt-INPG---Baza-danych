@@ -1,0 +1,225 @@
+Domena		Eukarionty
+Królestwo		Zwierzêta
+Typ		Strunowce
+Podtyp		Krêgowce
+Gromada		Ssaki
+Podgromada	¯yworodne
+Infragromada	£o¿yskowce
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Rz¹d	Nietoperze
+
+
+Podrz¹d	Pteropodiformes - rudawkokszta³tne
+
+	Rodzina 	Pteropodidae – rudawkowate
+
+			Rodzaj	Acerodon – acerodon						https://pl.wikipedia.org/wiki/Acerodon
+
+				Gatunek	Acerodon celebensis – acerodon sulaweski
+					Acerodon humilis – acerodon s³aby
+					Acerodon jubatus – acerodon grzywiasty			https://pl.wikipedia.org/wiki/Acerodon_grzywiasty
+					Acerodon leucotis – acerodon palawañski
+					Acerodon mackloti – acerodon sundajski
+
+				Aethalops – owocnik						https://pl.wikipedia.org/wiki/Owocnik_(rodzaj_ssaka)
+
+					Aethalops aequalis – owocnik borneañski
+					Aethalops alecto – owocnik kar³owaty
+
+				Alionycteris – owoco¿erek
+
+					Alionycteris paucidentata – owoco¿erek go³onosy
+
+				Aproteles – owocojadek
+
+					Aproteles bulmerae – owocojadek jaskiniowy
+
+				Balionycteris – skrzyd³oplamek
+
+					Balionycteris maculata – skrzyd³oplamek kar³owaty
+
+				Casinycteris – moczarowiec
+
+					Casinycteris argynnis – moczarowiec afrykañski
+
+				Chironax – czapecznik
+
+					 Chironax melanocephalus – czapecznik owoco¿erny
+
+				Cynopterus – krótkonosek					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
+
+					Cynopterus brachyotis – krótkonosek krótkouchy
+					Cynopterus horsfieldii – krótkonosek sundajski
+					Cynopterus luzoniensis – krótkonosek uprawowy
+					Cynopterus minutus – krótkonosek drobny
+					Cynopterus nusatenggara – krótkonosek wyspowy
+					Cynopterus sphinx – krótkonosek sfinksowy		https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
+					Cynopterus titthaecheilus – krótkonosek indonezyjski
+
+				Desmalopex – rudawnik					https://pl.wikipedia.org/wiki/Rudawnik
+
+					Desmalopex leucopterus – rudawnik bia³oskrzyd³y
+					Desmalopex microleucopterus – rudawnik malutki		https://pl.wikipedia.org/wiki/Rudawnik_malutki
+
+				Dobsonia – go³ogrzbietek					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
+
+					Dobsonia andersoni – go³ogrzbietek archipelagowy
+					Dobsonia beauforti – go³ogrzbietek wyspowy
+					Dobsonia chapmani – go³ogrzbietek negroski
+					Dobsonia crenulata – go³ogrzbietek halmaherski
+					Dobsonia emersa – go³ogrzbietek jaksiniowy
+					Dobsonia exoleta – go³ogrzbietek sulaweski
+					Dobsonia inermis – go³ogrzbietek bezbronny
+					Dobsonia magna – go³ogrzbietek du¿y
+					Dobsonia minor – go³ogrzbietek ma³y
+					Dobsonia moluccensis – go³ogrzbietek molucki
+					Dobsonia pannietensis – go³ogrzbietek zatokowy
+					Dobsonia peronii – go³ogrzbietek leœny
+					Dobsonia praedatrix – go³ogrzbietek nowobrytyjski
+					Dobsonia viridis – go³ogrzbietek zielonawy
+
+				Dyacopterus – dajakolot					https://pl.wikipedia.org/wiki/Dajakolot\
+
+					Dyacopterus brooksi – dajakolot sumatrzañski
+					Dyacopterus rickarti – dajakolot filipiñski
+					Dyacopterus spadiceus – dajakolot sundajski
+
+				Eidolon – zjawa						https://pl.wikipedia.org/wiki/Zjawa_(rodzaj_ssaka)
+
+					Eidolon dupreanum – zjawa madagaskarska
+					Eidolon helvum – zjawa p³owa				https://pl.wikipedia.org/wiki/Zjawa_p%C5%82owa
+
+				Eonycteris – jutrzenkowiec					https://pl.wikipedia.org/wiki/Jutrzenkowiec
+
+					Eonycteris major – jutrzenkowiec du¿y
+					Eonycteris robusta – jutrzenkowiec filipiñski
+					Eonycteris spelaea – jutrzenkowiec jaskiniowy
+
+				Epomophorus – pagonowiec					https://pl.wikipedia.org/wiki/Pagonowiec
+
+					Epomophorus angolensis – pagonowiec angolañski
+					Epomophorus anselli – pagonowiec malawski
+					Epomophorus crypturus – pagonowiec mozambicki
+					Epomophorus gambianus – pagonowiec gambijski
+					Epomophorus grandis – pagonowiec samotny
+					Epomophorus labiatus – pagonowiec etiopski
+					Epomophorus minimus – pagonowiec malutki
+					Epomophorus minor – pagonowiec ma³y
+					Epomophorus wahlbergi – pagonowiec baobabowy
+
+				Epomops – epoletnik						https://pl.wikipedia.org/wiki/Epoletnik
+
+					Epomops buettikoferi – epoletnik gwinejski
+					Epomops dobsonii – epoletnik œpiewaj¹cy
+					Epomops franqueti – epoletnik afrykañski			https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
+
+				Haplonycteris – d³ugopalczyk
+
+					Haplonycteris fischeri – d³ugopalczyk filipiñski
+
+				Harpyionycteris – harpiolot					https://pl.wikipedia.org/wiki/Harpiolot
+
+					Harpyionycteris celebensis – harpiolot sulaweski
+					Harpyionycteris whiteheadi – harpiolot filipiñski		https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
+
+				Hypsignathus – m³otog³ów
+
+					Hypsignathus monstrosus – m³otog³ów wielkog³owy		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
+
+				Latidens – tamilolot
+
+					Latidens salimalii – tamilolot jaskiniowy
+
+				Lissonycteris – owocolot
+
+					Lissonycteris angolensis – owocolot afrykañski
+
+				Macroglossus – jêzycznik					https://pl.wikipedia.org/wiki/J%C4%99zycznik_(rodzaj_ssaka)
+
+					Macroglossus minimus – jêzycznik malutki		https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
+					Macroglossus sabrinus – jêzycznik wiêkszy
+
+				Megaerops – bezogoniec					https://pl.wikipedia.org/wiki/Bezogoniec
+
+					Megaerops ecaudatus – bezogoniec sundajski
+					Megaerops kusnotoi – bezogoniec jawajski
+					Megaerops niphanae – bezogoniec indochiñski
+					Megaerops wetmorei – bezogoniec obro¿ny
+
+				Megaloglossus – ozornik
+
+					Megaloglossus woermanni – ozornik afrykañski
+
+				Melonycteris – solomonowiec					https://pl.wikipedia.org/wiki/Solomonowiec
+
+					Melonycteris melanops – solomonowiec czarnobrzuchy
+					Melonycteris fardoulisi – solomonowiec kwiatowy
+					Melonycteris woodfordi – solomonowiec drzewny
+
+				Micropteropus – epoletniczek					https://pl.wikipedia.org/wiki/Epoletniczek
+
+					Micropteropus intermedius – epoletniczek wiêkszy
+					Micropteropus pusillus – epoletniczek drobny
+
+				Mirimiri – ma³pionosek
+
+					Mirimiri acrodonta – ma³pionosek fid¿ijski
+
+				Myonycteris – myszolot					https://pl.wikipedia.org/wiki/Myszolot
+
+					Myonycteris brachycephala – myszolot wyspowy
+					Myonycteris relicta – myszolot reliktowy
+					Myonycteris torquata – myszolot obro¿ny
+
+				Nanonycteris – drobnolot
+
+					Nanonycteris veldkampii – drobnolot afrykañski
+
+				Neopteryx – owocniczek
+
+					Neopteryx frosti – owocniczek drobnozêbny
+
+				Notopteris – ogoniec
+				Nyctimene – rurkonos
+				Otopteropus – luzañczyk
+				Paranyctimene – rurkonosek
+				Penthetor – psolotek
+				Plerotes – rudawnica
+				Ptenochirus – pi¿molot
+				Pteralopex – skrzyd³olis
+				Pteropus – rudawka
+				Rousettus – rudawiec
+				Scotonycteris – równikowiec
+				Sphaerias – kulecznik
+				Styloctenium – pr¹¿koliczek
+				Syconycteris – pêdzelnik
+				Thoopterus – bystrolot
+
+
+
+		Rhinolophidae – podkowcowate
+		Hipposideridae – p³atkonosowate
+		Rhinonycteridae – rogonosowate
+		Megadermatidae – lironosowate
+		Rhinopomatidae – brodawkonosowate
+		Craseonycteridae – œwinionosowate
+
+	Vespertilioniformes - mroczkokszta³tne
+
+		Emballonuridae – upiorowate
+		Nycteridae – bruzdonosowate
+		Myzopodidae – ssawkonogowate
+		Mystacinidae – w¹sonosowate
+		Phyllostomidae – liœcionosowate
+		Mormoopidae – straszakowate
+		Noctilionidae – rybakowate
+		Furipteridae – furiakowate
+		Thyropteridae – przylgowcowate
+		Natalidae – lejkouchowate
+		Molossidae – molosowate
+		Cistugidae – w³osiakowate
+		Vespertilionidae – mroczkowate
+		Miniopteridae – podkasañcowate
+		
