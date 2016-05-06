@@ -25,14 +25,3 @@ void findMax(node*)
             printf("Ostatni rekord to %s\n", node->entry.stdName);
         return;
     }
-
-void moveInOrder(node*)
-    {
-        if(node != NULL)
-            {
-                moveInOrder(node->left);
-                printf("%s\n", node->entry.StdName);
-                moveInOrder(node->right);
-            }
-        return;
-    }
