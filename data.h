@@ -20,6 +20,5 @@ void display(data); 	 // displays entry
 void fDisplay(node*);    // displays whole tree
 void findMin(node*);	 // displays first (alphabetically) entry
 void findMax(node*); 	 // displays last (alpabetically) entry
-void moveInOrder(node*); // moves in order through the tree
 
 #endif
