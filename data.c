@@ -43,3 +43,22 @@ void fDisplay(node *root)               //Displays whole tree in-order (alphabet
         fDisplay(root->right);
     return;
 }
+//*******************************************************************************************************************************
+//Do uaktualnienia i poprawy, zajme się tym
+int inorder(struct kontakt *head)       //Umożliwia chodzenie po drzewie galez po galezi
+{
+    if(head==NULL)return;
+    char menu[3];
+    printf("%s \n%s\n%s\n%s\n\n", head->nazwisko, head->imie, head->nr1, head->nr2);
+    if(head->lewy!=NULL)printf("w lewo: %s %s\n", head->lewy->nazwisko, head->lewy->imie);
+    else printf("lewy pusty\n");
+    if(head->prawy!=NULL)printf("w prwo: %s %s\n", head->prawy->nazwisko, head->prawy->imie);
+    else printf("prawy pusty\n");
+    printf("\nMENU:\n1-w lewo\n2-w prawo\n3-do gory");
+    scanf("%3s", menu);
+    if(menu[0]=='1')			if(inorder(head->lewy)) inorder(head);	else return 0;
+    else if(menu[0]=='2')	if(inorder(head->prawy))inorder(head);	else return 0;
+    else if(menu[0]=='3')return 1;
+    else return 0;
+    return 0;
+}
