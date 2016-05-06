@@ -1,27 +1,27 @@
-void findMin(node*)
+void findMin(node* root)
     {
-        if(node == NULL)
+        if(root == NULL)
             {
                 printf("Drzewo jest puste!\n");
                 return;
             }
-        if(node->left != NULL)
-            return findMin(node->left);
+        if(root->left != NULL)
+            return findMin(root->left);
         else
-            printf("Pierwszy rekord to %s\n", node->entry.stdName);
+            printf("Pierwszy rekord to %s\n", root->entry.stdName);
         return;
     }
 
-void findMax(node*)
+void findMax(node* root)
     {
-        if(node == NULL)
+        if(root == NULL)
             {
                 printf("Drzewo jest puste!\n");
                 return;
             }
-        if(node->right != NULL)
-            return findMax(node->right);
+        if(root->right != NULL)
+            return findMax(root->right);
         else
-            printf("Ostatni rekord to %s\n", node->entry.stdName);
+            printf("Ostatni rekord to %s\n", root->entry.stdName);
         return;
     }
