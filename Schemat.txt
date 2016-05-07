@@ -1,225 +1,582 @@
 Domena		Eukarionty
-Kr�lestwo		Zwierz�ta
+Królestwo		Zwierzęta
 Typ		Strunowce
-Podtyp		Kr�gowce
+Podtyp		Kręgowce
 Gromada		Ssaki
-Podgromada	�yworodne
-Infragromada	�o�yskowce
+Podgromada	Żyworodne
+Infragromada	Łożyskowce
 
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Rz�d	Nietoperze
+Rząd	Nietoperze
 
 
-Podrz�d	Pteropodiformes - rudawkokszta�tne
+Podrząd	Pteropodiformes - rudawkokształtne
 
-	Rodzina 	Pteropodidae � rudawkowate
+	Rodzina 	Pteropodidae – rudawkowate							https://pl.wikipedia.org/wiki/Rudawkowate
 
-			Rodzaj	Acerodon � acerodon						https://pl.wikipedia.org/wiki/Acerodon
+		Rodzaj	Acerodon – acerodon						https://pl.wikipedia.org/wiki/Acerodon
 
-				Gatunek	Acerodon celebensis � acerodon sulaweski
-					Acerodon humilis � acerodon s�aby
-					Acerodon jubatus � acerodon grzywiasty			https://pl.wikipedia.org/wiki/Acerodon_grzywiasty
-					Acerodon leucotis � acerodon palawa�ski
-					Acerodon mackloti � acerodon sundajski
+			Gatunek	Acerodon celebensis – acerodon sulaweski
+				Acerodon humilis – acerodon słaby
+				Acerodon jubatus – acerodon grzywiasty			https://pl.wikipedia.org/wiki/Acerodon_grzywiasty
+				Acerodon leucotis – acerodon palawański
+				Acerodon mackloti – acerodon sundajski
 
-				Aethalops � owocnik						https://pl.wikipedia.org/wiki/Owocnik_(rodzaj_ssaka)
+		Rodzaj	Aethalops – owocnik						https://pl.wikipedia.org/wiki/Owocnik_(rodzaj_ssaka)
 
-					Aethalops aequalis � owocnik bornea�ski
-					Aethalops alecto � owocnik kar�owaty
+				Aethalops aequalis – owocnik borneański
+				Aethalops alecto – owocnik karłowaty
 
-				Alionycteris � owoco�erek
+		Rodzaj	Alionycteris – owocożerek
 
-					Alionycteris paucidentata � owoco�erek go�onosy
+				Alionycteris paucidentata – owocożerek gołonosy
 
-				Aproteles � owocojadek
+		Rodzaj	Aproteles – owocojadek
 
-					Aproteles bulmerae � owocojadek jaskiniowy
+				Aproteles bulmerae – owocojadek jaskiniowy
 
-				Balionycteris � skrzyd�oplamek
+		Rodzaj	Balionycteris – skrzydłoplamek
 
-					Balionycteris maculata � skrzyd�oplamek kar�owaty
+				Balionycteris maculata – skrzydłoplamek karłowaty
 
-				Casinycteris � moczarowiec
+		Rodzaj	Casinycteris – moczarowiec
 
-					Casinycteris argynnis � moczarowiec afryka�ski
+				Casinycteris argynnis – moczarowiec afrykański
 
-				Chironax � czapecznik
+		Rodzaj	Chironax – czapecznik
 
-					 Chironax melanocephalus � czapecznik owoco�erny
+				 Chironax melanocephalus – czapecznik owocożerny
 
-				Cynopterus � kr�tkonosek					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
+		Rodzaj	Cynopterus – krótkonosek					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
 
-					Cynopterus brachyotis � kr�tkonosek kr�tkouchy
-					Cynopterus horsfieldii � kr�tkonosek sundajski
-					Cynopterus luzoniensis � kr�tkonosek uprawowy
-					Cynopterus minutus � kr�tkonosek drobny
-					Cynopterus nusatenggara � kr�tkonosek wyspowy
-					Cynopterus sphinx � kr�tkonosek sfinksowy		https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
-					Cynopterus titthaecheilus � kr�tkonosek indonezyjski
+				Cynopterus brachyotis – krótkonosek krótkouchy
+				Cynopterus horsfieldii – krótkonosek sundajski
+				Cynopterus luzoniensis – krótkonosek uprawowy
+				Cynopterus minutus – krótkonosek drobny
+				Cynopterus nusatenggara – krótkonosek wyspowy
+				Cynopterus sphinx – krótkonosek sfinksowy		https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
+				Cynopterus titthaecheilus – krótkonosek indonezyjski
 
-				Desmalopex � rudawnik					https://pl.wikipedia.org/wiki/Rudawnik
+		Rodzaj	Desmalopex – rudawnik					https://pl.wikipedia.org/wiki/Rudawnik
 
-					Desmalopex leucopterus � rudawnik bia�oskrzyd�y
-					Desmalopex microleucopterus � rudawnik malutki		https://pl.wikipedia.org/wiki/Rudawnik_malutki
+				Desmalopex leucopterus – rudawnik białoskrzydły
+				Desmalopex microleucopterus – rudawnik malutki		https://pl.wikipedia.org/wiki/Rudawnik_malutki
 
-				Dobsonia � go�ogrzbietek					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
+		Rodzaj	Dobsonia – gołogrzbietek					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
 
-					Dobsonia andersoni � go�ogrzbietek archipelagowy
-					Dobsonia beauforti � go�ogrzbietek wyspowy
-					Dobsonia chapmani � go�ogrzbietek negroski
-					Dobsonia crenulata � go�ogrzbietek halmaherski
-					Dobsonia emersa � go�ogrzbietek jaksiniowy
-					Dobsonia exoleta � go�ogrzbietek sulaweski
-					Dobsonia inermis � go�ogrzbietek bezbronny
-					Dobsonia magna � go�ogrzbietek du�y
-					Dobsonia minor � go�ogrzbietek ma�y
-					Dobsonia moluccensis � go�ogrzbietek molucki
-					Dobsonia pannietensis � go�ogrzbietek zatokowy
-					Dobsonia peronii � go�ogrzbietek le�ny
-					Dobsonia praedatrix � go�ogrzbietek nowobrytyjski
-					Dobsonia viridis � go�ogrzbietek zielonawy
+				Dobsonia andersoni – gołogrzbietek archipelagowy
+				Dobsonia beauforti – gołogrzbietek wyspowy
+				Dobsonia chapmani – gołogrzbietek negroski
+				Dobsonia crenulata – gołogrzbietek halmaherski
+				Dobsonia emersa – gołogrzbietek jaksiniowy
+				Dobsonia exoleta – gołogrzbietek sulaweski
+				Dobsonia inermis – gołogrzbietek bezbronny
+				Dobsonia magna – gołogrzbietek duży
+				Dobsonia minor – gołogrzbietek mały
+				Dobsonia moluccensis – gołogrzbietek molucki
+				Dobsonia pannietensis – gołogrzbietek zatokowy
+				Dobsonia peronii – gołogrzbietek leśny
+				Dobsonia praedatrix – gołogrzbietek nowobrytyjski
+				Dobsonia viridis – gołogrzbietek zielonawy
 
-				Dyacopterus � dajakolot					https://pl.wikipedia.org/wiki/Dajakolot\
+		Rodzaj	Dyacopterus – dajakolot					https://pl.wikipedia.org/wiki/Dajakolot\
 
-					Dyacopterus brooksi � dajakolot sumatrza�ski
-					Dyacopterus rickarti � dajakolot filipi�ski
-					Dyacopterus spadiceus � dajakolot sundajski
+				Dyacopterus brooksi – dajakolot sumatrzański
+				Dyacopterus rickarti – dajakolot filipiński
+				Dyacopterus spadiceus – dajakolot sundajski
 
-				Eidolon � zjawa						https://pl.wikipedia.org/wiki/Zjawa_(rodzaj_ssaka)
+		Rodzaj	Eidolon – zjawa						https://pl.wikipedia.org/wiki/Zjawa_(rodzaj_ssaka)
 
-					Eidolon dupreanum � zjawa madagaskarska
-					Eidolon helvum � zjawa p�owa				https://pl.wikipedia.org/wiki/Zjawa_p%C5%82owa
+				Eidolon dupreanum – zjawa madagaskarska
+				Eidolon helvum – zjawa płowa				https://pl.wikipedia.org/wiki/Zjawa_p%C5%82owa
 
-				Eonycteris � jutrzenkowiec					https://pl.wikipedia.org/wiki/Jutrzenkowiec
+		Rodzaj	Eonycteris – jutrzenkowiec					https://pl.wikipedia.org/wiki/Jutrzenkowiec
 
-					Eonycteris major � jutrzenkowiec du�y
-					Eonycteris robusta � jutrzenkowiec filipi�ski
-					Eonycteris spelaea � jutrzenkowiec jaskiniowy
+				Eonycteris major – jutrzenkowiec duży
+				Eonycteris robusta – jutrzenkowiec filipiński
+				Eonycteris spelaea – jutrzenkowiec jaskiniowy
 
-				Epomophorus � pagonowiec					https://pl.wikipedia.org/wiki/Pagonowiec
+		Rodzaj	Epomophorus – pagonowiec					https://pl.wikipedia.org/wiki/Pagonowiec
 
-					Epomophorus angolensis � pagonowiec angola�ski
-					Epomophorus anselli � pagonowiec malawski
-					Epomophorus crypturus � pagonowiec mozambicki
-					Epomophorus gambianus � pagonowiec gambijski
-					Epomophorus grandis � pagonowiec samotny
-					Epomophorus labiatus � pagonowiec etiopski
-					Epomophorus minimus � pagonowiec malutki
-					Epomophorus minor � pagonowiec ma�y
-					Epomophorus wahlbergi � pagonowiec baobabowy
+				Epomophorus angolensis – pagonowiec angolański
+				Epomophorus anselli – pagonowiec malawski
+				Epomophorus crypturus – pagonowiec mozambicki
+				Epomophorus gambianus – pagonowiec gambijski
+				Epomophorus grandis – pagonowiec samotny
+				Epomophorus labiatus – pagonowiec etiopski
+				Epomophorus minimus – pagonowiec malutki
+				Epomophorus minor – pagonowiec mały
+				Epomophorus wahlbergi – pagonowiec baobabowy
 
-				Epomops � epoletnik						https://pl.wikipedia.org/wiki/Epoletnik
+		Rodzaj	Epomops – epoletnik						https://pl.wikipedia.org/wiki/Epoletnik
 
-					Epomops buettikoferi � epoletnik gwinejski
-					Epomops dobsonii � epoletnik �piewaj�cy
-					Epomops franqueti � epoletnik afryka�ski			https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
+				Epomops buettikoferi – epoletnik gwinejski
+				Epomops dobsonii – epoletnik śpiewający
+				Epomops franqueti – epoletnik afrykański			https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
 
-				Haplonycteris � d�ugopalczyk
+		Rodzaj	Haplonycteris – długopalczyk
 
-					Haplonycteris fischeri � d�ugopalczyk filipi�ski
+				Haplonycteris fischeri – długopalczyk filipiński
 
-				Harpyionycteris � harpiolot					https://pl.wikipedia.org/wiki/Harpiolot
+		Rodzaj	Harpyionycteris – harpiolot					https://pl.wikipedia.org/wiki/Harpiolot
 
-					Harpyionycteris celebensis � harpiolot sulaweski
-					Harpyionycteris whiteheadi � harpiolot filipi�ski		https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
+				Harpyionycteris celebensis – harpiolot sulaweski
+				Harpyionycteris whiteheadi – harpiolot filipiński		https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
 
-				Hypsignathus � m�otog��w
+		Rodzaj	Hypsignathus – młotogłów
 
-					Hypsignathus monstrosus � m�otog��w wielkog�owy		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
+				Hypsignathus monstrosus – młotogłów wielkogłowy		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
 
-				Latidens � tamilolot
+		Rodzaj	Latidens – tamilolot
 
-					Latidens salimalii � tamilolot jaskiniowy
+				Latidens salimalii – tamilolot jaskiniowy
 
-				Lissonycteris � owocolot
+		Rodzaj	Lissonycteris – owocolot
 
-					Lissonycteris angolensis � owocolot afryka�ski
+				Lissonycteris angolensis – owocolot afrykański
 
-				Macroglossus � j�zycznik					https://pl.wikipedia.org/wiki/J%C4%99zycznik_(rodzaj_ssaka)
+		Rodzaj	Macroglossus – języcznik					https://pl.wikipedia.org/wiki/J%C4%99zycznik_(rodzaj_ssaka)
 
-					Macroglossus minimus � j�zycznik malutki		https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
-					Macroglossus sabrinus � j�zycznik wi�kszy
+				Macroglossus minimus – języcznik malutki		https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
+				Macroglossus sabrinus – języcznik większy
 
-				Megaerops � bezogoniec					https://pl.wikipedia.org/wiki/Bezogoniec
+		Rodzaj	Megaerops – bezogoniec					https://pl.wikipedia.org/wiki/Bezogoniec
 
-					Megaerops ecaudatus � bezogoniec sundajski
-					Megaerops kusnotoi � bezogoniec jawajski
-					Megaerops niphanae � bezogoniec indochi�ski
-					Megaerops wetmorei � bezogoniec obro�ny
+				Megaerops ecaudatus – bezogoniec sundajski
+				Megaerops kusnotoi – bezogoniec jawajski
+				Megaerops niphanae – bezogoniec indochiński
+				Megaerops wetmorei – bezogoniec obrożny
 
-				Megaloglossus � ozornik
+		Rodzaj	Megaloglossus – ozornik
 
-					Megaloglossus woermanni � ozornik afryka�ski
+				Megaloglossus woermanni – ozornik afrykański
 
-				Melonycteris � solomonowiec					https://pl.wikipedia.org/wiki/Solomonowiec
+		Rodzaj	Melonycteris – solomonowiec					https://pl.wikipedia.org/wiki/Solomonowiec
 
-					Melonycteris melanops � solomonowiec czarnobrzuchy
-					Melonycteris fardoulisi � solomonowiec kwiatowy
-					Melonycteris woodfordi � solomonowiec drzewny
+				Melonycteris melanops – solomonowiec czarnobrzuchy
+				Melonycteris fardoulisi – solomonowiec kwiatowy
+				Melonycteris woodfordi – solomonowiec drzewny
 
-				Micropteropus � epoletniczek					https://pl.wikipedia.org/wiki/Epoletniczek
+		Rodzaj	Micropteropus – epoletniczek					https://pl.wikipedia.org/wiki/Epoletniczek
 
-					Micropteropus intermedius � epoletniczek wi�kszy
-					Micropteropus pusillus � epoletniczek drobny
+				Micropteropus intermedius – epoletniczek większy
+				Micropteropus pusillus – epoletniczek drobny
 
-				Mirimiri � ma�pionosek
+		Rodzaj	Mirimiri – małpionosek
 
-					Mirimiri acrodonta � ma�pionosek fid�ijski
+				Mirimiri acrodonta – małpionosek fidżijski
 
-				Myonycteris � myszolot					https://pl.wikipedia.org/wiki/Myszolot
+		Rodzaj	Myonycteris – myszolot					https://pl.wikipedia.org/wiki/Myszolot
 
-					Myonycteris brachycephala � myszolot wyspowy
-					Myonycteris relicta � myszolot reliktowy
-					Myonycteris torquata � myszolot obro�ny
+				Myonycteris brachycephala – myszolot wyspowy
+				Myonycteris relicta – myszolot reliktowy
+				Myonycteris torquata – myszolot obrożny
 
-				Nanonycteris � drobnolot
+		Rodzaj	Nanonycteris – drobnolot
 
-					Nanonycteris veldkampii � drobnolot afryka�ski
+				Nanonycteris veldkampii – drobnolot afrykański
 
-				Neopteryx � owocniczek
+		Rodzaj	Neopteryx – owocniczek
 
-					Neopteryx frosti � owocniczek drobnoz�bny
+				Neopteryx frosti – owocniczek drobnozębny
 
-				Notopteris � ogoniec
-				Nyctimene � rurkonos
-				Otopteropus � luza�czyk
-				Paranyctimene � rurkonosek
-				Penthetor � psolotek
-				Plerotes � rudawnica
-				Ptenochirus � pi�molot
-				Pteralopex � skrzyd�olis
-				Pteropus � rudawka
-				Rousettus � rudawiec
-				Scotonycteris � r�wnikowiec
-				Sphaerias � kulecznik
-				Styloctenium � pr��koliczek
-				Syconycteris � p�dzelnik
-				Thoopterus � bystrolot
+		Rodzaj	Notopteris – ogoniec						https://pl.wikipedia.org/wiki/Ogoniec
 
+				Notopteris macdonaldi – ogoniec polinezyjski
+				Notopteris neocaledonica – ogoniec nowokaledoński
 
+		Rodzaj	Nyctimene – rurkonos					https://pl.wikipedia.org/wiki/Rurkonos
 
-		Rhinolophidae � podkowcowate
-		Hipposideridae � p�atkonosowate
-		Rhinonycteridae � rogonosowate
-		Megadermatidae � lironosowate
-		Rhinopomatidae � brodawkonosowate
-		Craseonycteridae � �winionosowate
+				Nyctimene aello – rurkonos szerokopaskowany
+				Nyctimene albiventer – rurkonos papuaski
+				Nyctimene cephalotes – rurkonos sulaweski
+				Nyctimene certans – rurkonos górski
+				Nyctimene cyclotis – rurkonos okrągłouchy		https://pl.wikipedia.org/wiki/Rurkonos_okr%C4%85g%C5%82ouchy
+				Nyctimene draconilla – rurkonos smoczy
+				Nyctimene keasti – rurkonos molucki
+				Nyctimene major – rurkonos wyspowy			https://pl.wikipedia.org/wiki/Rurkonos_wyspowy
+				Nyctimene malaitensis – rurkonos salomoński
+				Nyctimene masalai – rurkonos demoniczny
+				Nyctimene minutus – rurkonos mały
+				Nyctimene rabori – rurkonos filipiński
+				Nyctimene robinsoni – rurkonos żółtoplamy
+				Nyctimene sanctacrucis – rurkonos samotny
+				Nyctimene vizcaccia – rurkonos archipelagowy
+
+		Rodzaj	Otopteropus – luzańczyk
+
+				Otopteropus cartilagonodus – luzańczyk dżunglowy
+
+		Rodzaj	Paranyctimene – rurkonosek					https://pl.wikipedia.org/wiki/Rurkonosek
+
+				Paranyctimene raptor – rurkonosek jednobarwny
+				Paranyctimene tenax – rurkonosek uparty
+
+		Rodzaj	Penthetor – psolotek
+
+				Penthetor lucasi – psolotek ciemny
+
+		Rodzaj	Plerotes – rudawnica
+
+				Plerotes anchietae – rudawnica afrykańska
+
+		Rodzaj	Ptenochirus – piżmolot					https://pl.wikipedia.org/wiki/Pi%C5%BCmolot
+
+				Ptenochirus jegori – piżmolot duży
+				Ptenochirus minor – piżmolot mały
+
+		Rodzaj	Pteralopex – skrzydłolis					https://pl.wikipedia.org/wiki/Skrzyd%C5%82olis
+
+				Pteralopex anceps – skrzydłolis żółtobrzuchy
+				Pteralopex atrata – skrzydłolis sierpozębny
+				Pteralopex flanneryi – skrzydłolis samotny
+				Pteralopex pulchra – skrzydłolis górski
+				Pteralopex taki – skrzydłolis dziuplowy
 
-	Vespertilioniformes - mroczkokszta�tne
+		Rodzaj	Pteropus – rudawka						https://pl.wikipedia.org/wiki/Rudawka_(rodzaj_ssaka)
 
-		Emballonuridae � upiorowate
-		Nycteridae � bruzdonosowate
-		Myzopodidae � ssawkonogowate
-		Mystacinidae � w�sonosowate
-		Phyllostomidae � li�cionosowate
-		Mormoopidae � straszakowate
-		Noctilionidae � rybakowate
-		Furipteridae � furiakowate
-		Thyropteridae � przylgowcowate
-		Natalidae � lejkouchowate
-		Molossidae � molosowate
-		Cistugidae � w�osiakowate
-		Vespertilionidae � mroczkowate
-		Miniopteridae � podkasa�cowate
-		
+				Pteropus admiralitatum – rudawka admiralska
+				Pteropus aldabrensis – rudawka aldabrańska
+				Pteropus alecto – rudawka żałobna
+				Pteropus allenorum – rudawka muzealna
+				Pteropus anetianus – rudawka biała
+				Pteropus argentanus – rudawka srebrzysta
+				Pteropus aruensis – rudawka aruańska
+				Pteropus banakrisi – rudawka czarnawa
+				Pteropus brunneus – rudawka ciemna
+				Pteropus caniceps – rudawka popielatogłowa
+				Pteropus capistratus – rudawka maskowa
+				Pteropus chrysoproctus – rudawka molucka
+				Pteropus cognatus – rudawka makirska
+				Pteropus conspicillatus – rudawka okularowa
+				Pteropus coxi – rudawka zapomniana
+				Pteropus dasymallus – rudawka figowa
+				Pteropus faunulus – rudawka nikobarska
+				Pteropus fundatus – rudawka nizinna
+				Pteropus giganteus – rudawka wielka			https://pl.wikipedia.org/wiki/Rudawka_wielka
+				Pteropus gilliardorum – rudawka samotna
+				Pteropus griseus – rudawka szara
+				Pteropus howensis – rudawka atolowa
+				Pteropus hypomelanus – rudawka zmienna
+				Pteropus insularis – rudawka wyspowa
+				Pteropus intermedius – rudawka birmańska
+				Pteropus keyensis – rudawka pustelnicza
+				Pteropus livingstonei – rudawka komorska		https://pl.wikipedia.org/wiki/Rudawka_komorska
+				Pteropus lombocensis – rudawka plantacjowa
+				Pteropus loochoensis – rudawka okinawska
+				Pteropus lylei – rudawka złotoszyja
+				Pteropus macrotis – rudawka wielkoucha
+				Pteropus mahaganus – rudawka mahagańska
+				Pteropus mariannus – rudawka mariańska		https://pl.wikipedia.org/wiki/Rudawka_maria%C5%84ska
+				Pteropus melanopogon – rudawka czarnobroda
+				Pteropus melanotus – rudawka czarnoucha
+				Pteropus molossinus – rudawka mikronezyjska
+				Pteropus neohibernicus – rudawka duża
+				Pteropus niger – rudawka mauritiuska
+				Pteropus nitendiensis – rudawka namorzynowa
+				Pteropus ocularis – rudawka seramska
+				Pteropus ornatus – rudawka ozdobna
+				Pteropus pelewensis – rudawka pelewska
+				Pteropus personatus – rudawka zamaskowana
+				Pteropus pilosus – rudawka owłosiona
+				Pteropus pohlei – rudawka tropikalna
+				Pteropus poliocephalus – rudawka szarogłowa
+				Pteropus pselaphon – rudawka bonińska
+				Pteropus pumilus – rudawka karłowata
+				Pteropus rayneri – rudawka salomońska
+				Pteropus rennelli – rudawka rafowa
+				Pteropus rodricensis – rudawka gromadna
+				Pteropus rufus – rudawka madagaskarska
+				Pteropus samoensis – rudawka samoańska
+				Pteropus scapulatus – rudawka eukaliptusowa
+				Pteropus seychellensis – rudawka seszelska
+				Pteropus speciosus – rudawka piękna
+				Pteropus subniger – rudawka maskareńska
+				Pteropus temminckii – rudawka okazała
+				Pteropus tokudae – rudawka guamska			https://pl.wikipedia.org/wiki/Rudawka_guamska
+				Pteropus tonganus – rudawka pacyficzna
+				Pteropus tuberculatus – rudawka eremicka
+				Pteropus ualanus – rudawka nadbrzeżna
+				Pteropus vampyrus – rudawka malajska			https://pl.wikipedia.org/wiki/Rudawka_malajska
+				Pteropus vetulus – rudawka nowokaledońska
+				Pteropus voeltzkowi – rudawka pembańska
+				Pteropus woodfordi – rudawka najmniejsza
+				Pteropus yapensis – rudawka karolińska
+
+		Rodzaj	Rousettus – rudawiec						https://pl.wikipedia.org/wiki/Rudawiec_(rodzaj_ssaka)
+
+				Rousettus aegyptiacus – rudawiec nilowy			https://pl.wikipedia.org/wiki/Rudawiec_nilowy
+				Rousettus amplexicaudatus – rudawiec sundajski
+				Rousettus bidens – rudawiec jaskiniowy
+				Rousettus celebensis – rudawiec sulaweski
+				Rousettus lanosus – rudawiec długowłosy
+				Rousettus leschenaulti – rudawiec orientalny
+				Rousettus linduensis – rudawiec bagienny
+				Rousettus madagascariensis – rudawiec malgaski
+				Rousettus obliviosus – rudawiec komorski
+				Rousettus spinalatus – rudawiec nagogrzbiety
+
+		Rodzaj	Scotonycteris – równikowiec					https://pl.wikipedia.org/wiki/R%C3%B3wnikowiec
+
+				Scotonycteris ophiodon – równikowiec łzawy
+				Scotonycteris zenkeri – równikowiec nektarowy
+
+		Rodzaj	Sphaerias – kulecznik
+
+				Sphaerias blanfordi – kulecznik górski
+
+		Rodzaj	Styloctenium – prążkoliczek					https://pl.wikipedia.org/wiki/Pr%C4%85%C5%BCkoliczek
+
+				Styloctenium mindorensis – prążkoliczek mindorski
+				Styloctenium wallacei – prążkoliczek sulaweski
+
+		Rodzaj	Syconycteris – pędzelnik					https://pl.wikipedia.org/wiki/P%C4%99dzelnik
+
+				Syconycteris australis – pędzelnik australijski		https://pl.wikipedia.org/wiki/P%C4%99dzelnik_australijski
+				Syconycteris carolinae – pędzelnik halmeherski
+				Syconycteris hobbit – pędzelnik kosmatonogi
+
+		Rodzaj	Thoopterus – bystrolot					https://pl.wikipedia.org/wiki/Bystrolot
+
+				Thoopterus nigrescens – bystrolot ciemny
+				Thoopterus suhaniahae – bystrolot leśny
+
+
+
+	Rodzina 	Rhinolophidae – podkowcowate						https://pl.wikipedia.org/wiki/Podkowcowate
+
+		Rodzaj	Rhinolophus - podkowiec
+
+			Gatunek	Rhinolophus acuminatus – podkowiec spiczasty
+				Rhinolophus adami – podkowiec samotny
+				Rhinolophus affinis – podkowiec pośredni
+				Rhinolophus alcyone – podkowiec łagodny
+				Rhinolophus arcuatus – podkowiec łukowaty
+				Rhinolophus beddomei – podkowiec tamilski
+				Rhinolophus blasii – podkowiec południowy
+				Rhinolophus bocharicus – podkowiec bucharski
+				Rhinolophus borneensis – podkowiec borneański
+				Rhinolophus canuti – podkowiec jawajski
+				Rhinolophus capensis – podkowiec przylądkowy
+				Rhinolophus celebensis – podkowiec sulaweski
+				Rhinolophus chiewkweeae – podkowiec złotawy
+				Rhinolophus clivosus – podkowiec pagórkowaty
+				Rhinolophus coelophyllus – podkowiec birmański
+				Rhinolophus cognatus – podkowiec andamański
+				Rhinolophus cohenae – podkowiec południowoafrykański
+				Rhinolophus convexus – podkowiec wypukły
+				Rhinolophus cornutus – podkowiec rogaty
+				Rhinolophus creaghi – podkowiec sundajski
+				Rhinolophus darlingi – podkowiec rodezyjski
+				Rhinolophus deckenii – podkowiec tanzański
+				Rhinolophus denti – podkowiec sawannowy
+				Rhinolophus eloquens – podkowiec wymowny
+				Rhinolophus euryale – podkowiec śródziemnomorski			https://pl.wikipedia.org/wiki/Podkowiec_%C5%9Br%C3%B3dziemnomorski
+				Rhinolophus euryotis – podkowiec szerokouchy
+				Rhinolophus ferrumequinum – podkowiec duży			https://pl.wikipedia.org/wiki/Podkowiec_du%C5%BCy
+				Rhinolophus formosae – podkowiec tajwański
+				Rhinolophus fumigatus – podkowiec subsaharyjski
+				Rhinolophus guineensis – podkowiec gwinejski
+				Rhinolophus hildebrandtii – podkowiec malawski
+				Rhinolophus hilli – podkowiec rwandyjski
+				Rhinolophus hillorum – podkowiec wyżynny
+				Rhinolophus hipposideros – podkowiec mały			https://pl.wikipedia.org/wiki/Podkowiec_ma%C5%82y
+				Rhinolophus huananus – podkowiec tajemniczy
+				Rhinolophus imaizumii – podkowiec riukiuski
+				Rhinolophus inops – podkowiec mindanajski
+				Rhinolophus kahuzi – podkowiec kongijski
+				Rhinolophus keyensis – podkowiec indonezyjski
+				Rhinolophus landeri – podkowiec tropikalny
+				Rhinolophus lepidus – podkowiec gładki
+				Rhinolophus luctus – podkowiec wełnisty
+				Rhinolophus mabuensis – podkowiec mabuański
+				Rhinolophus maclaudi – podkowiec galeriowy
+				Rhinolophus macrotis – podkowiec wielkouchy
+				Rhinolophus madurensis – podkowiec wyspowy
+				Rhinolophus maendeleo – podkowiec unikatowy
+				Rhinolophus malayanus – podkowiec malajski
+				Rhinolophus marshalli – podkowiec indochiński
+				Rhinolophus megaphyllus – podkowiec wschodni
+				Rhinolophus mehelyi – podkowiec średni
+				Rhinolophus mitratus – podkowiec mitrowy
+				Rhinolophus monoceros – podkowiec jednorogi
+				Rhinolophus montanus – podkowiec górski
+				Rhinolophus mossambicus – podkowiec mozambicki
+				Rhinolophus nereis – podkowiec izolowany
+				Rhinolophus osgoodi – podkowiec dalijski
+				Rhinolophus paradoxolophus – podkowiec dziwnoczuby
+				Rhinolophus pearsonii – podkowiec wietnamski
+				Rhinolophus philippinensis – podkowiec filipiński			https://pl.wikipedia.org/wiki/Podkowiec_filipi%C5%84ski
+				Rhinolophus pusillus – podkowiec drobny
+				Rhinolophus rex – podkowiec królewski
+				Rhinolophus robinsoni – podkowiec półwyspowy
+				Rhinolophus rouxii – podkowiec rudy
+				Rhinolophus rufus – podkowiec rudowłosy
+				Rhinolophus ruwenzorii – podkowiec ruwenzorski
+				Rhinolophus sakejiensis – podkowiec zambijski
+				Rhinolophus schnitzleri – podkowiec junnański
+				Rhinolophus sedulus – podkowiec sarawaski
+				Rhinolophus shameli – podkowiec laotański
+				Rhinolophus shortridgei – podkowiec mjanmarski
+				Rhinolophus siamensis – podkowiec tajski
+				Rhinolophus silvestris – podkowiec leśny
+				Rhinolophus simulator – podkowiec jaskiniowy
+				Rhinolophus sinicus – podkowiec chiński
+				Rhinolophus smithersi – podkowiec czujny
+				Rhinolophus stheno – podkowiec brunatny
+				Rhinolophus subbadius – podkowiec nepalski
+				Rhinolophus subrufus – podkowiec ryży
+				Rhinolophus swinnyi – podkowiec deszczowy
+				Rhinolophus thailandensis – podkowiec orientalny
+				Rhinolophus thomasi – podkowiec piaskowcowy
+				Rhinolophus trifoliatus – podkowiec trójlistny
+				Rhinolophus willardi – podkowiec ryftowy
+				Rhinolophus xinanzhongguoensis – podkowiec skryty
+				Rhinolophus yunanensis – podkowiec bambusowy
+				Rhinolophus ziama – podkowiec liberyjski
+
+	Rodzina 	Hipposideridae – płatkonosowate							https://pl.wikipedia.org/wiki/P%C5%82atkonosowate
+
+		Rodzaj	Anthops – kwiatonos
+
+			Gatunek	Anthops ornatus – kwiatonos salomoński					https://pl.wikipedia.org/wiki/Kwiatonos_salomo%C5%84ski
+
+			Asellia – grzebieniec								https://pl.wikipedia.org/wiki/Grzebieniec_(rodzaj_ssaka)
+
+				Asellia arabica – grzebieniec arabski
+				Asellia patrizii – grzebieniec liścionosy
+				Asellia tridens – grzebieniec palmowy					https://pl.wikipedia.org/wiki/Grzebieniec_palmowy
+
+			Aselliscus – grzebieńczyk							https://pl.wikipedia.org/wiki/Grzebie%C5%84czyk
+
+				Aselliscus stoliczkanus – grzebieńczyk azjatycki
+				Aselliscus tricuspidatus – grzebieńczyk wyspowy
+
+			Hipposideros – płatkonos							https://pl.wikipedia.org/wiki/P%C5%82atkonos
+
+				Hipposideros abae – płatkonos tropikalny
+				Hipposideros armiger – płatkonos zbrojny
+				Hipposideros ater – płatkonos ciemmny
+				Hipposideros beatus – płatkonos wspaniały
+				Hipposideros bicolor – płatkonos dwubarwny
+				Hipposideros boeadii – płatkonos mniejszy
+				Hipposideros breviceps – płatkonos krótkogłowy
+				Hipposideros caffer – płatkonos kafryjski
+				Hipposideros calcaratus – płatkonos ostrogowy
+				Hipposideros camerunensis – płatkonos kameruński
+				Hipposideros cervinus – płatkonos płowy
+				Hipposideros cineraceus – płatkonos popielaty
+				Hipposideros commersoni – płatkonos duży
+				Hipposideros coronatus – płatkonos zwieńczony
+				Hipposideros corynophyllus – płatkonos samotny
+				Hipposideros coxi – płatkonos pustelniczy
+				Hipposideros crumeniferus – płatkonos timorski
+				Hipposideros curtus – płatkonos kusy
+				Hipposideros cyclops – płatkonos cyklopi
+				Hipposideros demissus – płatkonos wyspowy
+				Hipposideros diadema – płatkonos diademowy				https://pl.wikipedia.org/wiki/P%C5%82atkonos_diademowy
+				Hipposideros dinops – płatkonos dziki
+				Hipposideros doriae – płatkonos sundajski
+				Hipposideros durgadasi – płatkonos skryty
+				Hipposideros dyacorum – płatkonos dajacki
+				Hipposideros edwardshilli – płatkonos papuaski
+				Hipposideros einnaythu – płatkonos domowy
+				Hipposideros fuliginosus – płatkonos okopcony
+				Hipposideros fulvus – płatkonos brunatny
+				Hipposideros galeritus – płatkonos orientalny
+				Hipposideros gigas – płatkonos olbrzymi
+				Hipposideros grandis – płatkonos wielki
+				Hipposideros griffini – płatkonos wietnamski
+				Hipposideros halophyllus – płatkonos tajski
+				Hipposideros hypophyllus – płatkonos podliściowy
+				Hipposideros inexpectatus – płatkonos grzebieniasty
+				Hipposideros inornatus – płatkonos skromny
+				Hipposideros jonesi – płatkonos jaskiniowy
+				Hipposideros khaokhouayensis – płatkonos laotański
+				Hipposideros khasiana – płatkonos górski
+				Hipposideros lamottei – płatkonos pieczarowy
+				Hipposideros lankadiva – płatkonos hinduski
+				Hipposideros larvatus – płatkonos pośredni
+				Hipposideros lekaguli – płatkonos piaskowcowy
+				Hipposideros lylei – płatkonos tarczolicy
+				Hipposideros macrobullatus – płatkonos wielkouchy
+				Hipposideros madurae – płatkonos jawajski
+				Hipposideros maggietaylorae – płatkonos żarłoczny
+				Hipposideros marisae – płatkonos tajemniczy
+				Hipposideros magalotis – płatkonos uszaty
+				Hipposideros muscinus – płatkonos nizinny
+				Hipposideros nequam – płatkonos unikatowy
+				Hipposideros obscurus – płatkonos filipiński
+				Hipposideros orbiculus – płatkonos okrągłolistny
+				Hipposideros papua – płatkonos halmaherski
+				Hipposideros polingensis – płatkonos pelengański
+				Hipposideros pomona – płatkonos zwyczajny
+				Hipposideros pratti – płatkonos chiński
+				Hipposideros pygmaeus – płatkonos karłowaty
+				Hipposideros ridleyi – płatkonos singapurski
+				Hipposideros rotalis – płatkonos ukryty
+				Hipposideros ruber – płatkonos afrykański
+				Hipposideros scutinares – płatkonos tarczonosy
+				Hipposideros semoni – płatkonos brodawkonosy
+				Hipposideros sorenseni – płatkonos towarzyski
+				Hipposideros speoris – płatkonos dekański
+				Hipposideros stenotis – płatkonos wąskouchy
+				Hipposideros sumbae – płatkonos sumbajski
+				Hipposideros tephrus – płatkonos sahelski
+				Hipposideros thomensis – płatkonos lawowy
+				Hipposideros turpis – płatkonos drobny
+				Hipposideros vittatus – płatkonos prążkowany
+				Hipposideros wollastoni – płatkonos nowogwinejski
+
+		Rodzaj	Paracoelops
+
+			Gatunek	Paracoelops megalotis
+
+	Rodzina 	Rhinonycteridae – rogonosowate							https://pl.wikipedia.org/wiki/Rogonosowate
+
+		Rodzaj	Cloeotis – krótkouszek
+
+				Cloeotis percivali – krótkouszek afrykański
+
+			Coelops – bezogończyk							https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk
+
+				Coelops frithii – bezogończyk krągłouchy					https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk_kr%C4%85g%C5%82ouchy
+				Coelops robinsoni – bezogończyk malajski
+
+			Rhinonicteris – rogonos
+
+				Rhinonicteris aurantia – rogonos pomarańczowy
+
+			Paratriaenops – pseudotrójpłatnik						https://pl.wikipedia.org/wiki/Pseudotr%C3%B3jp%C5%82atnik
+
+				Paratriaenops auritus – pseudotrójpłatnik złotawy
+				Paratriaenops furculus – pseudotrójpłatnik malgaski
+				Paratriaenops pauliani – pseudotrójpłatnik aldabarski
+
+			Triaenops – trójpłatnik							https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik
+
+				Triaenops afer – trójpłatnik afrykański
+				Triaenops menamena – trójpłatnik madagaskarski
+				Triaenops parvus – trójpłatnik jemeński
+				Triaenops persicus – trójpłatnik perski					https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik_perski
+				Triaenops rufus – trójpłatnik rudy
+
+	Rodzina 	Megadermatidae – lironosowate
+
+		Rodzaj	Cardioderma – serconos
+
+				Cardioderma cor – serconos afrykański					https://pl.wikipedia.org/wiki/Serconos_afryka%C5%84ski
+
+			Lavia – lawia
+
+				Lavia frons – lawia żółtoskrzydła					https://pl.wikipedia.org/wiki/Lawia_%C5%BC%C3%B3%C5%82toskrzyd%C5%82a
+
+			Macroderma – dusznik
+
+				Macroderma gigas – dusznik australijski					https://pl.wikipedia.org/wiki/Dusznik_australijski
+
+			Megaderma – lironos							https://pl.wikipedia.org/wiki/Lironos
+
+				Megaderma lyra – lironos wielkoskrzydły					https://pl.wikipedia.org/wiki/Lironos_wielkoskrzyd%C5%82y
+				Megaderma spasma – lironos żółtożyłkowany
