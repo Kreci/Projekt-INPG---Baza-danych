@@ -1,0 +1,10 @@
+int nodeNumber(node *root)                                               //Zwraca liczbe wezlow w drzewie
+    {
+        int counter=0;
+        if(root != NULL)
+            {
+                counter++;
+                counter = counter + nodeNumber(root->left) + nodeNumber(root->right);
+            }
+        return counter;
+    }
