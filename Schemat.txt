@@ -580,3 +580,308 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 				Megaderma lyra – lironos wielkoskrzydły					https://pl.wikipedia.org/wiki/Lironos_wielkoskrzyd%C5%82y
 				Megaderma spasma – lironos żółtożyłkowany
+
+	Rodzina 	Rhinopomatidae – brodawkonosowate							https://pl.wikipedia.org/wiki/Brodawkonosowate
+
+		Rodzaj	Rhinopoma – brodawkonos							https://pl.wikipedia.org/wiki/Brodawkonos
+
+				Rhinopoma cystops – brodawkonos afrykański
+				Rhinopoma hadramauticum – brodawkonos jemeński
+				Rhinopoma hardwickii – brodawkonos mały
+				Rhinopoma macinnesi – brodawkonos pustynny
+				Rhinopoma microphyllum – brodawkonos duży				https://pl.wikipedia.org/wiki/Brodawkonos_du%C5%BCy
+				Rhinopoma muscatellum – brodawkonos drobny
+
+		Rodzaj	Qarunycteris
+
+				Qarunycteris moerisae
+
+		Rodzaj	Corbarhina
+
+				Corbarhina handae
+
+	Rodzina 	Craseonycteridae – świnionosowate
+
+		Rodzaj	Craseonycterid - świnionos
+
+				Craseonycteris thonglongyai - świnionos malutki				https://pl.wikipedia.org/wiki/%C5%9Awinionos_malutki
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org/wiki/Mroczkokszta%C5%82tne
+
+	Rodzina 	Emballonuridae – upiorowate								https://pl.wikipedia.org/wiki/Upiorowate
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	Podrodzina	Taphozoinae – grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
+CZEMU JEST PODRODZINA
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	Rodzaj	Saccolaimus – sakiewnik
+
+				Gatunek	Saccolaimus flaviventris – sakiewnik żółtobrzuchy
+					Saccolaimus mixtus – sakiewnik papuaski
+					Saccolaimus peli – sakiewnik afrykański
+					Saccolaimus saccolaimus – sakiewnik nagozady
+
+			Rodzaj	Taphozous – grobownik
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!		Podrodzaj	Taphozous
+PODRODZAJ
+					Gatunek	Taphozous achates – grobownik nizinny
+						Taphozous australis – grobownik wydmowy
+						Taphozous georgianus – grobownik ostronosy
+						Tophozous hildegardeae – grobownik nadmorski
+						Taphozous hilli – grobownik pustynny
+						Taphozous kapalgensis – grobownik namorzynowy
+						Taphozous longimanus – grobownik długoskrzydły			https://pl.wikipedia.org/wiki/Grobownik_d%C5%82ugoskrzyd%C5%82y
+						Taphozous mauritianus – grobownik mauretański
+						Taphozous melanopogon – grobownik czarnobrody
+						Taphozous perforatus – grobownik sawannowy
+						Taphozous theobaldi – grobownik dżunglowy
+						Taphozous troughtoni – grobownik skalny
+				Podrodzaj	Liponycteris
+						Taphozous hamiltoni – grobownik skryty
+						Taphozous nudiventris – grobownik gołobrzuchy
+
+		PodrodzinaEmballonurinae – upiory								https://pl.wikipedia.org/wiki/Upiory_(podrodzina_ssak%C3%B3w)
+
+			Rodzaj	Balantiopteryx – worecznik							https://pl.wikipedia.org/wiki/Worecznik
+
+				Gatunek	Balantiopteryx infusca – worecznik ekwadorski
+					Balantiopteryx io – worecznik meksykański
+					Balantiopteryx plicata – worecznik szary
+
+				Centronycteris – kudłatek							https://pl.wikipedia.org/wiki/Kud%C5%82atek
+
+					Centronycteris centralis – kudłatek powolny
+					Centronycteris maximiliani – kudłatek dziuplowy
+
+				Coleura – pochewnik								https://pl.wikipedia.org/wiki/Pochewnik
+
+					Coleura afra – pochewnik afrykański
+					Coleura kibomalandy – pochewnik madagaskarski
+					Coleura seychellensis – pochewnik seszelski
+
+				Cormura – kasztanik
+
+					Cormura brevirostris – kasztanik krótkopyski
+
+				Cyttarops – małousznik
+
+					Cyttarops alecto – małousznik amerykański
+
+			Rodzaj	Diclidurus – duszek								https://pl.wikipedia.org/wiki/Duszek_(rodzaj_ssaka)
+
+				Podrodzaj	Diclidurus
+						Diclidurus albus – duszek biały					https://pl.wikipedia.org/wiki/Duszek_bia%C5%82y
+						Diclidurus ingens – duszek duży
+						Diclidurus scutatus – duszek tarczowy
+				Podrodzaj	Depanycteris
+						Diclidurus isabellus – duszek wilgotny				https://pl.wikipedia.org/wiki/Duszek_wilgotny
+
+			Rodzaj	Emballonura – upiór
+
+				Gatunek	Emballonura alecto – upiór filipiński
+					Emballonura atrata – upiór malgaski
+					Emballonura beccarii – upiór jaskiniowy
+					Emballonura dianae – upiór wielkouchy
+					Emballonura furax – upiór złodziejski
+					Emballonura monticola – upiór górski					https://pl.wikipedia.org/wiki/Upi%C3%B3r_g%C3%B3rski
+					Emballonura raffrayana – upiór papuaski
+					Emballonura semicaudata – upiór pacyficzny
+					Emballonura serii – upiór nowogwinejski
+
+			Rodzaj	Mosia – papuaśnik
+
+				Gatunek	Mosia nigrescens – papuaśnik czarnawy
+
+			Rodzaj	Peropteryx – psinek								https://pl.wikipedia.org/wiki/Psinek
+
+				Podrodzaj	Peropteryx
+
+					Gatunek	Peropteryx pallidoptera – psinek bladoskrzydły
+						Peropteryx kappleri – psinek większy
+						Peropteryx macrotis – psinek mniejszy
+						Peropteryx trinitatis – psinek karaibski
+
+				Podrodzaj	Peronymus
+
+						Peropteryx leucoptera – psinek białoskrzydły
+
+			Rodzaj	Rhynchonycteris – długonosek
+
+					Gatunek	Rhynchonycteris naso – długonosek amerykański			https://pl.wikipedia.org/wiki/D%C5%82ugonosek_ameryka%C5%84ski
+
+			Rodzaj	Saccopteryx – kieszennik							https://pl.wikipedia.org/wiki/Kieszennik
+
+				Gatunek		Saccopteryx antioquensis – kieszennik drobny
+						Saccopteryx bilineata - kieszennik dwupręgi
+						Saccopteryx canescens – kieszennik siwy
+						Saccopteryx gymnura – kieszennik amazoński
+						Saccopteryx leptura – kieszennik cienkoogonowy
+
+	Rodzina 	Nycteridae – bruzdonosowate									https://pl.wikipedia.org/wiki/Bruzdonosowate
+
+			Rodzaj	Nycteris - bruzdonos
+
+				Gatunek	Nycteris arge – bruzdonos równikowy
+					Nycteris aurita – bruzdonos uszaty
+					Nycteris gambiensis – bruzdonos gambijski
+					Nycteris grandis – bruzdonos wielki
+					Nycteris hispida – bruzdonos owłosiony
+					Nycteris intermedia – bruzdonos pośredni
+					Nycteris javanica – bruzdonos jawajski
+					Nycteris macrotis – bruzdonos wielkouchy
+					Nycteris madagascariensis – bruzdonos madagaskarski
+					Nycteris major – bruzdonos duży
+					Nycteris nana – bruzdonos malutki
+					Nycteris parisii – bruzdonos skryty
+					Nycteris thebaica – bruzdonos egipski					https://pl.wikipedia.org/wiki/Bruzdonos_egipski
+					Nycteris tragata – bruzdonos sundajski
+					Nycteris vinsoni – bruzdonos samotny
+					Nycteris woodi – bruzdonos sawannowy
+
+	Rodzina 	Myzopodidae – ssawkonogowate								https://pl.wikipedia.org/wiki/Ssawkonogowate
+
+			Rodzaj	Myzopoda – ssawkonóg							https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g
+
+					Gatunek	Myzopoda aurita – ssawkonóg uszaty				https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_uszaty
+						Myzopoda schliemanni – ssawkonóg skryty			https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_skryty
+						Myzopoda africana
+				Phasmatonycteris			
+
+	Rodzina 	Mystacinidae – wąsonosowate									https://pl.wikipedia.org/wiki/W%C4%85sonosowate
+
+			Rodzaj	Mystacina – wąsonos							https://pl.wikipedia.org/wiki/W%C4%85sonos
+
+					Gatunek	Mystacina robusta – wąsonos większy
+						Mystacina tuberculata – wąsonos mniejszy			https://pl.wikipedia.org/wiki/W%C4%85sonos_mniejszy
+						Mystacina miocenalis
+
+				Icarops
+
+	Rodzina 	Phyllostomidae – liścionosowate								https://pl.wikipedia.org/wiki/Li%C5%9Bcionosowate
+
+		Podrodzina	Desmodontinae – wampiry							https://pl.wikipedia.org/wiki/Wampiry
+
+				Rodzaj	Desmodus – wampir							https://pl.wikipedia.org/wiki/Wampir_(rodzaj_ssaka)
+
+						Garunek	Desmodus rotundus – wampir zwyczajny			https://pl.wikipedia.org/wiki/Wampir_zwyczajny
+							Desmodus draculae – wampir olbrzymi
+
+				Rodzaj	Diaemus – wampirzec
+
+							Diaemus youngi – wampirzec białoskrzydły
+				Rodzaj	Diphylla – wampirek
+
+							wampirek sierścionogi
+
+		Podrodzina	Brachyphyllinae – rękoliście							https://pl.wikipedia.org/wiki/R%C4%99koli%C5%9Bcie
+
+				Rodzaj	Brachyphylla - rękoliść
+
+						Gatunek	Brachyphylla cavernarum – rękoliść jaskiniowy
+							Brachyphylla nana – rękoliść kubański
+
+		Podrodzina	Phyllonycterinae – liścioloty							https://pl.wikipedia.org/wiki/Li%C5%9Bcioloty
+
+				Rodzaj	Erophylla – kwiatojad						https://pl.wikipedia.org/wiki/Kwiatojad
+
+						Gatunek	Erophylla bombifrons – kwiatojad brunatny
+							Erophylla sezekorni – kwiatojad płowy
+
+				Rodzaj	Phyllonycteris – liściolot						https://pl.wikipedia.org/wiki/Li%C5%9Bciolot
+
+					Podrodzaj	Phyllonycteris
+						Gatunek	Phyllonycteris major – liściolot portorykański
+							Phyllonycteris poeyi – liściolot kubański			https://pl.wikipedia.org/wiki/Li%C5%9Bciolot_kuba%C5%84ski
+					Podrodzaj	Reithronycteris
+							Phyllonycteris aphylla – liściolot jamajski
+
+		Podrodzina	Glossophaginae – jęzorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki
+
+			Plemie	Glossophagini – jęzorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki_(plemi%C4%99)
+
+				Rodzaj	Glossophaga – jęzornik						https://pl.wikipedia.org/wiki/J%C4%99zornik
+
+					Gatunek	Glossophaga commissarisi – jęzornik dżunglowy
+						Glossophaga leachii – jęzornik szary
+						Glossophaga longirostris – jęzornik długonosy
+						Glossophaga morenoi – jęzornik zaroślowy
+						Glossophaga soricina – jęzornik ryjówkowaty			https://pl.wikipedia.org/wiki/J%C4%99zornik_ryj%C3%B3wkowaty
+
+				Rodzaj	Leptonycteris – smukłonosek						https://pl.wikipedia.org/wiki/Smuk%C5%82onosek
+
+					Gatunek	Leptonycteris curasoae – smukłonosek kaktusowy
+						Leptonycteris nivalis – smukłonosek duży				https://pl.wikipedia.org/wiki/Smuk%C5%82onosek_du%C5%BCy
+						Leptonycteris yerbabuenae – smukłonosek mały
+
+					Monophyllus – jednopłatek						https://pl.wikipedia.org/wiki/Jednop%C5%82atek
+
+						Monophyllus plethodon – jednopłatek wyspowy
+						Monophyllus redmani – jednopłatek kubański
+
+			Plemie	Choeronycterini – wieprzoryjki							https://pl.wikipedia.org/wiki/Wieprzoryjki
+
+				Rodzaj	Anoura – brakogonek						https://pl.wikipedia.org/wiki/Brakogonek
+
+					Gatunek	Anoura cadenai – brakogonek kordylierski
+						Anoura canishina – brakogonek kolumbijski
+						Anoura caudifer – brakogonek ogoniasty
+						Anoura cultrata – brakogonek naktarowy
+						Anoura fistulata – brakogonek rurkowargi			https://pl.wikipedia.org/wiki/Brakogonek_rurkowargi
+						Anoura geoffroyi – brakogonek dżunglowy
+						Anoura latidens – brakogonek szerokozębny
+						Anoura luismanueli – brakogonek stokowy
+
+				Rodzaj	Choeroniscus – długoryjek						https://pl.wikipedia.org/wiki/D%C5%82ugoryjek
+
+					Gatunek	Choeroniscus godmani – długoryjek dżunglowy
+						Choeroniscus minor – długoryjek mały
+						Choeroniscus periosus – długoryjek duży
+
+				Rodzaj	Choeronycteris – wieprzoryjek
+
+						Choeronycteris mexicana – wieprzoryjek meksykański
+
+				Rodzaj	Dryadonycteris – driadek
+
+						Dryadonycteris capixaba – driadek leśny
+
+				Rodzaj	Hylonycteris – nietopernik
+
+						Hylonycteris underwoodi – nietopernik stokowy
+
+				Rodzaj	Lichonycteris – jęzornicznik
+
+						Lichonycteris obscura – jęzornicznik ciemny
+
+				Rodzaj	Musonycteris – bananówek
+
+						Musonycteris harrisoni – bananówek meksykański
+
+				Rodzaj	Scleronycteris – językowiec
+
+						Scleronycteris ega – językowiec amazoński
+
+			Plemie	Lonchophyllini – nektaroloty
+
+				Rodzaj	Lionycteris – nektaronocek
+
+					Gatunek	Lionycteris spurrelli – nektaronocek kasztanowaty
+
+				Rodzaj	Lonchophylla – nektarolot						https://pl.wikipedia.org/wiki/Nektarolot
+
+					Gatunek	Lonchophylla bokermanni – nektarolot samotny
+						Lonchophylla cadenai – nektarolot kolumbijski
+						Lonchophylla chocoana – nektarolot duży
+						Lonchophylla concava – nektarolot rabujący
+						Lonchophylla dekeyseri – nektarolot stołeczny
+						Lonchophylla fornicata – nektarolot nizinny
+						Lonchophylla handleyi – nektarolot jaskiniowy
+						Lonchophylla hesperia – nektarolot skryty
+						Lonchophylla mordax – nektarolot kąsający
+						Lonchophylla orcesi – nektarolot tajemniczy
+						Lonchophylla orienticollina – nektarolot kordylierski
+						Lonchophylla peracchii – nektarolot leśny
+						Lonchophylla robusta – nektarolot pomarańczowy
+						Lonchophylla thomasi – nektarolot strumieniowy
+
