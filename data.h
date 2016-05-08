@@ -23,5 +23,6 @@ void findMax(node*); 	 // displays last (alpabetically) entry
 int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po galezi
 void findRecord(node*);     //wyszukuje element o zadanej nazwie gatunkowej
 void insertNode(node**);    //wstawia wezel w odpowiednie miejsce w drzewie
+int nodeNumber(node *);     //zwraca ilosc elementow w drzewie
 
 #endif
