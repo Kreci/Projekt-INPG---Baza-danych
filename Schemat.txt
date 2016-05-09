@@ -885,3 +885,282 @@ PODRODZAJ
 						Lonchophylla robusta – nektarolot pomarańczowy
 						Lonchophylla thomasi – nektarolot strumieniowy
 
+
+					Platalina – długopyszczek
+
+						Platalina genovensium – długopyszczek peruwiański
+
+					Xeronycteris – sucholubek
+
+						Xeronycteris vieirai – sucholubek brazylijski
+
+		Podrodzina	Phyllostominae – liścionosy							https://pl.wikipedia.org/wiki/Li%C5%9Bcionosy
+
+				Rodzaj	Chrotopterus – wełnianek
+
+						Chrotopterus auritus – wełnianek uszaty
+
+					Glyphonycteris – uszatek						https://pl.wikipedia.org/wiki/Uszatek
+
+						Glyphonycteris behnii – uszatek skryty
+						Glyphonycteris daviesi – uszatek szaropiersiowy
+						Glyphonycteris sylvestris – uszatek trójbarwny
+
+					Lampronycteris – błyszczek
+
+						Lampronycteris brachyotis – błyszczek żółtoszyi
+
+					Lonchorhina – mieczonos						https://pl.wikipedia.org/wiki/Mieczonos
+
+						Lonchorhina aurita – mieczonos uszaty
+						Lonchorhina fernandezi – mieczonos wenezuelski
+						Lonchorhina inusitata – mieczonos niezwykły
+						Lonchorhina marinkellei – mieczonos skryty
+						Lonchorhina orinocensis – mieczonos jaskiniowy
+
+					Lophostoma – czuboustek						https://pl.wikipedia.org/wiki/Czuboustek
+
+						Lophostoma aequatorialis – czuboustek równikowy
+						Lophostoma brasiliense – czuboustek karłowaty
+						Lophostoma carrikeri – czuboustek termitierowy
+						Lophostoma evotis – czuboustek nizinny
+						Lophostoma kalkoae – czuboustek białobrzuchy
+						Lophostoma schulzi – czuboustek skryty
+						Lophostoma silvicolum – czuboustek białogardły
+						Lophostoma yasuni – czuboustek ekwadorski
+
+					Macrophyllum – wielkopłat
+
+						Macrophyllum macrophyllum – wielkopłat długonogi
+
+					Macrotus – wielkouszak						https://pl.wikipedia.org/wiki/Wielkouszak
+
+						Macrotus californicus – wielkouszak kalifornijski
+						Macrotus waterhousii – wielkouszak liścionosy
+
+					Micronycteris – karłogacek						https://pl.wikipedia.org/wiki/Kar%C5%82ogacek
+
+						Micronycteris brosseti – karłogacek amazoński
+						Micronycteris buriri – karłogacek wyspowy
+						Micronycteris giovanniae – karłogacek ekwadorski
+						Micronycteris hirsuta – karłogacek kosmaty
+						Micronycteris homezi – karłogacek skryty
+						Micronycteris matses – karłogacek samotny
+						Micronycteris megalotis – karłogacek wielkouchy			https://pl.wikipedia.org/wiki/Kar%C5%82ogacek_wielkouchy
+						Micronycteris microtis – karłogacek zwyczajny
+						Mieronycteris minuta – karłogacek białobrzuchy
+						Micronytteris sanborni – karłogacek brazylijski
+						Micronycteris schmidtorum – karłogacek leśny
+						Micronycteris yatesi – karłogacek boliwijski
+
+					Mimon – mimon							https://pl.wikipedia.org/wiki/Mimon_(rodzaj_ssaka)
+
+						Mimon bennettii – mimon złoty
+						Mimon cozumelae – mimon kozumelski
+						Mimon crenulatum – mimon pręgowany
+						Mimon koepckeae – mimon sierścionosy
+
+					Neonycteris – wielkouszek
+
+						Neonycteris pusilla – wielkouszek malutki
+
+					Phylloderma – liścioskórek
+
+						Phylloderma stenops – liścioskórek jasnolicy
+
+					Phyllostomus – liścionos						https://pl.wikipedia.org/wiki/Li%C5%9Bcionos
+
+						Phyllostomus discolor – liścionos jasny
+						Phyllostomus elongatus – liścionos mały
+						Phyllostomus hastatus – liścionos okazały				https://pl.wikipedia.org/wiki/Li%C5%9Bcionos_okaza%C5%82y
+						Phyllostomus latifolius – liścionos gujański
+
+					Tonatia – tonatia							https://pl.wikipedia.org/wiki/Tonatia
+
+						Tonatia bidens – tonatia ptaszkożerna
+						Tonatia saurophila – tonatia gadolubna
+
+					Trachops – żabojadek
+
+						Trachops cirrhosus – żabojadek brazylijski
+					Trinycteris – liścionosek
+
+						Trinycteris nicefori – liścionosek leśny
+
+					Vampyrum – widmowiec
+
+						Vampyrum spectrum – widmowiec wielki				https://pl.wikipedia.org/wiki/Widmowiec_wielki
+
+		Podrodzina	Carolliinae – karolie								https://pl.wikipedia.org/wiki/Karolie
+
+				Rodzaj	Carollia – karolia							https://pl.wikipedia.org/wiki/Karolia
+
+					Garunek	Carollia benkeithi – karolia amazońska
+						Carollia brevicauda – karolia jedwabista
+						Carollia castanea – karolia kasztanowa
+						Carollia columbiana – karolia kolumbijska
+						Carollia manu – karolia peruwiańska
+						Carollia monohernandezi – karolia leśna
+						Carollia perspicillata – karolia okularowa				https://pl.wikipedia.org/wiki/Karolia_okularowa
+						Carollia sowelli – karolia środkowoameryka
+						Carollia subrufa – karolia szarawa
+
+				Rodzaj	Rhinophylla – listkonosek						https://pl.wikipedia.org/wiki/Listkonosek
+
+					Garunek	Rhinophylla alethina – listkonosek owłosiony
+						Rhinophylla fischerae – listkonosek dżunglowy
+						Rhinophylla pumlio – listkonosek karłowaty
+
+		Podrodzina	Stenodermatinae – owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce
+
+				Plemie	Sturnirini – żółtobarczyki						https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyki
+
+					Rodzaj	Sturnira - żółtobarczyk
+
+						Podrodzaj	Sturnira
+
+							Gatunek	Sturnira aratathomasi – żółtobarczyk górski
+								Sturnira bogotensis – żółtobarczyk mgielny
+								Sturnira erythromos – żółtobarczyk owłosiony
+								Sturnira koopmanhili – żółtobarczyk skryty
+								Sturnira lilium – żółtobarczyk mały		https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyk_ma%C5%82y
+								Sturnira ludovici – żółtobarczyk wyżynny
+								Sturnira luisi – żółtobarczyk pacyficzny
+								Sturnira magna – żółtobarczyk duży
+								Sturnira mistratensis – żółtobarczyk samotny
+								Sturnira mordax – żółtobarczyk kordylierski
+								Sturnira oporaphilum – żółtobarczyk andyjski
+								Sturnira perla – żółtobarczyk ekwadorski
+								Sturnira sorianoi – żółtobarczyk tajemniczy
+								Sturnira thomasi – żółtobarczyk antylski
+								Sturnira tildae – żółtobarczyk amazoński
+
+							Podrodzaj	Corvira
+
+								Sturnira bidens – żółtobarczyk dwuzębny
+								Sturnira nana – żółtobarczyk drobny
+
+				Plemie	Stenodermatini – owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce_(plemi%C4%99_ssak%C3%B3w)
+
+					Rodzaj	Ametrida – małek
+
+							Ametrida centurio – małek białobarki
+
+						Ardops – antylot
+
+							Ardops nichollsi – antylot wyspowy
+
+						Ariteus – figożerek
+
+							Ariteus flavescens – figożerek jamajski
+
+						Artibeus – owocowiec
+						Centurio – starzec
+
+							Centurio senex – starzec pomarszczony			https://pl.wikipedia.org/wiki/Starzec_pomarszczony
+
+						Chiroderma – wielkook
+						Ectophylla – podlistnik
+
+							Ectophylla alba – podlistnik białawy			https://pl.wikipedia.org/wiki/Podlistnik_bia%C5%82awy
+
+						Enchisthenes – wielkooczek
+
+							Enchisthenes hartii – wielkooczek aksamitny
+
+						Mesophylla – namiotowiec
+
+							Mesophylla macconnelli – namiotowiec palmowy
+
+						Phyllops – liściolotnik
+
+							Phyllops falcatus – liściolotnik sierpowaty
+
+						Platyrrhinus – szerokonos
+						Pygoderma – skórozad
+
+							Pygoderma bilabiatum – skórozad dwuwargi
+
+						Sphaeronycteris – maskonosek
+
+							Sphaeronycteris toxophyllum – maskonosek amerykański
+
+						Stenoderma – owocnikowiec
+
+							Stenoderma rufum – owocnikowiec rudy
+
+						Uroderma – namiotnik
+						Vampyressa – żółtouch
+						Vampyrodes – straszydlak
+
+							Vampyrodes caraccioli – straszydlak paskogłowy
+
+	Rodzina 	Mormoopidae – straszakowate									https://pl.wikipedia.org/wiki/Straszakowate
+
+		Rodzaj	Heleophryne
+
+			Gatunek	Heleophryne hewitti								https://pl.wikipedia.org/wiki/Heleophryne_hewitti
+				Heleophryne natalensis							https://pl.wikipedia.org/wiki/Heleophryne_natalensis
+				Heleophryne orientalis							https://pl.wikipedia.org/wiki/Heleophryne_orientalis
+				Heleophryne purcelli
+				Heleophryne regis
+				Heleophryne rosei – straszak kapsztadzki
+
+	Rodzina 	Noctilionidae – rybakowate
+	Rodzina 	Furipteridae – furiakowate
+	Rodzina 	Thyropteridae – przylgowcowate
+	Rodzina 	Natalidae – lejkouchowate
+	Rodzina 	Molossidae – molosowate									https://pl.wikipedia.org/wiki/Molosowate
+
+		Podrodzina	Molossinae
+				Tomopeatinae
+
+	Rodzina 	Cistugidae – włosiakowate									https://pl.wikipedia.org/wiki/Mroczkowate
+	Rodzina 	Vespertilionidae – mroczkowate
+
+			Podrodzina	Vespertilioninae - mroczki
+
+					Plemie	Eptesicini - mroczki
+
+						Rodzaj	Arielulus - arielek					https://pl.wikipedia.org/wiki/Arielek
+
+							Gatunek	Arielulus aureocollaris
+								Arielulus circumdatus
+								Arielulus cuprosus
+								Arielulus societatis
+								Arielulus torquatus
+
+						Rodzaj	Eptesicus - mroczek					https://pl.wikipedia.org/wiki/Mroczek_(nietoperze)
+
+								Eptesicus baverstocki
+								Eptesicus bobrinskoi
+								Eptesicus bottae
+								Eptesicus brasiliensis
+								Eptesicus brunneus
+								Eptesicus capensis
+								Eptesicus demissus
+								Eptesicus diminutus
+								Eptesicus douglasorum
+								Eptesicus flavescens
+								Eptesicus floweri
+								Eptesicus furinalis
+								Eptesicus fuscus – mroczek brunatny		https://pl.wikipedia.org/wiki/Mroczek_brunatny
+								Eptesicus guadeloupensis
+								Eptesicus guineensisv
+								Eptesicus hottentotus
+								Eptesicus innoxius
+								Eptesicus kobayashii
+								Eptesicus melckorum
+								Eptesicus nasutus
+								Eptesicus nilssoni – mroczek pozłocisty		https://pl.wikipedia.org/wiki/Mroczek_poz%C5%82ocisty
+								Eptesicus pachyotis
+								Eptesicus platyops
+								Eptesicus pumilus
+								Eptesicus regulus
+								Eptesicus rendalli
+								Eptesicus sagittula
+								Eptesicus serotinus – mroczek późny		https://pl.wikipedia.org/wiki/Mroczek_p%C3%B3%C5%BAny
+								Eptesicus somalicus
+								Eptesicus tatei
+								Eptesicus tenuipinnis
+								Eptesicus vulturnus
