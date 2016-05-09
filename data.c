@@ -50,11 +50,11 @@ int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po gal
     if(head==NULL)return;
     char menu[3];
     printf("%s \n%s\n\n", head->data.stdName, head->data.latinName);
-    if(head->lewy!=NULL)printf("w lewo: %s %s\n", head->left->data.stdName, head->left->data.latinName);
+    if(head->lewy!=NULL)printf("w lewej gałęzi: %s %s\n", head->left->data.stdName, head->left->data.latinName);
     else printf("lewy pusty\n");
-    if(head->prawy!=NULL)printf("w prwo: %s %s\n", head->right->data.stdName, head->right->data.latinName);
+    if(head->prawy!=NULL)printf("w prawej gałęzi: %s %s\n", head->right->data.stdName, head->right->data.latinName);
     else printf("prawy pusty\n");
-    printf("\nMENU:\n1-w lewo\n2-w prawo\n3-do gory");
+    printf("\nMENU:\n1-idz w lewo\n2-idz w prawo\n3-cofnij (do gory)");
     scanf("%3s", menu);
     if(menu[0]=='1')			if(browse_tree(head->left)) browse_tree(head);	else return 0;
     else if(menu[0]=='2')	if(browse_tree(head->right))inorder(head);	else return 0;
