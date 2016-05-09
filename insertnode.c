@@ -1,4 +1,4 @@
-void insertNode(node **root)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
+void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
     {
         node *new_node = createNode();                       //Potrzebna funkcja createNode() alokujaca pamiec nowego elementu
         node *temp = NULL;                                   //i wypelniajaca go odpowiednimi danymi (obsluga pliku)
