@@ -1,11 +1,15 @@
 #ifndef DATA_H
 #define DATA_H
 #define LENGTH 20
+#define DSCRPTN_L 200
 
 typedef struct note // data structure
 {
     char stdName[LENGTH];
     char latinName[LENGTH];
+    char rodzina[LENGTH];
+    char rodzaj[LENGTH];
+    char opis[DSCRPTN_L];
 }data;
 
 typedef struct junction //node structure
@@ -24,5 +28,6 @@ int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po gal
 void findRecord(node*);     //wyszukuje element o zadanej nazwie gatunkowej
 void insertNode(node**);    //wstawia wezel w odpowiednie miejsce w drzewie
 int nodeNumber(node *);     //zwraca ilosc elementow w drzewie
+node* createNode(data);     //zwraca nowy element wypełniony danymi
 
 #endif
