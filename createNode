@@ -1,0 +1,16 @@
+node* createNode(*data)
+  {
+    node* new_node = (node*) malloc(sizeof(node));
+    
+    if(new_node == NULL)
+      {
+        printf("Blad alokacji pamieci\n");
+        return NULL;
+      }
+    
+    new_node->entry = *data;
+    new_node->left = NULL;
+    new_node->right = NULL;
+    
+    return new_node;
+  }
