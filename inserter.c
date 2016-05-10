@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "data.h"
+#include "creator.h"
 void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
     {
         node *new_node = createNode();                       //Potrzebna funkcja createNode() alokujaca pamiec nowego elementu
