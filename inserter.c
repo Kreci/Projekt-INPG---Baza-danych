@@ -4,8 +4,8 @@
 #include "creator.h"
 void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
     {
-        node *new_node = createNode();                       //Potrzebna funkcja createNode() alokujaca pamiec nowego elementu
-        node *temp = NULL;                                   //i wypelniajaca go odpowiednimi danymi (obsluga pliku)
+        node *new_node = createNode(input);
+        node *temp = NULL;
 
         if(*root == NULL)
             {
