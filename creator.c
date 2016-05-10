@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "data.h"
 #include "inserter.h"
-node* createNode(data* data)                               //Funkcja wypełnia nowy element danymi
+node* createNode(data* input)                               //Funkcja wypełnia nowy element danymi
   {
     node* new_node = (node*) malloc(sizeof(node));
     
@@ -12,7 +12,7 @@ node* createNode(data* data)                               //Funkcja wypełnia n
         return NULL;
       }
     
-    new_node->entry = *data;
+    new_node->entry = *input;
     new_node->left = NULL;
     new_node->right = NULL;
     
