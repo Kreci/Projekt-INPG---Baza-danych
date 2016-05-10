@@ -5,8 +5,10 @@
 #include "inserter.h"
 #include "creator.h"
 
-int main( void ) {
-    node root = NULL;
+int main() 
+{
+    node *root = NULL;
     addNodes(&root);
+    fDisplay(root);
     return 0;
 }
