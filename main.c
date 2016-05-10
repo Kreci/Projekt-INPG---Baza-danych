@@ -6,5 +6,7 @@
 #include "creator.h"
 
 int main( void ) {
+    node root = NULL;
+    addNodes(&root);
     return 0;
 }
