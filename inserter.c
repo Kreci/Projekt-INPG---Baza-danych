@@ -5,6 +5,11 @@
 void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
     {
         node *new_node = createNode(input);
+        if(new_node==NULL)
+        {
+            printf("\nblad alokacji pamieci\n");
+            return;
+        }
         node *temp = NULL;
 
         if(*root == NULL)

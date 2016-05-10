@@ -19,7 +19,7 @@ typedef struct junction //node structure
     struct junction* right;
 }node;
 
-int compare(data, data); // compares entries
+int compare(data, data); // compares entries zwraca 1 jeżęli pierwsza jest większa, -1 jeśli druga, 0 jeśli są równe. Porównuje po stdName
 void display(data); 	 // displays entry
 void fDisplay(node*);    // displays whole tree
 void findMin(node*);	 // displays first (alphabetically) entry
