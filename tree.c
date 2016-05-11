@@ -1,6 +1,97 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "data.h"
+node* createNode(data* input)                               //Funkcja wypełnia nowy element danymi
+  {
+    node* new_node = (node*) malloc(sizeof(node));
+    
+    if(new_node == NULL)
+      {
+        printf("Blad alokacji pamieci\n");
+        return NULL;
+      }
+    
+    new_node->entry = *input;
+    new_node->left = NULL;
+    new_node->right = NULL;
+    
+    return new_node;
+  }
+  //*******************************************************************************************************************************
+  void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
+    {
+        node *new_node = createNode(input);
+        /*if(new_node==NULL)                                            //Sprawdzenie jest już wewnątrz funkcji createNode()
+        {
+            printf("\nblad alokacji pamieci\n");
+            return;
+        }*/
+        node *temp = NULL;
+
+        if(*root == NULL)
+            {
+                *root = new_node;
+                return;
+            }
+
+        temp = *root;
+        while(temp != NULL)
+            {
+                if(compare(new_node->entry, temp->entry) == -1)
+                    {
+                        if(temp->left != NULL)
+                            temp = temp->left;
+                        else
+                            break;
+                    }
+                else if(compare(new_node->entry, temp->entry) == 1)
+                    {
+                        if(temp->right != NULL)
+                            temp = temp->right;
+                        else
+                            break;
+                    }
+                else
+                    {
+                        printf("Ten rekord juz istnieje\n");
+                        return;
+                    }
+            }
+        if(compare(new_node->entry, temp->entry) == -1)
+            temp->left = new_node;
+        else if(compare(new_node->entry, temp->entry) == 1)
+            temp->right = new_node;
+        return;
+    }
+//*******************************************************************************************************************************
+void addNodes(node** root)                            //Funkcja tworzy i elementów i umieszcza je w drzewie
+  {
+    int i, j;
+    data input;
+    
+    printf("Ile elementow chcesz dodac?\n");
+    scanf("%d", &i);
+    if(i <= 0)
+      {
+        printf("Zla liczba\n");
+        return;
+      }
+    for(j=0; j<i; j++)
+      {
+        printf("Podaj nazwe gatunkowa\n");
+        scanf("%s", input.stdName);
+        printf("Podaj nazwe lacinska\n");
+        scanf("%s", input.latinName);
+        printf("Podaj rodzine\n");
+        scanf("%s", input.rodzina);
+        printf("Podaj rodzaj\n");
+        scanf("%s", input.rodzaj);
+        printf("Wprowadz opis gatunku\n");
+        scanf("%s", input.opis);
+        insertNode(root, &input);
+      }
+    return;
+  }
 //*******************************************************************************************************************************
 int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po galezi
 {
