@@ -42,7 +42,7 @@ void addNodes(node** root)                            //Funkcja tworzy i element
         printf("Podaj rodzaj\n");
         scanf("%s", input.rodzaj);
         printf("Wprowadz opis gatunku\n");
-        scanf("%s, input.opis);
+        scanf("%s", input.opis);
         insertNode(root, &input);
       }
     return;
