@@ -62,3 +62,67 @@ int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po gal
     else return 0;
     return 0;
 }
+void findMin(node* root)
+    {
+        if(root == NULL)
+            {
+                printf("Drzewo jest puste!\n");
+                return;
+            }
+        if(root->left != NULL)
+            return findMin(root->left);
+        else
+            printf("Pierwszy rekord to %s\n", root->entry.stdName);
+        return;
+    }
+
+void findMax(node* root)
+    {
+        if(root == NULL)
+            {
+                printf("Drzewo jest puste!\n");
+                return;
+            }
+        if(root->right != NULL)
+            return findMax(root->right);
+        else
+            printf("Ostatni rekord to %s\n", root->entry.stdName);
+        return;
+    }
+    
+int nodeNumber(node *root)                                               //Zwraca liczbe wezlow w drzewie
+    {
+        int counter=0;
+        if(root != NULL)
+            {
+                counter++;
+                counter = counter + nodeNumber(root->left) + nodeNumber(root->right);
+            }
+        return counter;
+    }
+    void findRecord(node *root)
+    {
+        data input;
+
+        if(root == NULL)
+            {
+                printf("Drzewo jest puste!\n");
+                return;
+            }
+        printf("Podaj nazwe zwyczajowa\n");
+        scanf("%s", input.stdName);
+
+        while(root != NULL)
+            {
+                if(compare(root->entry, input) == -1)
+                    root = root->left;
+                else if(compare(root->entry, input) == 1)
+                    root = root->right;
+                else
+                    {
+                        display(root->entry);
+                    }
+            }
+        printf("Nie znaleziono szukanego gatunku\n");
+        return;
+    }
