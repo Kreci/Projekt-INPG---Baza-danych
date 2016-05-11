@@ -5,7 +5,7 @@
 #include "inserter.h"
 #include "creator.h"
 
-int main() 
+int main( void ) 
 {
     node *root = NULL;
     addNodes(&root);
