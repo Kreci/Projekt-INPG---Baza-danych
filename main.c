@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 #include "data.h"
-#include "inserter.h"
-#include "creator.h"
 #include "tree.h"
 
 int main( void ) 
