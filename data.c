@@ -28,8 +28,11 @@ int compare(data entry1, data entry2)       //Compares entries(surnames), return
 //*******************************************************************************************************************************
 void display(data entry)                //Displays name, surname and tel of entry, NOT node
 {
-    printf("%s\b\b", entry.stdName);
+    puts(entry.stdName);
     puts(entry.latinName);
+    puts(entry.rodzina);
+    puts(entry.rodzaj);
+    puts(entry.opis);
     return;
 }
 //*******************************************************************************************************************************
