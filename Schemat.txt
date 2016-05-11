@@ -1164,3 +1164,138 @@ PODRODZAJ
 								Eptesicus tatei
 								Eptesicus tenuipinnis
 								Eptesicus vulturnus
+
+							Hesperoptenus - zmroczek
+							Rhyneptesicus - pomroczek
+
+					Plemię	Lasiurini - kosmatniki
+
+							Lasiurus - kosmatnik
+
+					Plemię	Nyctyceiini - wieczorki
+
+							Nyctyceinops - półmroczek
+							Nycticeius - wieczorek
+							Rhogeessa - żółcinek
+							Scoteanax - szerokopyszczek
+							Scotoecus - maurek
+							Scotomanes - arlekinek
+							Scotophilus - ciemnolubek
+							Scotorepens - szerokonosek
+
+					Plemię	Nyctophilini - nocolubki
+
+							Nyctophilus - nocolubek
+							Pharotis - kapturouszek
+
+					Plemię	Pipistrellini - karliki
+
+							Glischropus - grubopalczyk
+							Nyctalus - borowiec					https://pl.wikipedia.org/wiki/Borowiec_(rodzaj_ssaka)
+
+								Nyctalus aviator – borowiec ptasi
+								Nyctalus azoreum – borowiec azorski
+								Nyctalus furvus – borowiec japoński
+								Nyctalus lasiopterus – borowiec olbrzymi		https://pl.wikipedia.org/wiki/Borowiec_olbrzymi
+								Nyctalus leisleri – borowiec leśny		https://pl.wikipedia.org/wiki/Borowiec_le%C5%9Bny
+								Nyctalus montanus – borowiec górski
+								Nyctalus noctula – borowiec wielki		https://pl.wikipedia.org/wiki/Borowiec_wielki
+								Nyctalus plancyi – borowiec chiński
+
+							Parastrellus - karlikowiec
+							Perimyotis - karlicznik
+
+						Rodzaj	Pipistrellus - karlik					https://pl.wikipedia.org/wiki/Karlik_(nietoperze)
+
+							Gatunek	Pipistrellus abramus
+								Pipistrellus adamsi
+								Pipistrellus aero
+								Pipistrellus angulatus
+								Pipistrellus ceylonicus
+								Pipistrellus collinus
+								Pipistrellus coromandra
+								Pipistrellus deserti
+								Pipistrellus endoi
+								Pipistrellus hanaki
+								Pipistrellus hesperidus
+								Pipistrellus hesperus
+								Pipistrellus inexspectatus
+								Pipistrellus javanicus
+								Pipistrellus maderensis
+								Pipistrellus minahassae
+								Pipistrellus murrayi
+								Pipistrellus nanulus
+								Pipistrellus papuanus
+								Pipistrellus paterculus
+								Pipistrellus permixtus
+								Pipistrellus rueppellii
+								Pipistrellus rusticus
+								Pipistrellus stenopterus
+								Pipistrellus sturdeei
+								Pipistrellus subflavus
+								Pipistrellus tenuis
+								Pipistrellus wattsi
+								Pipistrellus westralis
+								Pipistrellus kuhlii – karlik średni		https://pl.wikipedia.org/wiki/Karlik_%C5%9Bredni
+								Pipistrellus nathusii – karlik większy		https://pl.wikipedia.org/wiki/Karlik_wi%C4%99kszy
+								Pipistrellus pipistrellus – karlik malutki		https://pl.wikipedia.org/wiki/Karlik_malutki
+								Pipistrellus pygmaeus – karlik drobny		https://pl.wikipedia.org/wiki/Karlik_drobny
+
+							Scotozous - nocodekanik
+
+					Plemię	Plecotini - gacki
+
+						Rodzaj	Barbastella - mopek					https://pl.wikipedia.org/wiki/Mopek
+
+							Gatunek	Barbastella barbastellus – mopek zachodni	https://pl.wikipedia.org/wiki/Mopek_zachodni
+								Barbastella beijingensis – mopek pekiński
+								Barbastella darjelinensis – mopek orientalny
+								Barbastella leucomelas – mopek azjatycki
+
+							Corynorhinus - bryłonosek
+							Euderma - plamek
+							Idionycteris - osobliwiec
+							Otonycteris - długouch
+
+						Rodzaj	Plecotus - gacek					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
+
+							Gatunek	Plecotus alpinus – gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
+								Plecotus ariel
+								Plecotus auritus – gacek brunatny		https://pl.wikipedia.org/wiki/Gacek_brunatny
+								Plecotus austriacus – gacek szary		https://pl.wikipedia.org/wiki/Gacek_szary
+								Plecotus balensis
+								Plecotus christiei
+								Plecotus homochrous
+								Plecotus kolombatovici – gacek bałkański		https://pl.wikipedia.org/wiki/Gacek_ba%C5%82ka%C5%84ski
+								Plecotus kozlovi
+								Plecotus macrobullaris - gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
+								Plecotus mexicanus
+								Plecotus ognevi
+								Plecotus rafinesquii
+								Plecotus sacrimontis
+								Plecotus sardus – gacek sardyński		https://pl.wikipedia.org/wiki/Gacek_sardy%C5%84ski
+								Plecotus strelkovi
+								Plecotus taivanus
+								Plecotus teneriffae – gacek kanaryjski		https://pl.wikipedia.org/wiki/Gacek_kanaryjski
+								Plecotus townsendii
+								Plecotus turkmenicus
+								Plecotus wardi
+
+					Plemię	Vespertilionini - mroczaki
+
+							Chalinolobus - mrocznik
+							Eudiscopus - dyskonóg
+							Falisistrellus - nibykarlik
+							Glauconycteris - łatnik
+							Histiotus - żaglouch
+							Hypsugo - przymroczek
+							Ia - wieczornik
+							Laephotis - żaglouszek
+							Mimetillus - skąposkrzydlik
+							Niumbaha - łaciatek
+							Neoromicia - afrokarlik
+							Philetor - karłowatek
+							Tylonycteris - bambusik
+							Vespadelus - lasomroczek
+							Vespertilio - mroczak					https://pl.wikipedia.org/wiki/Mroczak
+
