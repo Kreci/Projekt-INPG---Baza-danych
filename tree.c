@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "data.h"
+//*******************************************************************************************************************************
 node* createNode(data* input)                               //Funkcja wypełnia nowy element danymi
   {
     node* new_node = (node*) malloc(sizeof(node));
