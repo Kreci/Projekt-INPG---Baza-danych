@@ -1,4 +1,4 @@
 x-D     
-#         Jesteś
+#          Jesteś
 gl hf heh
-#             Zwycięzcą
+#              Zwycięzcą
