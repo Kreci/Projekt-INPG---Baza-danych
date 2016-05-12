@@ -38,9 +38,9 @@ void menu(node* root)
                         case 1: addNodes(&root);
                             break;
                         case 2: fDisplay(root);
-                        case 3: findMax(root);
+                        case 3: findMin(root);
                             break;
-                        case 4: findMin(root);
+                        case 4: findMax(root);
                             break;
                     }
                 if((choice >= 1) && (choice <= 7))
