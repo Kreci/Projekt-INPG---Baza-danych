@@ -64,11 +64,11 @@ void menu(node* root)
                             break;
                         case 5:
                             break;
-                        default:
+                        default: 
                             break;
                         */
                     }
-                if((choice >= 1) && (choice <= 7))
+                if((choice >= 1) && (choice <= 7)) // w petli while dwókrotnie czyszczenie ekranu, raczej nie potrzebne
                     {
                         #ifdef WIN32
                         system("pause");
