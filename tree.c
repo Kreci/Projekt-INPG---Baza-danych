@@ -50,7 +50,7 @@ node* createNode(data* input)                               //Funkcja wypełnia 
                     }
                 else
                     {
-                        printf("Ten rekord juz istnieje\n");
+                        printf("Ten rekord juz istnieje, nie dodaje\n");
                         return;
                     }
             }
@@ -93,13 +93,14 @@ void addNodes(node** root)                            //Funkcja tworzy i element
         gets(input.rodzaj);
         printf("Wprowadz opis gatunku\n");
         gets(input.opis);
-        insertNode(root, &input);
         
         #ifdef WIN32
         system("cls");
         #else
         system("clear");
         #endif // WIN32
+        
+        insertNode(root, &input);
       }
     return;
   }
