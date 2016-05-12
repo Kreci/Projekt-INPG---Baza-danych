@@ -123,7 +123,7 @@ void addNodes(node** root)                            //Funkcja tworzy i element
     return 0;
 }*/
 //*******************************************************************************************************************************
-void findMin(node* root)
+void findMin(node* root)	              //displays first (alphabetically) entry
     {
         if(root == NULL)
             {
@@ -137,7 +137,7 @@ void findMin(node* root)
         return;
     }
 //*******************************************************************************************************************************
-void findMax(node* root)
+void findMax(node* root) 	              //displays last (alpabetically) entry
     {
         if(root == NULL)
             {
@@ -162,7 +162,7 @@ int nodeNumber(node *root)                                               //Zwrac
         return counter;
     }
 //*******************************************************************************************************************************
-void findRecord(node *root)
+void findRecord(node *root)             //wyszukuje element o zadanej nazwie gatunkowej
     {
         data input;
 
