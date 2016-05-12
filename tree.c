@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "data.h"
+#include "tree.h"
 //*******************************************************************************************************************************
 node* createNode(data* input)                               //Funkcja wypełnia nowy element danymi
   {
@@ -22,11 +23,6 @@ node* createNode(data* input)                               //Funkcja wypełnia 
   void insertNode(node **root, data* input)                                        //Funkcja wstawia wezel w odpowiednie miejsce drzewa
     {
         node *new_node = createNode(input);
-        /*if(new_node==NULL)                                            //Sprawdzenie jest już wewnątrz funkcji createNode()
-        {
-            printf("\nblad alokacji pamieci\n");
-            return;
-        }*/
         node *temp = NULL;
 
         if(*root == NULL)
@@ -77,6 +73,13 @@ void addNodes(node** root)                            //Funkcja tworzy i element
         printf("Zla liczba\n");
         return;
       }
+    
+    #ifdef WIN32
+    system("cls");
+    #else
+    system("clear");
+    #endif // WIN32
+    
     for(j=0; j<i; j++)
       {
         printf("Podaj nazwe gatunkowa\n");
@@ -90,11 +93,17 @@ void addNodes(node** root)                            //Funkcja tworzy i element
         printf("Wprowadz opis gatunku\n");
         scanf("%s", input.opis);
         insertNode(root, &input);
+        
+        #ifdef WIN32
+        system("cls");
+        #else
+        system("clear");
+        #endif // WIN32
       }
     return;
   }
 //*******************************************************************************************************************************
-int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po galezi
+/*int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po galezi
 {
     if(head==NULL)return;
     char menu[3];
@@ -110,19 +119,19 @@ int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po gal
     else if(menu[0]=='3')return 1;
     else return 0;
     return 0;
-}
+}*/
 //*******************************************************************************************************************************
 void findMin(node* root)
     {
         if(root == NULL)
             {
-                printf("Drzewo jest puste!\n");
+                printf("Baza jest pusta!\n");
                 return;
             }
         if(root->left != NULL)
             return findMin(root->left);
         else
-            printf("Pierwszy rekord to %s\n", root->entry.stdName);
+            display(root->entry);
         return;
     }
 //*******************************************************************************************************************************
@@ -130,16 +139,16 @@ void findMax(node* root)
     {
         if(root == NULL)
             {
-                printf("Drzewo jest puste!\n");
+                printf("Baza jest pusta!\n");
                 return;
             }
         if(root->right != NULL)
             return findMax(root->right);
         else
-            printf("Ostatni rekord to %s\n", root->entry.stdName);
+            display(root->entry);
         return;
     }
-  //*******************************************************************************************************************************
+//*******************************************************************************************************************************
 int nodeNumber(node *root)                                               //Zwraca liczbe wezlow w drzewie
     {
         int counter=0;
@@ -150,14 +159,14 @@ int nodeNumber(node *root)                                               //Zwrac
             }
         return counter;
     }
-  //*******************************************************************************************************************************
-    void findRecord(node *root)
+//*******************************************************************************************************************************
+void findRecord(node *root)
     {
         data input;
 
         if(root == NULL)
             {
-                printf("Drzewo jest puste!\n");
+                printf("Baza jest pusta!\n");
                 return;
             }
         printf("Podaj nazwe zwyczajowa\n");
