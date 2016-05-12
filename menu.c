@@ -52,19 +52,19 @@ void menu(node* root)
                         case 4: findMax(root);
                             break;
                         /*
-                        case 5:
+                        case 5: findRecord(node *root);
                             break;
-                        case 6:
+                        case 6: puts("Dostepne w DLC juz 15 maja");
                             break;
-                        case 7:
+                        case 7: puts("Dostepne w DLC juz 15 maja");
                             break;
-                        case 8:
+                        case 8: ;puts("Dostepne w DLC juz 15 maja");
                             break;
-                        case 9:
+                        case 9: puts("Dostepne w DLC juz 15 maja");
                             break;
-                        case 5:
+                        case 5: puts("Dostepne w DLC juz 15 maja");
                             break;
-                        default: 
+                        default:  puts ("Nie poprawna wartosc, sprobuj ponownie");
                             break;
                         */
                     }
