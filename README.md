@@ -1,2 +1,2 @@
-# x-D
-gl hf heh
+# x-D     Jesteś
+gl hf heh   # Zwycięzcą
