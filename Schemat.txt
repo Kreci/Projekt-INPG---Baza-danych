@@ -1299,8 +1299,6 @@ PODRODZAJ
 							Vespadelus - lasomroczek
 							Vespertilio - mroczak					https://pl.wikipedia.org/wiki/Mroczak
 
-							Vespertilio - mroczak					https://pl.wikipedia.org/wiki/Mroczak
-
 							Gatunek	Vespertilio murinus – mroczak posrebrzany
 
 								Vespertilio superans
@@ -1374,4 +1372,3 @@ PODRODZAJ
 							Miniopterus shortridgei - podkasaniec jawajski
 							Miniopterus sororculus - podkasaniec siostrzany
 							Miniopterus tristis - podkasaniec wielki
-
