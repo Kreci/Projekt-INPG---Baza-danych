@@ -82,16 +82,17 @@ void addNodes(node** root)                            //Funkcja tworzy i element
     
     for(j=0; j<i; j++)
       {
+        fflush(stdin);
         printf("Podaj nazwe gatunkowa\n");
-        scanf("%s", input.stdName);
+        gets(input.stdName);
         printf("Podaj nazwe lacinska\n");
-        scanf("%s", input.latinName);
+        gets(input.latinName);
         printf("Podaj rodzine\n");
-        scanf("%s", input.rodzina);
+        gets(input.rodzina);
         printf("Podaj rodzaj\n");
-        scanf("%s", input.rodzaj);
+        gets(input.rodzaj);
         printf("Wprowadz opis gatunku\n");
-        scanf("%s", input.opis);
+        gets(input.opis);
         insertNode(root, &input);
         
         #ifdef WIN32
