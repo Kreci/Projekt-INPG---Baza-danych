@@ -1,0 +1,6 @@
+#ifndef OBSLUGA_PLIKU
+#define OBSLUGA_PLIKU
+
+
+
+#endif // OBSLUGA_PLIKU
