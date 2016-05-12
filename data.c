@@ -43,6 +43,11 @@ void display(data entry)                //Displays name, surname and tel of entr
 //*******************************************************************************************************************************
 void fDisplay(node *root)               //Displays whole tree in-order (alphabetically)
 {
+    if(root == NULL)
+        {
+            printf("Baza jest pusta!\n");
+            return;
+        }
     if(root->left!=NULL)
         fDisplay(root->left);
     display(root->entry);
