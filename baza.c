@@ -4,6 +4,8 @@
 #include "data.h"
 #include "tree.h"
 #include "menu.h"
+#include "baza.h"
+
 
 int zawiera(char *linia, char *klucz) // sprawdza czy linia zawiera slowo kluczowe np rodzina, rodzaj itp.
 {                                     //zwraca 0 jesli nie znaleziono lub indeks tablicy charow wksazjuacy na koniec wyszukanego klucza
