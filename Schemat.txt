@@ -1299,3 +1299,79 @@ PODRODZAJ
 							Vespadelus - lasomroczek
 							Vespertilio - mroczak					https://pl.wikipedia.org/wiki/Mroczak
 
+							Vespertilio - mroczak					https://pl.wikipedia.org/wiki/Mroczak
+
+							Gatunek	Vespertilio murinus – mroczak posrebrzany
+
+								Vespertilio superans
+
+			Podrodzina	Antrozoinae - jasnotki
+
+					Rodzaj	Antrozous - jasnotek
+						Bauerus - jasnoteczek
+
+			Podrodzina	Myotinae - nocki
+
+					Rodzaj	Lasionycteris - srebrnonocek
+					Rodzaj	Myotis - nocek						https://pl.wikipedia.org/wiki/Nocek
+
+						Gatunek	Myotis alcathoe – nocek Alkatoe			https://pl.wikipedia.org/wiki/Nocek_Alkatoe
+							Myotis bechsteini – nocek Bechsteina			https://pl.wikipedia.org/wiki/Nocek_Bechsteina
+							Myotis blythii – nocek wschodni			https://pl.wikipedia.org/wiki/Nocek_wschodni
+							Myotis brandtii – nocek Brandta			https://pl.wikipedia.org/wiki/Nocek_Brandta
+							Myotis dasycneme – nocek łydkowłosy			https://pl.wikipedia.org/wiki/Nocek_%C5%82ydkow%C5%82osy
+							Myotis daubentonii – nocek rudy			https://pl.wikipedia.org/wiki/Nocek_rudy
+							Myotis emarginatus – nocek orzęsiony			https://pl.wikipedia.org/wiki/Nocek_orz%C4%99siony
+							Myotis myotis – nocek duży				https://pl.wikipedia.org/wiki/Nocek_du%C5%BCy
+							Myotis mystacinus – nocek wąsatek			https://pl.wikipedia.org/wiki/Nocek_w%C4%85satek
+							Myotis nattereri – nocek Natterera			https://pl.wikipedia.org/wiki/Nocek_Natterera
+
+			Podrodzina	Murininae - tubonosy
+
+						Harpiocephalus - harpiogłów
+						Harpiola - trąbkonos
+						Murina - tubonos
+
+			Podrodzina	Kerivoulinae - wełniaczki
+
+					Rodzaj	Karivoula - wełniaczek					https://pl.wikipedia.org/wiki/We%C5%82niaczek
+						Phoniscus - trąbkouch
+
+	Rodzina 	Miniopteridae – podkasańcowate								https://pl.wikipedia.org/wiki/Podkasaniec
+
+					Rodzaj	Miniopterus - podkasaniec
+
+						Gatunek	Miniopterus aelleni - podkasaniec wyspowy
+							Miniopterus africanus - podkasaniec afrykański
+							Miniopterus australis - podkasaniec zgiętoskrzydły
+							Miniopterus brachytragos - podkasaniec krótkowłosy
+							Miniopterus egeri - podkasaniec czuprynoczelny
+							Miniopterus fraterculus - podkasaniec braterski
+							Miniopterus fuliginosus - podkasaniec okopcony
+							Miniopterus fuscus - podkasaniec ciemny
+							Miniopterus gleni - podkasaniec madagaskarski
+							Miniopterus griffithsi - podkasaniec skryty
+							Miniopterus griveaudi - podkasaniec komorski
+							Miniopterus inflatus - podkasaniec większy
+							Miniopterus macrocneme - podkasaniec nowokaledoński
+							Miniopterus magnater - podkasaniec duży
+							Miniopterus mahafaliensis - podkasaniec mahafalski
+							Miniopterus majori - podkasaniec długopalcy
+							Miniopterus manavi - podkasaniec malgaski
+							Miniopterus medius - podkasaniec średni
+							Miniopterus minor - podkasaniec najmniejszy
+							Miniopterus mossambicus - podkasaniec mozambicki
+							Miniopterus natalensis - podkasaniec natalski
+							Miniopterus newtoni - podkasaniec zatokowy
+							Miniopterus oceanensis - podkasaniec australijski
+							Miniopterus pallidus - podkasaniec pozłacany
+							Miniopterus paululus - podkasaniec filipiński
+							Miniopterus petersoni - podkasaniec nizinny
+							Miniopterus propitristis - podkasaniec salomoński
+							Miniopterus pusillus - podkasaniec mały
+							Miniopterus robustior - podkasaniec konacki
+							Miniopterus schreibersii - podkasaniec zwyczajny
+							Miniopterus shortridgei - podkasaniec jawajski
+							Miniopterus sororculus - podkasaniec siostrzany
+							Miniopterus tristis - podkasaniec wielki
+
