@@ -23,6 +23,14 @@ void menu(node* root)
                         " [2] Wypisz zawartosc bazy\n"
                         " [3] Wypisz pierwszy (alfabetycznie) rekord\n"
                         " [4] Wypisz ostatni (alfabetycznie) rekord\n"
+                        /*
+                        " [5] Wypisz spis gatunków\n" \
+                        " [6] Wypisz spis rodzai\n"    } Jedna ze specyfikacja czego
+                        " [7] Wypisz spis rodzin\n"   /
+                        " [8] Wyszukaj gatunek\n"   \
+                        " [9] Wyszukaj rodzaj\n"     } Jedna ze specyfikacja czego
+                        " [10] Wyszukaj rodzine\n"  /
+                        */
                         "----------------------------------------------\n"
                         " Twoj wybor: ");
                 scanf("%d", &choice);
@@ -38,10 +46,27 @@ void menu(node* root)
                         case 1: addNodes(&root);
                             break;
                         case 2: fDisplay(root);
+                            break;
                         case 3: findMin(root);
                             break;
                         case 4: findMax(root);
                             break;
+                        /*
+                        case 5:
+                            break;
+                        case 6:
+                            break;
+                        case 7:
+                            break;
+                        case 8:
+                            break;
+                        case 9:
+                            break;
+                        case 5:
+                            break;
+                        default:
+                            break;
+                        */
                     }
                 if((choice >= 1) && (choice <= 7))
                     {
