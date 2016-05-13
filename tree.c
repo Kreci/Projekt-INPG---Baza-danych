@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "data.h"
 #include "tree.h"
+#include "baza.h"
 //*******************************************************************************************************************************
 node* createNode(data* input)                               //Funkcja wypełnia nowy element danymi
   {
