@@ -183,6 +183,7 @@ void findRecord(node *root)             //wyszukuje element o zadanej nazwie gat
                 else
                     {
                         display(root->entry);
+                        return;
                     }
             }
         printf("Nie znaleziono szukanego gatunku\n");
