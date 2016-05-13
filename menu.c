@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "tree.h"
 #include "data.h"
+#include "baza.h"
 
 void menu(node* root)
     {
