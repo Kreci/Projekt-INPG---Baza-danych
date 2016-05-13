@@ -23,6 +23,7 @@ void menu(node* root)
                         " [2] Wypisz zawartosc bazy\n"
                         " [3] Wypisz pierwszy (alfabetycznie) rekord\n"
                         " [4] Wypisz ostatni (alfabetycznie) rekord\n"
+                        " [5] Wyszukaj rekord\n"
                         /*
                         " [5] Wypisz spis gatunków\n" \
                         " [6] Wypisz spis rodzai\n"    } Jedna ze specyfikacja czego
@@ -50,6 +51,8 @@ void menu(node* root)
                         case 3: findMin(root);
                             break;
                         case 4: findMax(root);
+                            break;
+                        case 5: findRecord(root);
                             break;
                         /*
                         case 5: findRecord(node *root);
