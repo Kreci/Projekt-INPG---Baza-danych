@@ -3,6 +3,7 @@
 #include "data.h"
 #include "tree.h"
 #include "menu.h"
+#include "baza.h"
 
 int main(void)
 {
