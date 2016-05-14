@@ -190,3 +190,12 @@ void findRecord(node *root)             //wyszukuje element o zadanej nazwie gat
         printf("Nie znaleziono szukanego gatunku\n");
         return;
     }
+
+void deleteNode(node** root)
+  {
+    if(*root == NULL)
+        {
+          printf("Baza jest pusta!\n");
+          return;
+        }
+  }
