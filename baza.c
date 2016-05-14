@@ -61,7 +61,7 @@ void wczytajBaze(node ** root,  char* nazwapliku)
             {
                 kopiujdane(linia, data.stdName, indekslinii);
             }
-            else kopiujdane("brak nazwy",data.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, tutaj nie wiem jak bedzie z tworzeniem drzewa jesli nazwa zwyczajowa bedzie taka sama tzn "brak nazwy"
+            else kopiujdane(data.latinName, data.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
 
             insertNode(root, &dane);
         }
