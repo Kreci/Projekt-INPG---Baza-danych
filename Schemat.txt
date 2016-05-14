@@ -612,9 +612,9 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 
 	Rodzina 	Emballonuridae – upiorowate								https://pl.wikipedia.org/wiki/Upiorowate
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	Podrodzina	Taphozoinae – grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
-CZEMU JEST PODRODZINA
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!	Rodzaj	Saccolaimus – sakiewnik
+		Podrodzina	Taphozoinae – grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
+
+			Rodzaj	Saccolaimus – sakiewnik
 
 				Gatunek	Saccolaimus flaviventris – sakiewnik żółtobrzuchy
 					Saccolaimus mixtus – sakiewnik papuaski
@@ -623,8 +623,8 @@ CZEMU JEST PODRODZINA
 
 			Rodzaj	Taphozous – grobownik
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!		Podrodzaj	Taphozous
-PODRODZAJ
+				Podrodzaj	Taphozous
+
 					Gatunek	Taphozous achates – grobownik nizinny
 						Taphozous australis – grobownik wydmowy
 						Taphozous georgianus – grobownik ostronosy
