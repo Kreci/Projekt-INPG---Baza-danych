@@ -70,6 +70,20 @@ void wczytajBaze(node ** root,  char* nazwapliku)
 }
 
 
+void zapiszDane(data dane,  char* nazwapliku)
+{
+    FILE *plik;
+    if(plik=fopen(nazwapliku, "a")!=NULL)
+    {
+        printf("blad otwarcia plku");
+        return;
+    }
+
+    fprintf(plik, "\rodzina %s\n", dane.rodzina);
+    fprintf(plik, "\rodzina %s\n", dane.rodzina);
+    fclose(plik);
+}
+
 
 
 
