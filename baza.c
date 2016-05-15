@@ -53,8 +53,8 @@ void wczytajBaze(node ** root,  char* nazwapliku)
 
     while(fscanf(plik, linia)!=EOF)
     {
-        if(indekslinii = zawiera(linia, "rodzina") kopiujdane(linia, dane.rodzina, indekslinii);
-        if(indekslinii = zawiera(linia, "rodzaj")  kopiujdane(linia, dane.rodzaj, indekslinii);
+        if(indekslinii = zawiera(linia, "Rodzina") kopiujdane(linia, dane.rodzina, indekslinii);
+        if(indekslinii = zawiera(linia, "Rodzaj")  kopiujdane(linia, dane.rodzaj, indekslinii);
         if(indekslinii = zawiera(linia, "\t\t\t\t")
         {
             if(indekslinii = kopiujdane(linia, dane.latinName, indekslinii)) //warunek sprawdzajacy czy istnieje nazwa zwyczajowa
@@ -79,8 +79,9 @@ void zapiszDane(data dane,  char* nazwapliku)
         return;
     }
 
-    fprintf(plik, "\rodzina %s\n", dane.rodzina);
-    fprintf(plik, "\rodzina %s\n", dane.rodzina);
+    fprintf(plik, "\tRodzina %s\n", dane.rodzina);
+    fprintf(plik, "\t\Rodaj %s\n", dane.rodzaj);
+    fprintf(plik, "\t\t\tGatunek %s - %s\n", dane.latinName, dane.stdName);
     fclose(plik);
 }
 
