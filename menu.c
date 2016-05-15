@@ -68,9 +68,10 @@ void menu(node* root)
                             break;
                         case 5: puts("Dostepne w DLC juz 15 maja");
                             break;
-                        default:  puts ("Nie poprawna wartosc, sprobuj ponownie");
-                            break;
                         */
+                        default:  puts ("Niepoprawna wartosc, sprobuj ponownie");
+                            break;
+                        
                     }
                 if((choice >= 1) && (choice <= 7)) // w petli while dwukrotnie czyszczenie ekranu, raczej nie potrzebne
                     {
