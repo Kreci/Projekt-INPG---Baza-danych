@@ -9,6 +9,6 @@ int main(void)
 {
     node *root = NULL;
     menu(root);
-    // funkcja czyszczaca pamiec
+    freeMem(root);
     return 0;
 }
