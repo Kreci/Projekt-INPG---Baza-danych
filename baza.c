@@ -65,6 +65,16 @@ void wczytajBaze(node ** root,  char* nazwapliku)
 
             insertNode(root, &dane);
         }
+        else if(indekslinii = zawiera(linia, "\t\t\tGatunek")
+        {
+            if(indekslinii = kopiujdane(linia, dane.latinName, indekslinii)) //warunek sprawdzajacy czy istnieje nazwa zwyczajowa
+            {
+                kopiujdane(linia, data.stdName, indekslinii);
+            }
+            else kopiujdane(data.latinName, data.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
+
+            insertNode(root, &dane);
+        } 
     }
     fclose(plik);
 }
