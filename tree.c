@@ -199,3 +199,181 @@ void deleteNode(node** root)
           return;
         }
   }
+void mDestroy(node *root, data sEntry)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
+{                                                               //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
+    node *ptr;                                      //W przeciwnym wypadku najmniejszy element prawego poddrzewa
+    node *hlp;
+    node *hlp2;
+    ptr=root;
+    int comp=compare(sEntry, root->entry);
+    if(comp!=0)                                   //Wyszukiwanie elementu do usuniecia
+    {
+            while(((comp!=1||ptr->right!=NULL)&&(comp!=-1||ptr->left!=NULL))&&(comp!=1||compare(sEntry, ptr->right->entry)!=0)&&(comp!=-1||compare(sEntry, ptr->left->entry)!=0))
+            {
+                if(comp==1)
+                    ptr=ptr->right;
+                else if(comp==-1)
+                    ptr=ptr->left;
+                comp=compare(sEntry, ptr->entry);
+            }
+            if((comp==1&&ptr->right==NULL)||(comp==-1&&ptr->left==NULL))
+            {
+                printf("Entry not found\n");
+                return;
+            }
+            else
+            {
+                if(comp==1)
+                {
+                    hlp=ptr->right;
+                    if(hlp->left==NULL&&hlp->right==NULL)               //Jesli usuwamy lisc
+                    {
+                        free(ptr->right);
+                        ptr->right=NULL;
+                        return;
+                    }
+                    else if(hlp->right==NULL)                             //Jesli najwiekszy w swoim poddrzewie
+                    {
+                        hlp=hlp->left;
+                        free(ptr->right);
+                        ptr->right=hlp;
+                        return;
+                    }
+                    else                                                    //Poszukiwanie minimum z prawego poddrzewa
+                    {
+                        if((hlp->right->left==NULL&&hlp->right->right==NULL)) //Aborcja dziecka
+                        {
+                            hlp->right->left=hlp->left;
+                            free(ptr->right);
+                            ptr->right=hlp->right;
+                            return;
+                        }
+                        else                                                    //Szukanie wglab drzewa
+                        {
+                            hlp=hlp->right;
+                            while(hlp->left->left!=NULL)
+                            {
+                                hlp=hlp->left;
+                            }
+                           hlp2=hlp->left;
+                           hlp->left=hlp2->right;
+                           hlp2->left=ptr->right->left;
+                           hlp2->right=ptr->right->right;
+                           free(ptr->right);
+                           ptr->right=hlp2;
+                           return;
+                        }
+
+                    }
+                }
+                else if(comp==-1)
+                {
+                    hlp=ptr->left;
+                    if(hlp->left==NULL&&hlp->right==NULL)               //Jesli usuwamy lisc
+                    {
+                        free(ptr->left);
+                        ptr->left=NULL;
+                        return;
+                    }
+                    else if(hlp->right==NULL)                             //Jesli najwiekszy w swoim poddrzewie (brak dziecka z prawego loza)
+                    {
+                        hlp=hlp->left;
+                        free(ptr->left);
+                        ptr->left=hlp;
+                        return;
+                    }
+                    else                                                    //Poszukiwanie najmniejszego dziecka z prawego poddrzewa
+                    {
+                        if((hlp->right->left==NULL&&hlp->right->right==NULL))
+                        {
+                            hlp->right->left=hlp->left;
+                            free(ptr->left);
+                            ptr->left=hlp->right;
+                            return;
+                        }
+                        else
+                        {
+                            hlp=hlp->right;
+                            while(hlp->left->left!=NULL)
+                            {
+                                hlp=hlp->left;
+                            }
+                           hlp2=hlp->left;
+                           hlp->left=hlp2->right;
+                           hlp2->left=ptr->left->left;
+                           hlp2->right=ptr->left->right;
+                           free(ptr->left);
+                           ptr->left=hlp2;
+                           return;
+                        }
+
+                    }
+                }
+            }
+    }
+    else                                                //Jezeli usuwamy korzen
+    {
+        if(root->right==NULL&&root->left==NULL)         //HANDLE WITH CAUTION, ZWALNIA KORZEN, 
+                                                        //albo wykluczyc albo sprawdzac w mainie i alokowac na nowo
+        {
+            free(root);
+            root=NULL;
+            return;
+        }
+        else if(root->right==NULL)
+        {
+            root->entry=root->left->entry;
+            ptr=root->left->left;
+            root->right=root->left->right;
+            free(root->left);
+            root->left=ptr;
+            return;
+        }
+        else if(root->left==NULL)
+        {
+            root->entry=root->right->entry;
+            ptr=root->right->right;
+            root->left=root->right->left;
+            free(root->right);
+            root->right=ptr;
+            return;
+        }
+        else
+        {
+            if((ptr->right->left==NULL&&ptr->right->right==NULL))
+            {
+                root->entry=root->right->entry;
+                free(root->right);
+                root->right=NULL;
+                return;
+            }
+            else
+            {
+                ptr=ptr->right;
+                while(ptr->left->left!=NULL)
+                {
+                    ptr=ptr->left;
+                }
+                root->entry=ptr->left->entry;
+                hlp=ptr->left->right;
+                free(ptr->left);
+                ptr->left=hlp;
+                return;
+            }
+        }
+    }
+}
+void freeMem(node *root)
+{
+  if(root->left!=NULL)
+  {
+    freeMem(root->left);
+    root->left=NULL;
+  }
+  if(root->right!=NULL)
+  {
+    freeMem(root->right);
+    root->right=NULL;
+  }
+  free(root);
+}
