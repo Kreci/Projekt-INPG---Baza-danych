@@ -11,6 +11,6 @@ int browse_tree(node *head);        //Umożliwia chodzenie po drzewie galez po g
 void findRecord(node*);             //wyszukuje element o zadanej nazwie gatunkowej
 int nodeNumber(node*);              //Podaje liczbe wpisow
 void deleteNode(node** root);       //Usuwa wskazany element <----Prawdopodobnie do usuniecia
-void mDestroy(node *, data);        //Usuwa wskazany element bez usuwania przypadkowych elementow
+void mDestroy(node *);        //Usuwa wskazany element bez usuwania przypadkowych elementow
 void freeMem(node*);                //Zwalnia pamiec
 #endif
