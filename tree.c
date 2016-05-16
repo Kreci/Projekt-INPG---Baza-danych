@@ -199,12 +199,15 @@ void deleteNode(node** root)
           return;
         }
   }
-void mDestroy(node *root, data sEntry)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
-{                                                               //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
+void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
+{   
+    data sEntry;                                    //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
     node *ptr;                                      //W przeciwnym wypadku najmniejszy element prawego poddrzewa
     node *hlp;
     node *hlp2;
     ptr=root;
+    printf("Podaj nazwe zwyczajowa\n");
+    scanf("%s", sEntry.stdName);
     int comp=compare(sEntry, root->entry);
     if(comp!=0)                                   //Wyszukiwanie elementu do usuniecia
     {
@@ -365,15 +368,13 @@ void mDestroy(node *root, data sEntry)                 //Usuwa wezel i wstawia i
 }
 void freeMem(node *root)
 {
-  if(root->left!=NULL)
+  if(root!=NULL)
   {
     freeMem(root->left);
     root->left=NULL;
-  }
-  if(root->right!=NULL)
-  {
-    freeMem(root->right);
+    freeMem(root-right);
     root->right=NULL;
+    free(root);
   }
-  free(root);
+  return;
 }
