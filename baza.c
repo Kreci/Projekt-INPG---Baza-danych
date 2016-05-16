@@ -25,13 +25,14 @@ int zawiera(char *linia, char *klucz) // sprawdza czy linia zawiera slowo kluczo
 
 int kopiujdane(char *linia, char *kopiujdo, int indekslinii) //kupiuje dane od konca linii, lub wystapienia znaki '-'. Zwraca 0 jesli skopiowano do konca lini lub indeks tablizy charow po pauzie
 {
-  int i=0
+  int i=0;
   while(linia[indekslinii]!='\0')
   {
     kopiujdo[i]=linia[indekslinii];
     indekslinii++;
     i++;
-    if(linia[indekslinii]!='-') return ++indekslinii;
+    if(linia[indekslinii]=='-') return ++indekslinii;
+    if(linia[indekslinii]=='\n') return 0;
   }
   return 0;
 }
@@ -51,7 +52,7 @@ void wczytajBaze(node ** root,  char* nazwapliku)
     int indekslinii;
     data dane;
 
-    while(fscanf(plik, linia)!=EOF)
+    while(fgets(linia, 100, plik)!=NULL)
     {
         if(indekslinii = zawiera(linia, "Rodzina") kopiujdane(linia, dane.rodzina, indekslinii);
         if(indekslinii = zawiera(linia, "Rodzaj")  kopiujdane(linia, dane.rodzaj, indekslinii);
