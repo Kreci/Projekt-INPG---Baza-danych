@@ -32,8 +32,16 @@ int kopiujdane(char *linia, char *kopiujdo, int indekslinii) //kupiuje dane od k
     kopiujdo[i]=linia[indekslinii];
     indekslinii++;
     i++;
-    if(linia[indekslinii]=='-') return ++indekslinii;
-    if(linia[indekslinii]=='\n') return 0;
+    if(linia[indekslinii]=='-')
+    {
+        kopiujdo[i]='\0';
+        return ++indekslinii;
+    }
+    if(linia[indekslinii]=='\n')
+    {
+        kopiujdo[i]='\0';
+        return 0;
+    }
   }
   return 0;
 }
