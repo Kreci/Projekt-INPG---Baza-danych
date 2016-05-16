@@ -1,4 +1,4 @@
-// Do testow
+// Wstepnie dziala
 #include <stdio.h>
 #include <stdlib.h>
 #include "data.h"
@@ -15,9 +15,10 @@ int zawiera(char *linia, char *klucz) // sprawdza czy linia zawiera slowo kluczo
     if(linia[i]==klucz[j])
     {
       j++;
+      i++;
       if(klucz[j]=='\0') return ++i;
     }
-    else j=0;
+    else {j=0; i++;}
   }
   return 0;
 }
@@ -42,7 +43,7 @@ int kopiujdane(char *linia, char *kopiujdo, int indekslinii) //kupiuje dane od k
 void wczytajBaze(node ** root,  char* nazwapliku)
 {
     FILE *plik;
-    if(plik=fopen(nazwapliku, "r")!=NULL)
+    if((plik=fopen(nazwapliku, "r"))==NULL)
     {
         printf("blad otwarcia plku");
         return;
@@ -54,28 +55,29 @@ void wczytajBaze(node ** root,  char* nazwapliku)
 
     while(fgets(linia, 100, plik)!=NULL)
     {
-        if(indekslinii = zawiera(linia, "Rodzina") kopiujdane(linia, dane.rodzina, indekslinii);
-        if(indekslinii = zawiera(linia, "Rodzaj")  kopiujdane(linia, dane.rodzaj, indekslinii);
-        if(indekslinii = zawiera(linia, "\t\t\t\t")
+        printf(".");
+        if(indekslinii = zawiera(linia, "Rodzina")) kopiujdane(linia, dane.rodzina, indekslinii);
+        if(indekslinii = zawiera(linia, "Rodzaj"))kopiujdane(linia, dane.rodzaj, indekslinii);
+        if(indekslinii = zawiera(linia, "\t\t\t\t"))
         {
             if(indekslinii = kopiujdane(linia, dane.latinName, indekslinii)) //warunek sprawdzajacy czy istnieje nazwa zwyczajowa
             {
-                kopiujdane(linia, data.stdName, indekslinii);
+                kopiujdane(linia, dane.stdName, indekslinii);
             }
-            else kopiujdane(data.latinName, data.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
+            else kopiujdane(dane.latinName, dane.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
 
             insertNode(root, &dane);
         }
-        else if(indekslinii = zawiera(linia, "\t\t\tGatunek")
+        else if(indekslinii = zawiera(linia, "\t\t\tGatunek"))
         {
             if(indekslinii = kopiujdane(linia, dane.latinName, indekslinii)) //warunek sprawdzajacy czy istnieje nazwa zwyczajowa
             {
-                kopiujdane(linia, data.stdName, indekslinii);
+                kopiujdane(linia, dane.stdName, indekslinii);
             }
-            else kopiujdane(data.latinName, data.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
+            else kopiujdane(dane.latinName, dane.stdName, 0); //jesli nie istnieje nazwa zwyczajowa, przyjmujemy za nią nazwe lacinska
 
             insertNode(root, &dane);
-        } 
+        }
     }
     fclose(plik);
 }
