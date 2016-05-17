@@ -1,3 +1,5 @@
+Ta wersja bazy nie jest jeszcze dokończona
+
 ﻿Domena		Eukarionty
 Królestwo		Zwierzęta
 Typ		Strunowce
@@ -6,11 +8,15 @@ Gromada		Ssaki
 Podgromada	Żyworodne
 Infragromada	Łożyskowce
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Legenda:(piszemy bez spacji)
 % F - Rodzina(Familly)
 % G - Rodzaj(Genus)
 % S - stdName
 % L - latinName
+~//	znak % lub znak nowej linii(enter) konczy wczytywanie danych do drzewa;
+~//	wszystko co nie zawiera powyższych znaczników bedzie pomijane przy wczytywaniu danych 
 
 //~~~~~~~~~~~s~~~~~~~~~~~~~~~~
  
@@ -23,32 +29,32 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Acerodon – acerodon%						https://pl.wikipedia.org/wiki/Acerodon
 
-			Gatunek	%L Acerodon celebensis – %S acerodon sulaweski%
-				%L Acerodon humilis – %S acerodon słaby%
-				%L Acerodon jubatus – %S acerodon grzywiasty%			https://pl.wikipedia.org/wiki/Acerodon_grzywiasty
-				%L Acerodon leucotis – %S acerodon palawański%
-				%L Acerodon mackloti – %S acerodon sundajski%
+			Gatunek	%L Acerodon celebensis   %S acerodon sulaweski%
+				%L Acerodon humilis   %S acerodon słaby%
+				%L Acerodon jubatus   %S acerodon grzywiasty%			https://pl.wikipedia.org/wiki/Acerodon_grzywiasty
+				%L Acerodon leucotis   %S acerodon palawański%
+				%L Acerodon mackloti   %S acerodon sundajski%
 
 		Rodzaj	%G Aethalops – owocnik		%				https://pl.wikipedia.org/wiki/Owocnik_(rodzaj_ssaka)
 
-				%L Aethalops aequalis – %S owocnik borneański%
-				%L Aethalops alecto – %S owocnik karłowaty
+				%L Aethalops aequalis  %S owocnik borneański%
+				%L Aethalops alecto   %S owocnik karłowaty
 
 		Rodzaj	%G Alionycteris – owocożerek
 
-				%L Alionycteris paucidentata – %S owocożerek gołonosy
+				%L Alionycteris paucidentata %S owocożerek gołonosy
 
 		Rodzaj	%G Aproteles – owocojadek
 
-				%L Aproteles bulmerae – %S owocojadek jaskiniowy
+				%L Aproteles bulmerae   %S owocojadek jaskiniowy
 
 		Rodzaj	%G Balionycteris – skrzydłoplamek
 
-				%L Balionycteris maculata – %S skrzydłoplamek karłowaty
+				%L Balionycteris maculata  %S skrzydłoplamek karłowaty
 
 		Rodzaj	%G Casinycteris – moczarowiec
 
-				%L Casinycteris argynnis – %S moczarowiec afrykański
+				%L Casinycteris argynnis   %S moczarowiec afrykański
 
 		Rodzaj	%G Chironax – czapecznik
 
@@ -99,9 +105,9 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Eonycteris – jutrzenkowiec%					https://pl.wikipedia.org/wiki/Jutrzenkowiec
 
-				%L Eonycteris major – %S jutrzenkowiec duży
-				%L Eonycteris robusta – %S jutrzenkowiec filipiński
-				%L Eonycteris spelaea – %S jutrzenkowiec jaskiniowy
+				%L Eonycteris major  %S jutrzenkowiec duży
+				%L Eonycteris robusta  %S jutrzenkowiec filipiński
+				%L Eonycteris spelaea  %S jutrzenkowiec jaskiniowy
 
 		Rodzaj	%G Epomophorus – pagonowiec%					https://pl.wikipedia.org/wiki/Pagonowiec
 
