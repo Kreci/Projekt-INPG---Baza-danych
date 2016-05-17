@@ -1,6 +1,6 @@
 #ifndef DATA_H
 #define DATA_H
-#define LENGTH 20
+#define LENGTH 40
 #define DSCRPTN_L 200
 
 typedef struct note // data structure
