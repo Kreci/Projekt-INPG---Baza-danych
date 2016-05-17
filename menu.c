@@ -34,6 +34,7 @@ void menu(node* root)
                         " [9] Wyszukaj rodzaj\n"     } Jedna ze specyfikacja czego
                         " [10] Wyszukaj rodzine\n"  /
                         */
+                        " [11] Wczytaj baze z pliku\n"
                         "----------------------------------------------\n"
                         " Twoj wybor: ");
                 scanf("%d", &choice);
@@ -56,6 +57,8 @@ void menu(node* root)
                         case 4: findMax(root);
                             break;
                         case 5: findRecord(root);
+                            break;
+                        case 11: wczytajBaze(& root,  "Baza.txt");
                             break;
                        /* case 6: mDestroy(root);               soonTM
                             break;
