@@ -308,8 +308,7 @@ void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowied
     }
     else                                                //Jezeli usuwamy korzen
     {
-        if(root->right == NULL && root->left == NULL)         //HANDLE WITH CAUTION, ZWALNIA KORZEN, 
-                                                        //albo wykluczyc albo sprawdzac w mainie i alokowac na nowo
+        if(root->right == NULL && root->left == NULL)         //PROBLEM
         {
             free(root);
             root = NULL;
