@@ -178,9 +178,9 @@ void findRecord(node *root)             //wyszukuje element o zadanej nazwie gat
         while(root != NULL)
             {
                 if(compare(root->entry, input) == -1)
-                    root = root->left;
-                else if(compare(root->entry, input) == 1)
                     root = root->right;
+                else if(compare(root->entry, input) == 1)
+                    root = root->left;
                 else
                     {
                         display(root->entry);
@@ -364,7 +364,7 @@ void freeMem(node *root)
   {
     freeMem(root->left);
     root->left = NULL;
-    freeMem(root-right);
+    freeMem(root->right);
     root->right = NULL;
     free(root);
   }
