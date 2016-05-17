@@ -1,16 +1,16 @@
-Domena		Eukarionty
-Królestwo		Zwierzęta
-Typ		Strunowce
-Podtyp		Kręgowce
-Gromada		Ssaki
-Podgromada	Żyworodne
-Infragromada	Łożyskowce
-
+//Domena		Eukarionty
+//Królestwo		Zwierzęta
+//Typ		Strunowce
+//Podtyp		Kręgowce
+//Gromada		Ssaki
+//Podgromada	Żyworodne
+//Infragromada	Łożyskowce
+//
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Rząd	Nietoperze
-
-
+//
+//Rząd	Nietoperze
+//
+//
 Podrząd	Pteropodiformes - rudawkokształtne
 
 	Rodzina 	Pteropodidae – rudawkowate							https://pl.wikipedia.org/wiki/Rudawkowate
@@ -605,8 +605,6 @@ Podrząd	Pteropodiformes - rudawkokształtne
 		Rodzaj	Craseonycterid - świnionos
 
 				Craseonycteris thonglongyai - świnionos malutki				https://pl.wikipedia.org/wiki/%C5%9Awinionos_malutki
-
-//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org/wiki/Mroczkokszta%C5%82tne
 
