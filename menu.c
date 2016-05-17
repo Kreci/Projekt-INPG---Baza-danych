@@ -46,6 +46,7 @@ void menu(node* root)
 
                 switch(choice)
                     {
+                        case 0: break;
                         case 1: addNodes(&root);
                             break;
                         case 2: fDisplay(root);
