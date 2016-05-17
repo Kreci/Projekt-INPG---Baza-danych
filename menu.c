@@ -25,7 +25,7 @@ void menu(node* root)
                         " [3] Wypisz pierwszy (alfabetycznie) rekord\n"
                         " [4] Wypisz ostatni (alfabetycznie) rekord\n"
                         " [5] Wyszukaj rekord\n"
-                        " [6] Usun wpis\n"
+                        //" [6] Usun wpis\n"                        soonTM, problem z usuwaniem roota
                         /*
                         " [5] Wypisz spis gatunków\n" \
                         " [6] Wypisz spis rodzai\n"    } Jedna ze specyfikacja czego
@@ -57,9 +57,8 @@ void menu(node* root)
                             break;
                         case 5: findRecord(root);
                             break;
-                        case 6: mDestroy(root);
+                       /* case 6: mDestroy(root);               soonTM
                             break;
-                        /*
                         case 5: findRecord(node *root);
                             break;
                         case 6: puts("Dostepne w DLC juz 15 maja");
