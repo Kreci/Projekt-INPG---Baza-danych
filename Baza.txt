@@ -1,7 +1,7 @@
 Ta wersja bazy nie jest jeszcze dokończona
 
 ﻿Domena		Eukarionty
-Królestwo		Zwierzęta
+Królestwo	Zwierzęta
 Typ		Strunowce
 Podtyp		Kręgowce
 Gromada		Ssaki
