@@ -366,6 +366,7 @@ void freeMem(node *root)
     freeMem(root->right);
     root->right = NULL;
     free(root);
+    root=NULL;
   }
   return;
 }
