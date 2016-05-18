@@ -1,6 +1,6 @@
-Ta wersja bazy nie jest jeszcze dokończona
+/* Ta wersja bazy nie jest jeszcze dokończona
 
-﻿Domena		Eukarionty
+Domena		Eukarionty
 Królestwo	Zwierzęta
 Typ		Strunowce
 Podtyp		Kręgowce
@@ -22,7 +22,7 @@ Legenda:(piszemy bez spacji)
  
 Rząd	Nietoperze
 
-
+*/
 Podrząd	Pteropodiformes - rudawkokształtne
 
 	Rodzina 	%F Pteropodidae – rudawkowate%					%		https://pl.wikipedia.org/wiki/Rudawkowate
@@ -58,50 +58,50 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Chironax – czapecznik%
 
-				 %L Chironax melanocephalus – %S czapecznik owocożerny%
+				 %L Chironax melanocephalus   %S czapecznik owocożerny%
 
 		Rodzaj	%G Cynopterus – krótkonosek%					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
 
-				%L Cynopterus brachyotis – %S krótkonosek krótkouchy%
-				%L Cynopterus horsfieldii – %S krótkonosek sundajski%
-				%L Cynopterus luzoniensis – %S krótkonosek uprawowy%
-				%L Cynopterus minutus – %S krótkonosek drobny%
-				%L Cynopterus nusatenggara – %S krótkonosek wyspowy%
-				%L Cynopterus sphinx – %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
-				%L Cynopterus titthaecheilus – %S krótkonosek indonezyjski%
+				%L Cynopterus brachyotis   %S krótkonosek krótkouchy%
+				%L Cynopterus horsfieldii   %S krótkonosek sundajski%
+				%L Cynopterus luzoniensis   %S krótkonosek uprawowy%
+				%L Cynopterus minutus   %S krótkonosek drobny%
+				%L Cynopterus nusatenggara   %S krótkonosek wyspowy%
+				%L Cynopterus sphinx   %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
+				%L Cynopterus titthaecheilus   %S krótkonosek indonezyjski%
 
 		Rodzaj	%G Desmalopex – rudawnik%					https://pl.wikipedia.org/wiki/Rudawnik
 
-				%L Desmalopex leucopterus – %S rudawnik białoskrzydły%
-				%L Desmalopex microleucopterus – %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
+				%L Desmalopex leucopterus   %S rudawnik białoskrzydły%
+				%L Desmalopex microleucopterus   %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
 
 		Rodzaj	%G Dobsonia – gołogrzbietek%					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
 
-				%L Dobsonia andersoni – %S gołogrzbietek archipelagowy%
-				%L Dobsonia beauforti – %S gołogrzbietek wyspowy%
-				%L Dobsonia chapmani – %S gołogrzbietek negroski%
-				%L Dobsonia crenulata – %S gołogrzbietek halmaherski%
-				%L Dobsonia emersa – %S gołogrzbietek jaksiniowy%
-				%L Dobsonia exoleta – %S gołogrzbietek sulaweski%
-				%L Dobsonia inermis – %S gołogrzbietek bezbronny%
-				%L Dobsonia magna – %S gołogrzbietek duży%
-				%L Dobsonia minor – %S gołogrzbietek mały%
-				%L Dobsonia moluccensis – %S gołogrzbietek molucki%
-				%L Dobsonia pannietensis – %S gołogrzbietek zatokowy%
-				%L Dobsonia peronii – %S gołogrzbietek leśny%
-				%L Dobsonia praedatrix – %S gołogrzbietek nowobrytyjski%
-				%L Dobsonia viridis – %S gołogrzbietek zielonawy%
+				%L Dobsonia andersoni   %S gołogrzbietek archipelagowy%
+				%L Dobsonia beauforti   %S gołogrzbietek wyspowy%
+				%L Dobsonia chapmani   %S gołogrzbietek negroski%
+				%L Dobsonia crenulata   %S gołogrzbietek halmaherski%
+				%L Dobsonia emersa   %S gołogrzbietek jaksiniowy%
+				%L Dobsonia exoleta   %S gołogrzbietek sulaweski%
+				%L Dobsonia inermis   %S gołogrzbietek bezbronny%
+				%L Dobsonia magna   %S gołogrzbietek duży%
+				%L Dobsonia minor   %S gołogrzbietek mały%
+				%L Dobsonia moluccensis   %S gołogrzbietek molucki%
+				%L Dobsonia pannietensis   %S gołogrzbietek zatokowy%
+				%L Dobsonia peronii   %S gołogrzbietek leśny%
+				%L Dobsonia praedatrix   %S gołogrzbietek nowobrytyjski%
+				%L Dobsonia viridis   %S gołogrzbietek zielonawy%
 
 		Rodzaj	%G Dyacopterus – dajakolot%					https://pl.wikipedia.org/wiki/Dajakolot\
 
-				%L Dyacopterus brooksi – %S dajakolot sumatrzański%
-				%L Dyacopterus rickarti – %S dajakolot filipiński%
-				%L Dyacopterus spadiceus – %S dajakolot sundajski%
+				%L Dyacopterus brooksi   %S dajakolot sumatrzański%
+				%L Dyacopterus rickarti   %S dajakolot filipiński%
+				%L Dyacopterus spadiceus   %S dajakolot sundajski%
 
 		Rodzaj	%G Eidolon – zjawa%						https://pl.wikipedia.org/wiki/Zjawa_(rodzaj_ssaka)
 
-				%L Eidolon dupreanum – %S zjawa madagaskarska%
-				%L Eidolon helvum – %S zjawa płowa%				https://pl.wikipedia.org/wiki/Zjawa_p%C5%82owa
+				%L Eidolon dupreanum   %S zjawa madagaskarska%
+				%L Eidolon helvum   %S zjawa płowa%				https://pl.wikipedia.org/wiki/Zjawa_p%C5%82owa
 
 		Rodzaj	%G Eonycteris – jutrzenkowiec%					https://pl.wikipedia.org/wiki/Jutrzenkowiec
 
@@ -111,203 +111,203 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Epomophorus – pagonowiec%					https://pl.wikipedia.org/wiki/Pagonowiec
 
-				%L Epomophorus angolensis – %S pagonowiec angolański%
-				%L Epomophorus anselli – %S pagonowiec malawski%
-				%L Epomophorus crypturus – %S pagonowiec mozambicki%
-				%L Epomophorus gambianus – %S pagonowiec gambijski%
-				%L Epomophorus grandis – %S pagonowiec samotny%
-				%L Epomophorus labiatus – %S pagonowiec etiopski%
-				%L Epomophorus minimus – %S pagonowiec malutki%
-				%L Epomophorus minor – %S pagonowiec mały%
-				%L Epomophorus wahlbergi – %S pagonowiec baobabowy%
+				%L Epomophorus angolensis   %S pagonowiec angolański%
+				%L Epomophorus anselli   %S pagonowiec malawski%
+				%L Epomophorus crypturus   %S pagonowiec mozambicki%
+				%L Epomophorus gambianus   %S pagonowiec gambijski%
+				%L Epomophorus grandis   %S pagonowiec samotny%
+				%L Epomophorus labiatus   %S pagonowiec etiopski%
+				%L Epomophorus minimus   %S pagonowiec malutki%
+				%L Epomophorus minor   %S pagonowiec mały%
+				%L Epomophorus wahlbergi   %S pagonowiec baobabowy%
 
 		Rodzaj	%G Epomops – epoletnik%						https://pl.wikipedia.org/wiki/Epoletnik
 
-				%L Epomops buettikoferi – %S epoletnik gwinejski%
-				%L Epomops dobsonii – %S epoletnik śpiewający%
-				%L Epomops franqueti – %S epoletnik afrykański	%		https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
+				%L Epomops buettikoferi   %S epoletnik gwinejski%
+				%L Epomops dobsonii   %S epoletnik śpiewający%
+				%L Epomops franqueti   %S epoletnik afrykański	%		https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
 
 		Rodzaj	%G Haplonycteris – długopalczyk%
 
-				%L Haplonycteris fischeri – %S długopalczyk filipiński%
+				%L Haplonycteris fischeri   %S długopalczyk filipiński%
 
 		Rodzaj	%G Harpyionycteris – harpiolot%					https://pl.wikipedia.org/wiki/Harpiolot
 
-				%L Harpyionycteris celebensis – %S harpiolot sulaweski%
-				%L Harpyionycteris whiteheadi – %S harpiolot filipiński	%	https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
+				%L Harpyionycteris celebensis   %S harpiolot sulaweski%
+				%L Harpyionycteris whiteheadi   %S harpiolot filipiński	%	https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
 
 		Rodzaj	%G Hypsignathus – młotogłów
 
-				%L Hypsignathus monstrosus – %S młotogłów wielkogłowy%		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
+				%L Hypsignathus monstrosus   %S młotogłów wielkogłowy%		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
 
 		Rodzaj	%G Latidens – tamilolot
 
-				%L Latidens salimalii – %S tamilolot jaskiniowy
+				%L Latidens salimalii   %S tamilolot jaskiniowy
 
 		Rodzaj	%G Lissonycteris – owocolot
 
-				%L Lissonycteris angolensis – %S owocolot afrykański
+				%L Lissonycteris angolensis   %S owocolot afrykański
 
 		Rodzaj	%G Macroglossus – języcznik%					https://pl.wikipedia.org/wiki/J%C4%99zycznik_(rodzaj_ssaka)
 
-				%L Macroglossus minimus – %S języcznik malutki	%	https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
-				%L Macroglossus sabrinus – %S języcznik większy
+				%L Macroglossus minimus   %S języcznik malutki	%	https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
+				%L Macroglossus sabrinus   %S języcznik większy
 
 		Rodzaj	%G Megaerops – bezogoniec%					https://pl.wikipedia.org/wiki/Bezogoniec
 
-				%L Megaerops ecaudatus – %S bezogoniec sundajski
-				%L Megaerops kusnotoi – %S bezogoniec jawajski
-				%L Megaerops niphanae – %S bezogoniec indochiński
-				%L Megaerops wetmorei – %S bezogoniec obrożny
+				%L Megaerops ecaudatus   %S bezogoniec sundajski
+				%L Megaerops kusnotoi   %S bezogoniec jawajski
+				%L Megaerops niphanae   %S bezogoniec indochiński
+				%L Megaerops wetmorei   %S bezogoniec obrożny
 
 		Rodzaj	%G Megaloglossus – ozornik
 
-				%L Megaloglossus woermanni – %S ozornik afrykański
+				%L Megaloglossus woermanni   %S ozornik afrykański
 
 		Rodzaj	%G Melonycteris – solomonowiec%					https://pl.wikipedia.org/wiki/Solomonowiec
 
-				%L Melonycteris melanops – %S solomonowiec czarnobrzuchy
-				%L Melonycteris fardoulisi – %S solomonowiec kwiatowy
-				%L Melonycteris woodfordi – %S solomonowiec drzewny
+				%L Melonycteris melanops   %S solomonowiec czarnobrzuchy
+				%L Melonycteris fardoulisi   %S solomonowiec kwiatowy
+				%L Melonycteris woodfordi   %S solomonowiec drzewny
 
 		Rodzaj	%G Micropteropus – epoletniczek	%				https://pl.wikipedia.org/wiki/Epoletniczek
 
-				%L Micropteropus intermedius – %S epoletniczek większy
-				%L Micropteropus pusillus – %S epoletniczek drobny
+				%L Micropteropus intermedius   %S epoletniczek większy
+				%L Micropteropus pusillus   %S epoletniczek drobny
 
 		Rodzaj	%G Mirimiri – małpionosek
 
-				%L Mirimiri acrodonta – %S małpionosek fidżijski
+				%L Mirimiri acrodonta   %S małpionosek fidżijski
 
 		Rodzaj	%G Myonycteris – myszolot%					https://pl.wikipedia.org/wiki/Myszolot
 
-				%L Myonycteris brachycephala – %S myszolot wyspowy
-				%L Myonycteris relicta – %S myszolot reliktowy
-				%L Myonycteris torquata – %S myszolot obrożny
+				%L Myonycteris brachycephala   %S myszolot wyspowy
+				%L Myonycteris relicta   %S myszolot reliktowy
+				%L Myonycteris torquata   %S myszolot obrożny
 
 		Rodzaj	%G Nanonycteris – drobnolot
 
-				%L Nanonycteris veldkampii – %S drobnolot afrykański
+				%L Nanonycteris veldkampii   %S drobnolot afrykański
 
 		Rodzaj	%G Neopteryx – owocniczek
 
-				%L Neopteryx frosti – %S owocniczek drobnozębny
+				%L Neopteryx frosti   %S owocniczek drobnozębny
 
 		Rodzaj	%G Notopteris – ogoniec	%					https://pl.wikipedia.org/wiki/Ogoniec
 
-				%L Notopteris macdonaldi – %S ogoniec polinezyjski
-				%L Notopteris neocaledonica – %S ogoniec nowokaledoński
+				%L Notopteris macdonaldi   %S ogoniec polinezyjski
+				%L Notopteris neocaledonica   %S ogoniec nowokaledoński
 
 		Rodzaj	%G Nyctimene – rurkonos	%				https://pl.wikipedia.org/wiki/Rurkonos
 
-				%L Nyctimene aello – %S rurkonos szerokopaskowany
-				%L Nyctimene albiventer – %S rurkonos papuaski
-				%L Nyctimene cephalotes – %S rurkonos sulaweski
-				%L Nyctimene certans – %S rurkonos górski
-				%L Nyctimene cyclotis – %S rurkonos okrągłouchy	%	https://pl.wikipedia.org/wiki/Rurkonos_okr%C4%85g%C5%82ouchy
-				%L Nyctimene draconilla – %S rurkonos smoczy
-				%L Nyctimene keasti – %S rurkonos molucki
-				%L Nyctimene major – %S rurkonos wyspowy%			https://pl.wikipedia.org/wiki/Rurkonos_wyspowy
-				%L Nyctimene malaitensis – %S rurkonos salomoński
-				%L Nyctimene masalai – %S rurkonos demoniczny
-				%L Nyctimene minutus – %S rurkonos mały
-				%L Nyctimene rabori – %S rurkonos filipiński
-				%L Nyctimene robinsoni – %S rurkonos żółtoplamy
-				%L Nyctimene sanctacrucis – %S rurkonos samotny
-				%L Nyctimene vizcaccia – %S rurkonos archipelagowy
+				%L Nyctimene aello   %S rurkonos szerokopaskowany
+				%L Nyctimene albiventer   %S rurkonos papuaski
+				%L Nyctimene cephalotes   %S rurkonos sulaweski
+				%L Nyctimene certans   %S rurkonos górski
+				%L Nyctimene cyclotis   %S rurkonos okrągłouchy	%	https://pl.wikipedia.org/wiki/Rurkonos_okr%C4%85g%C5%82ouchy
+				%L Nyctimene draconilla   %S rurkonos smoczy
+				%L Nyctimene keasti   %S rurkonos molucki
+				%L Nyctimene major   %S rurkonos wyspowy%			https://pl.wikipedia.org/wiki/Rurkonos_wyspowy
+				%L Nyctimene malaitensis   %S rurkonos salomoński
+				%L Nyctimene masalai   %S rurkonos demoniczny
+				%L Nyctimene minutus   %S rurkonos mały
+				%L Nyctimene rabori   %S rurkonos filipiński
+				%L Nyctimene robinsoni   %S rurkonos żółtoplamy
+				%L Nyctimene sanctacrucis   %S rurkonos samotny
+				%L Nyctimene vizcaccia   %S rurkonos archipelagowy
 
 		Rodzaj	%G Otopteropus – luzańczyk
 
-				%L Otopteropus cartilagonodus – %S luzańczyk dżunglowy
+				%L Otopteropus cartilagonodus   %S luzańczyk dżunglowy
 
 		Rodzaj	%G Paranyctimene – rurkonosek	%				https://pl.wikipedia.org/wiki/Rurkonosek
 
-				%L Paranyctimene raptor – %S rurkonosek jednobarwny
-				%L Paranyctimene tenax – %S rurkonosek uparty
+				%L Paranyctimene raptor   %S rurkonosek jednobarwny
+				%L Paranyctimene tenax  %S rurkonosek uparty
 
 		Rodzaj	%G Penthetor – psolotek
 
-				%L Penthetor lucasi – %S psolotek ciemny
+				%L Penthetor lucasi  %S psolotek ciemny
 
 		Rodzaj	%G Plerotes – rudawnica
 
-				%L Plerotes anchietae – %S rudawnica afrykańska
+				%L Plerotes anchietae  %S rudawnica afrykańska
 
 		Rodzaj	%G Ptenochirus – piżmolot	%				https://pl.wikipedia.org/wiki/Pi%C5%BCmolot
 
-				%L Ptenochirus jegori – %S piżmolot duży
-				%L Ptenochirus minor – %S piżmolot mały
+				%L Ptenochirus jegori   %S piżmolot duży
+				%L Ptenochirus minor   %S piżmolot mały
 
 		Rodzaj	%G Pteralopex – skrzydłolis%					https://pl.wikipedia.org/wiki/Skrzyd%C5%82olis
 
-				%L Pteralopex anceps – %S skrzydłolis żółtobrzuchy
-				%L Pteralopex atrata – %S skrzydłolis sierpozębny
-				%L Pteralopex flanneryi – %S skrzydłolis samotny
-				%L Pteralopex pulchra – %S skrzydłolis górski
-				%L Pteralopex taki – %S skrzydłolis dziuplowy
+				%L Pteralopex anceps   %S skrzydłolis żółtobrzuchy
+				%L Pteralopex atrata   %S skrzydłolis sierpozębny
+				%L Pteralopex flanneryi   %S skrzydłolis samotny
+				%L Pteralopex pulchra   %S skrzydłolis górski
+				%L Pteralopex taki   %S skrzydłolis dziuplowy
 
 		Rodzaj	%G Pteropus – rudawka	%					https://pl.wikipedia.org/wiki/Rudawka_(rodzaj_ssaka)
 
-				%L Pteropus admiralitatum – %S rudawka admiralska
-				%L Pteropus aldabrensis – %S rudawka aldabrańska
-				%L Pteropus alecto – %S rudawka żałobna
-				%L Pteropus allenorum – %S rudawka muzealna
-				%L Pteropus anetianus – %S rudawka biała
-				%L Pteropus argentanus – %S rudawka srebrzysta
-				%L Pteropus aruensis – %S rudawka aruańska
-				%L Pteropus banakrisi – %S rudawka czarnawa
-				%L Pteropus brunneus – %S rudawka ciemna
-				%L Pteropus caniceps – %S rudawka popielatogłowa
-				%L Pteropus capistratus – %S rudawka maskowa
-				%L Pteropus chrysoproctus – %S rudawka molucka
-				%L Pteropus cognatus – %S rudawka makirska
-				%L Pteropus conspicillatus – %S rudawka okularowa
-				%L Pteropus coxi – %S rudawka zapomniana
-				%L Pteropus dasymallus – %S rudawka figowa
-				%L Pteropus faunulus – %S rudawka nikobarska
-				%L Pteropus fundatus – %S rudawka nizinna
-				%L Pteropus giganteus – %S rudawka wielka %			https://pl.wikipedia.org/wiki/Rudawka_wielka
-				%L Pteropus gilliardorum – %S rudawka samotna%
-				%L Pteropus griseus – %S rudawka szara
-				%L Pteropus howensis – %S rudawka atolowa
-				%L Pteropus hypomelanus – %S rudawka zmienna
-				%L Pteropus insularis – %S rudawka wyspowa
-				%L Pteropus intermedius – %S rudawka birmańska
-				%L Pteropus keyensis – %S rudawka pustelnicza
-				%L Pteropus livingstonei – %S rudawka komorska	%	https://pl.wikipedia.org/wiki/Rudawka_komorska
-				%L Pteropus lombocensis – %S rudawka plantacjowa
-				%L Pteropus loochoensis – %S rudawka okinawska
-				%L Pteropus lylei – %S rudawka złotoszyja
-				%L Pteropus macrotis – %S rudawka wielkoucha
-				%L Pteropus mahaganus – %S rudawka mahagańska
-				%L Pteropus mariannus – %S rudawka mariańska%		https://pl.wikipedia.org/wiki/Rudawka_maria%C5%84ska
-				%L Pteropus melanopogon – %S rudawka czarnobroda
-				%L Pteropus melanotus – %S rudawka czarnoucha
-				%L Pteropus molossinus – %S rudawka mikronezyjska
-				%L Pteropus neohibernicus – %S rudawka duża
-				%L Pteropus niger – %S rudawka mauritiuska
-				%L Pteropus nitendiensis – %S rudawka namorzynowa
-				%L Pteropus ocularis – %S rudawka seramska
-				%L Pteropus ornatus – %S rudawka ozdobna
-				%L Pteropus pelewensis – %S rudawka pelewska
-				%L Pteropus personatus – %S rudawka zamaskowana
-				%L Pteropus pilosus – %S rudawka owłosiona
-				%L Pteropus pohlei – %S rudawka tropikalna
-				%L Pteropus poliocephalus – %S rudawka szarogłowa
-				%L Pteropus pselaphon – %S rudawka bonińska
-				%L Pteropus pumilus – %S rudawka karłowata
-				%L Pteropus rayneri – %S rudawka salomońska
-				%L Pteropus rennelli – %S rudawka rafowa
-				%L Pteropus rodricensis – %S rudawka gromadna
-				%L Pteropus rufus – %S rudawka madagaskarska
-				%L Pteropus samoensis – %S rudawka samoańska
-				%L Pteropus scapulatus – %S rudawka eukaliptusowa
-				%L Pteropus seychellensis – %S rudawka seszelska
-				%L Pteropus speciosus – %S rudawka piękna
-				%L Pteropus subniger – %S rudawka maskareńska
-				%L Pteropus temminckii – %S rudawka okazała
-				%L Pteropus tokudae – %S rudawka guamska%			https://pl.wikipedia.org/wiki/Rudawka_guamska
-				%L Pteropus tonganus – %S rudawka pacyficzna
+				%L Pteropus admiralitatum   %S rudawka admiralska
+				%L Pteropus aldabrensis   %S rudawka aldabrańska
+				%L Pteropus alecto   %S rudawka żałobna
+				%L Pteropus allenorum   %S rudawka muzealna
+				%L Pteropus anetianus   %S rudawka biała
+				%L Pteropus argentanus   %S rudawka srebrzysta
+				%L Pteropus aruensis   %S rudawka aruańska
+				%L Pteropus banakrisi   %S rudawka czarnawa
+				%L Pteropus brunneus   %S rudawka ciemna
+				%L Pteropus caniceps   %S rudawka popielatogłowa
+				%L Pteropus capistratus   %S rudawka maskowa
+				%L Pteropus chrysoproctus   %S rudawka molucka
+				%L Pteropus cognatus   %S rudawka makirska
+				%L Pteropus conspicillatus   %S rudawka okularowa
+				%L Pteropus coxi   %S rudawka zapomniana
+				%L Pteropus dasymallus   %S rudawka figowa
+				%L Pteropus faunulus   %S rudawka nikobarska
+				%L Pteropus fundatus   %S rudawka nizinna
+				%L Pteropus giganteus   %S rudawka wielka %			https://pl.wikipedia.org/wiki/Rudawka_wielka
+				%L Pteropus gilliardorum   %S rudawka samotna%
+				%L Pteropus griseus   %S rudawka szara
+				%L Pteropus howensis   %S rudawka atolowa
+				%L Pteropus hypomelanus   %S rudawka zmienna
+				%L Pteropus insularis   %S rudawka wyspowa
+				%L Pteropus intermedius   %S rudawka birmańska
+				%L Pteropus keyensis   %S rudawka pustelnicza
+				%L Pteropus livingstonei   %S rudawka komorska	%	https://pl.wikipedia.org/wiki/Rudawka_komorska
+				%L Pteropus lombocensis   %S rudawka plantacjowa
+				%L Pteropus loochoensis   %S rudawka okinawska
+				%L Pteropus lylei   %S rudawka złotoszyja
+				%L Pteropus macrotis   %S rudawka wielkoucha
+				%L Pteropus mahaganus   %S rudawka mahagańska
+				%L Pteropus mariannus   %S rudawka mariańska%		https://pl.wikipedia.org/wiki/Rudawka_maria%C5%84ska
+				%L Pteropus melanopogon   %S rudawka czarnobroda
+				%L Pteropus melanotus   %S rudawka czarnoucha
+				%L Pteropus molossinus   %S rudawka mikronezyjska
+				%L Pteropus neohibernicus   %S rudawka duża
+				%L Pteropus niger   %S rudawka mauritiuska
+				%L Pteropus nitendiensis   %S rudawka namorzynowa
+				%L Pteropus ocularis   %S rudawka seramska
+				%L Pteropus ornatus   %S rudawka ozdobna
+				%L Pteropus pelewensis   %S rudawka pelewska
+				%L Pteropus personatus   %S rudawka zamaskowana
+				%L Pteropus pilosus   %S rudawka owłosiona
+				%L Pteropus pohlei   %S rudawka tropikalna
+				%L Pteropus poliocephalus   %S rudawka szarogłowa
+				%L Pteropus pselaphon   %S rudawka bonińska
+				%L Pteropus pumilus   %S rudawka karłowata
+				%L Pteropus rayneri   %S rudawka salomońska
+				%L Pteropus rennelli   %S rudawka rafowa
+				%L Pteropus rodricensis   %S rudawka gromadna
+				%L Pteropus rufus   %S rudawka madagaskarska
+				%L Pteropus samoensis   %S rudawka samoańska
+				%L Pteropus scapulatus   %S rudawka eukaliptusowa
+				%L Pteropus seychellensis   %S rudawka seszelska
+				%L Pteropus speciosus   %S rudawka piękna
+				%L Pteropus subniger   %S rudawka maskareńska
+				%L Pteropus temminckii   %S rudawka okazała
+				%L Pteropus tokudae   %S rudawka guamska%			https://pl.wikipedia.org/wiki/Rudawka_guamska
+				%L Pteropus tonganus   %S rudawka pacyficzna
 				%L Pteropus tuberculatus – %S rudawka eremicka
 				%L Pteropus ualanus – %S rudawka nadbrzeżna
 				%L Pteropus vampyrus – %S rudawka malajska	%		https://pl.wikipedia.org/wiki/Rudawka_malajska
