@@ -549,14 +549,14 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	Cloeotis – krótkouszek
 
-				Cloeotis percivali – krótkouszek afrykański
+				Cloeotis percivali   krótkouszek afrykański
 
 			%G Coelops – bezogończyk							https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk
 
-				Coelops frithii – bezogończyk krągłouchy					https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk_kr%C4%85g%C5%82ouchy
-				Coelops robinsoni – bezogończyk malajski
+				Coelops frithii   bezogończyk krągłouchy					https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk_kr%C4%85g%C5%82ouchy
+				Coelops robinsoni   bezogończyk malajski
 
-			%G Rhinonicteris – rogonos
+			%G Rhinonicteris   rogonos
 
 				Rhinonicteris aurantia – rogonos pomarańczowy
 
