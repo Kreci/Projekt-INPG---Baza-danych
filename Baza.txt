@@ -58,39 +58,39 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Chironax – czapecznik%
 
-				 %L Chironax melanocephalus   %S czapecznik owocożerny%
+				 %L Chironax melanocephalus – %S czapecznik owocożerny%
 
 		Rodzaj	%G Cynopterus – krótkonosek%					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
 
-				%L Cynopterus brachyotis   %S krótkonosek krótkouchy%
-				%L Cynopterus horsfieldii   %S krótkonosek sundajski%
-				%L Cynopterus luzoniensis   %S krótkonosek uprawowy%
-				%L Cynopterus minutus   %S krótkonosek drobny%
-				%L Cynopterus nusatenggara   %S krótkonosek wyspowy%
-				%L Cynopterus sphinx   %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
-				%L Cynopterus titthaecheilus   %S krótkonosek indonezyjski%
+				%L Cynopterus brachyotis – %S krótkonosek krótkouchy%
+				%L Cynopterus horsfieldii – %S krótkonosek sundajski%
+				%L Cynopterus luzoniensis – %S krótkonosek uprawowy%
+				%L Cynopterus minutus – %S krótkonosek drobny%
+				%L Cynopterus nusatenggara – %S krótkonosek wyspowy%
+				%L Cynopterus sphinx – %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
+				%L Cynopterus titthaecheilus – %S krótkonosek indonezyjski%
 
 		Rodzaj	%G Desmalopex – rudawnik%					https://pl.wikipedia.org/wiki/Rudawnik
 
-				%L Desmalopex leucopterus   %S rudawnik białoskrzydły%
-				%L Desmalopex microleucopterus   %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
+				%L Desmalopex leucopterus – %S rudawnik białoskrzydły%
+				%L Desmalopex microleucopterus – %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
 
 		Rodzaj	%G Dobsonia – gołogrzbietek%					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
 
-				%L Dobsonia andersoni   %S gołogrzbietek archipelagowy%
-				%L Dobsonia beauforti   %S gołogrzbietek wyspowy%
-				%L Dobsonia chapmani   %S gołogrzbietek negroski%
-				%L Dobsonia crenulata   %S gołogrzbietek halmaherski%
-				%L Dobsonia emersa   %S gołogrzbietek jaksiniowy%
-				%L Dobsonia exoleta   %S gołogrzbietek sulaweski%
-				%L Dobsonia inermis   %S gołogrzbietek bezbronny%
-				%L Dobsonia magna   %S gołogrzbietek duży%
-				%L Dobsonia minor   %S gołogrzbietek mały%
-				%L Dobsonia moluccensis   %S gołogrzbietek molucki%
-				%L Dobsonia pannietensis   %S gołogrzbietek zatokowy%
-				%L Dobsonia peronii   %S gołogrzbietek leśny%
-				%L Dobsonia praedatrix   %S gołogrzbietek nowobrytyjski%
-				%L Dobsonia viridis   %S gołogrzbietek zielonawy%
+				%L Dobsonia andersoni – %S gołogrzbietek archipelagowy%
+				%L Dobsonia beauforti – %S gołogrzbietek wyspowy%
+				%L Dobsonia chapmani – %S gołogrzbietek negroski%
+				%L Dobsonia crenulata – %S gołogrzbietek halmaherski%
+				%L Dobsonia emersa – %S gołogrzbietek jaksiniowy%
+				%L Dobsonia exoleta – %S gołogrzbietek sulaweski%
+				%L Dobsonia inermis – %S gołogrzbietek bezbronny%
+				%L Dobsonia magna – %S gołogrzbietek duży%
+				%L Dobsonia minor – %S gołogrzbietek mały%
+				%L Dobsonia moluccensis – %S gołogrzbietek molucki%
+				%L Dobsonia pannietensis – %S gołogrzbietek zatokowy%
+				%L Dobsonia peronii – %S gołogrzbietek leśny%
+				%L Dobsonia praedatrix – %S gołogrzbietek nowobrytyjski%
+				%L Dobsonia viridis – %S gołogrzbietek zielonawy%
 
 		Rodzaj	%G Dyacopterus – dajakolot%					https://pl.wikipedia.org/wiki/Dajakolot\
 
@@ -757,7 +757,7 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 
 					Gatunek	Myzopoda aurita – ssawkonóg uszaty				https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_uszaty
 						Myzopoda schliemanni – ssawkonóg skryty			https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_skryty
-						Myzopoda africana
+						Myzopoda africana - ssawkonog afrykanski
 				Phasmatonycteris			
 
 	Rodzina 	Mystacinidae – wąsonosowate									https://pl.wikipedia.org/wiki/W%C4%85sonosowate
@@ -784,7 +784,7 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 							Diaemus youngi – wampirzec białoskrzydły
 				Rodzaj	Diphylla – wampirek
 
-							wampirek sierścionogi
+							Diphylla hairea - wampirek sierścionogi
 
 		Podrodzina	Brachyphyllinae – rękoliście							https://pl.wikipedia.org/wiki/R%C4%99koli%C5%9Bcie
 
@@ -1109,13 +1109,13 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 
 	Rodzina 	Mormoopidae – straszakowate									https://pl.wikipedia.org/wiki/Straszakowate
 
-		Rodzaj	Heleophryne
+		Rodzaj	Heleophryne - Straszaki
 
-			Gatunek	Heleophryne hewitti								https://pl.wikipedia.org/wiki/Heleophryne_hewitti
-				Heleophryne natalensis							https://pl.wikipedia.org/wiki/Heleophryne_natalensis
-				Heleophryne orientalis							https://pl.wikipedia.org/wiki/Heleophryne_orientalis
-				Heleophryne purcelli
-				Heleophryne regis
+			Gatunek	Heleophryne hewitti - straszak helwecki						https://pl.wikipedia.org/wiki/Heleophryne_hewitti
+				Heleophryne natalensis - straszak nikczemny							https://pl.wikipedia.org/wiki/Heleophryne_natalensis
+				Heleophryne orientalis - straszak wschodni							https://pl.wikipedia.org/wiki/Heleophryne_orientalis
+				Heleophryne purcelli - straszak czysty
+				Heleophryne regis - straszak krolewski
 				Heleophryne rosei – straszak kapsztadzki
 
 	Rodzina 	Noctilionidae – rybakowate
@@ -1136,46 +1136,46 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 
 						Rodzaj	Arielulus - arielek					https://pl.wikipedia.org/wiki/Arielek
 
-							Gatunek	Arielulus aureocollaris
-								Arielulus circumdatus
-								Arielulus cuprosus
-								Arielulus societatis
-								Arielulus torquatus
+							Gatunek	Arielulus aureocollaris - Arielek kolnierzowaty
+								Arielulus circumdatus - Arielek okraglasty
+								Arielulus cuprosus - Arielek ciekawski
+								Arielulus societatis - Arielek stadny
+								Arielulus torquatus - Arielek krety
 
 						Rodzaj	Eptesicus - mroczek					https://pl.wikipedia.org/wiki/Mroczek_(nietoperze)
 
-								Eptesicus baverstocki
-								Eptesicus bobrinskoi
-								Eptesicus bottae
-								Eptesicus brasiliensis
-								Eptesicus brunneus
-								Eptesicus capensis
-								Eptesicus demissus
-								Eptesicus diminutus
-								Eptesicus douglasorum
-								Eptesicus flavescens
-								Eptesicus floweri
-								Eptesicus furinalis
+								Eptesicus baverstocki - Mroczek bawarski
+								Eptesicus bobrinskoi - Mroczek bobronosy
+								Eptesicus bottae - Mroczek podeszwowy
+								Eptesicus brasiliensis - Mroczek brazylijski
+								Eptesicus brunneus - Mroczek czarny
+								Eptesicus capensis - Mroczek czepiasty
+								Eptesicus demissus - Mroczek polowiasty
+								Eptesicus diminutus - Mroczek mniejszy
+								Eptesicus douglasorum - mroczek zwyczajny
+								Eptesicus flavescens - Mroczek kwiatonosy
+								Eptesicus floweri - Mroczek kwiecisty
+								Eptesicus furinalis - Mroczek futrzasty
 								Eptesicus fuscus – mroczek brunatny		https://pl.wikipedia.org/wiki/Mroczek_brunatny
-								Eptesicus guadeloupensis
-								Eptesicus guineensisv
-								Eptesicus hottentotus
-								Eptesicus innoxius
-								Eptesicus kobayashii
-								Eptesicus melckorum
-								Eptesicus nasutus
+								Eptesicus guadeloupensis - Mroczek gwadelupski
+								Eptesicus guineensisv - Mroczek gwinejski
+								Eptesicus hottentotus - Mroczek hottentocki
+								Eptesicus innoxius - Mroczke niewinny
+								Eptesicus kobayashii - Mroczek japonski
+								Eptesicus melckorum - Mroczek mroczny
+								Eptesicus nasutus - Mroczek wedrowny
 								Eptesicus nilssoni – mroczek pozłocisty		https://pl.wikipedia.org/wiki/Mroczek_poz%C5%82ocisty
-								Eptesicus pachyotis
-								Eptesicus platyops
-								Eptesicus pumilus
-								Eptesicus regulus
-								Eptesicus rendalli
-								Eptesicus sagittula
+								Eptesicus pachyotis - Mroczek szerokoskrzydly
+								Eptesicus platyops - Mroczek wielkooki
+								Eptesicus pumilus - Mroczek gladki
+								Eptesicus regulus - Mroczek szlachetny
+								Eptesicus rendalli - Mroczek kaukaski
+								Eptesicus sagittula - Mroczek krwisty
 								Eptesicus serotinus – mroczek późny		https://pl.wikipedia.org/wiki/Mroczek_p%C3%B3%C5%BAny
-								Eptesicus somalicus
-								Eptesicus tatei
-								Eptesicus tenuipinnis
-								Eptesicus vulturnus
+								Eptesicus somalicus - Mroczek somalijski
+								Eptesicus tatei - Mroczek chinski
+								Eptesicus tenuipinnis - Mroczek drzewny
+								Eptesicus vulturnus - Mroczek paskudny
 
 							Hesperoptenus - zmroczek
 							Rhyneptesicus - pomroczek
@@ -1219,35 +1219,35 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 
 						Rodzaj	Pipistrellus - karlik					https://pl.wikipedia.org/wiki/Karlik_(nietoperze)
 
-							Gatunek	Pipistrellus abramus
-								Pipistrellus adamsi
-								Pipistrellus aero
-								Pipistrellus angulatus
-								Pipistrellus ceylonicus
-								Pipistrellus collinus
-								Pipistrellus coromandra
-								Pipistrellus deserti
-								Pipistrellus endoi
-								Pipistrellus hanaki
-								Pipistrellus hesperidus
-								Pipistrellus hesperus
-								Pipistrellus inexspectatus
-								Pipistrellus javanicus
-								Pipistrellus maderensis
-								Pipistrellus minahassae
-								Pipistrellus murrayi
-								Pipistrellus nanulus
-								Pipistrellus papuanus
-								Pipistrellus paterculus
-								Pipistrellus permixtus
-								Pipistrellus rueppellii
-								Pipistrellus rusticus
-								Pipistrellus stenopterus
-								Pipistrellus sturdeei
-								Pipistrellus subflavus
-								Pipistrellus tenuis
-								Pipistrellus wattsi
-								Pipistrellus westralis
+							Gatunek	Pipistrellus abramus - Karlik pierwotny
+								Pipistrellus adamsi - Karlik tamski
+								Pipistrellus aero - Karlik powietrzny
+								Pipistrellus angulatus - Karlik krzywonosy
+								Pipistrellus ceylonicus - Karlik cejlonski
+								Pipistrellus collinus - Karlik madry
+								Pipistrellus coromandra - Karlik plamisty
+								Pipistrellus deserti Karlik pustynny
+								Pipistrellus endoi - Karlik arktyczny
+								Pipistrellus hanaki - Karlik chinski
+								Pipistrellus hesperidus - Karlik jableczny
+								Pipistrellus hesperus - Karlik zlotonosy
+								Pipistrellus inexspectatus - Karlik niespodziewany
+								Pipistrellus javanicus - Karlik jawajski
+								Pipistrellus maderensis - Karlik mateczny
+								Pipistrellus minahassae - karlik niemiecki
+								Pipistrellus murrayi - Karlik amerykanski
+								Pipistrellus nanulus - Karlik mniejszy
+								Pipistrellus papuanus - Karlik papuaski
+								Pipistrellus paterculus - Karlik ojczysty
+								Pipistrellus permixtus - Karlik przywzwolony
+								Pipistrellus rueppellii - Karlik wloski
+								Pipistrellus rusticus - Karlik rdzawy
+								Pipistrellus stenopterus - Karlik gladkoskrzydly
+								Pipistrellus sturdeei - Karlik twardy
+								Pipistrellus subflavus - Karlik bezbledny
+								Pipistrellus tenuis - Karlik tenuenski
+								Pipistrellus wattsi - Karlik szkocki
+								Pipistrellus westralis - Karlik zachodni
 								Pipistrellus kuhlii – karlik średni		https://pl.wikipedia.org/wiki/Karlik_%C5%9Bredni
 								Pipistrellus nathusii – karlik większy		https://pl.wikipedia.org/wiki/Karlik_wi%C4%99kszy
 								Pipistrellus pipistrellus – karlik malutki		https://pl.wikipedia.org/wiki/Karlik_malutki
@@ -1272,26 +1272,26 @@ Podrząd	Vespertilioniformes - mroczkokształtne								https://pl.wikipedia.org
 						Rodzaj	Plecotus - gacek					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
 
 							Gatunek	Plecotus alpinus – gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
-								Plecotus ariel
+								Plecotus ariel - gacek powietrzny
 								Plecotus auritus – gacek brunatny		https://pl.wikipedia.org/wiki/Gacek_brunatny
 								Plecotus austriacus – gacek szary		https://pl.wikipedia.org/wiki/Gacek_szary
-								Plecotus balensis
-								Plecotus christiei
-								Plecotus homochrous
+								Plecotus balensis - gacek lysy
+								Plecotus christiei - gacek ochrzczony
+								Plecotus homochrous - gacek domowy
 								Plecotus kolombatovici – gacek bałkański		https://pl.wikipedia.org/wiki/Gacek_ba%C5%82ka%C5%84ski
-								Plecotus kozlovi
+								Plecotus kozlovi - gacek kozi
 								Plecotus macrobullaris - gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
-								Plecotus mexicanus
-								Plecotus ognevi
-								Plecotus rafinesquii
-								Plecotus sacrimontis
+								Plecotus mexicanus - gacek maksykanski
+								Plecotus ognevi - gacek plomienny
+								Plecotus rafinesquii - gacek wybitny
+								Plecotus sacrimontis - gacek watykanski
 								Plecotus sardus – gacek sardyński		https://pl.wikipedia.org/wiki/Gacek_sardy%C5%84ski
-								Plecotus strelkovi
-								Plecotus taivanus
+								Plecotus strelkovi - Gacek rosyjski
+								Plecotus taivanus - Gacek tajwanski
 								Plecotus teneriffae – gacek kanaryjski		https://pl.wikipedia.org/wiki/Gacek_kanaryjski
-								Plecotus townsendii
-								Plecotus turkmenicus
-								Plecotus wardi
+								Plecotus townsendii - Gacek miejski
+								Plecotus turkmenicus - Gacek turkmenski
+								Plecotus wardi - Gacek czujny
 
 					Plemię	Vespertilionini - mroczaki
 
