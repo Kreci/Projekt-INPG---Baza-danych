@@ -58,39 +58,39 @@ Podrząd	Pteropodiformes - rudawkokształtne
 
 		Rodzaj	%G Chironax – czapecznik%
 
-				 %L Chironax melanocephalus – %S czapecznik owocożerny%
+				 %L Chironax melanocephalus   %S czapecznik owocożerny%
 
 		Rodzaj	%G Cynopterus – krótkonosek%					https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek
 
-				%L Cynopterus brachyotis – %S krótkonosek krótkouchy%
-				%L Cynopterus horsfieldii – %S krótkonosek sundajski%
-				%L Cynopterus luzoniensis – %S krótkonosek uprawowy%
-				%L Cynopterus minutus – %S krótkonosek drobny%
-				%L Cynopterus nusatenggara – %S krótkonosek wyspowy%
-				%L Cynopterus sphinx – %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
-				%L Cynopterus titthaecheilus – %S krótkonosek indonezyjski%
+				%L Cynopterus brachyotis   %S krótkonosek krótkouchy%
+				%L Cynopterus horsfieldii   %S krótkonosek sundajski%
+				%L Cynopterus luzoniensis   %S krótkonosek uprawowy%
+				%L Cynopterus minutus   %S krótkonosek drobny%
+				%L Cynopterus nusatenggara   %S krótkonosek wyspowy%
+				%L Cynopterus sphinx   %S krótkonosek sfinksowy	%	https://pl.wikipedia.org/wiki/Kr%C3%B3tkonosek_sfinksowy
+				%L Cynopterus titthaecheilus   %S krótkonosek indonezyjski%
 
 		Rodzaj	%G Desmalopex – rudawnik%					https://pl.wikipedia.org/wiki/Rudawnik
 
-				%L Desmalopex leucopterus – %S rudawnik białoskrzydły%
-				%L Desmalopex microleucopterus – %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
+				%L Desmalopex leucopterus   %S rudawnik białoskrzydły%
+				%L Desmalopex microleucopterus   %S rudawnik malutki%		https://pl.wikipedia.org/wiki/Rudawnik_malutki
 
 		Rodzaj	%G Dobsonia – gołogrzbietek%					https://pl.wikipedia.org/wiki/Go%C5%82ogrzbietek
 
-				%L Dobsonia andersoni – %S gołogrzbietek archipelagowy%
-				%L Dobsonia beauforti – %S gołogrzbietek wyspowy%
-				%L Dobsonia chapmani – %S gołogrzbietek negroski%
-				%L Dobsonia crenulata – %S gołogrzbietek halmaherski%
-				%L Dobsonia emersa – %S gołogrzbietek jaksiniowy%
-				%L Dobsonia exoleta – %S gołogrzbietek sulaweski%
-				%L Dobsonia inermis – %S gołogrzbietek bezbronny%
-				%L Dobsonia magna – %S gołogrzbietek duży%
-				%L Dobsonia minor – %S gołogrzbietek mały%
-				%L Dobsonia moluccensis – %S gołogrzbietek molucki%
-				%L Dobsonia pannietensis – %S gołogrzbietek zatokowy%
-				%L Dobsonia peronii – %S gołogrzbietek leśny%
-				%L Dobsonia praedatrix – %S gołogrzbietek nowobrytyjski%
-				%L Dobsonia viridis – %S gołogrzbietek zielonawy%
+				%L Dobsonia andersoni   %S gołogrzbietek archipelagowy%
+				%L Dobsonia beauforti   %S gołogrzbietek wyspowy%
+				%L Dobsonia chapmani   %S gołogrzbietek negroski%
+				%L Dobsonia crenulata   %S gołogrzbietek halmaherski%
+				%L Dobsonia emersa   %S gołogrzbietek jaksiniowy%
+				%L Dobsonia exoleta   %S gołogrzbietek sulaweski%
+				%L Dobsonia inermis   %S gołogrzbietek bezbronny%
+				%L Dobsonia magna   %S gołogrzbietek duży%
+				%L Dobsonia minor   %S gołogrzbietek mały%
+				%L Dobsonia moluccensis   %S gołogrzbietek molucki%
+				%L Dobsonia pannietensis   %S gołogrzbietek zatokowy%
+				%L Dobsonia peronii   %S gołogrzbietek leśny%
+				%L Dobsonia praedatrix   %S gołogrzbietek nowobrytyjski%
+				%L Dobsonia viridis   %S gołogrzbietek zielonawy%
 
 		Rodzaj	%G Dyacopterus – dajakolot%					https://pl.wikipedia.org/wiki/Dajakolot\
 
