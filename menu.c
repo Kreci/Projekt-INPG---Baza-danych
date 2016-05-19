@@ -56,7 +56,7 @@ void menu(node* root)
                             break;
                         case 4: findMax(root);
                             break;
-                        case 5: findRecord(root);
+                        case 5: znajdz(root);
                             break;
                         case 11: wczytajBaze(& root,  "Baza.txt");
                             break;
