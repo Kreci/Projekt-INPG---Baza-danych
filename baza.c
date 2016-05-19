@@ -30,6 +30,7 @@ int zawiera(char *linia, char *klucz) // sprawdza czy linia zawiera slowo kluczo
 int kopiujdane(char *linia, char *kopiujdo, int indekslinii) //kupiuje dane od konca linii, lub wystapienia znaki '-'. Zwraca 0 jesli skopiowano do konca lini lub indeks tablizy charow po pauzie
 {
   int i=0;
+  while((linia[indekslinii]==' ')) indekslinii++;
   while((linia[indekslinii]!='\0')&&(linia[indekslinii]!=37))
   {
     kopiujdo[i]=linia[indekslinii];
