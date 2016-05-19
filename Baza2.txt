@@ -11,10 +11,10 @@ Infragromada	Lozyskowce
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Legenda:(piszemy bez spacji)
-% F   Rodzina(Familly)
-% G   Rodzaj(Genus)
-% S   stdName
-% L   latinName
+%F   Rodzina(Familly)
+%G   Rodzaj(Genus)
+%S   stdName
+%L   latinName
 ~//	znak % lub znak nowej linii(enter) konczy wczytywanie danych do drzewa;
 ~//	wszystko co nie zawiera powyzszych znacznikow bedzie pomijane przy wczytywaniu danych 
 
