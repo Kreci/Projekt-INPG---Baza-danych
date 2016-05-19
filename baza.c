@@ -106,6 +106,34 @@ void zapiszDane(data dane,  char* nazwapliku)
     fclose(plik);
 }
 
+void z_znajdz(node *root, char *klucz)               //Displays whole tree in-order (alphabetically)
+{
+    if(root != NULL)
+        {
+            z_znajdz(root->left, klucz);
+            if(zawiera((root->entry).stdName, klucz))
+            {
+                display(root->entry);
+                printf("\n\n");
+            }
 
+            z_znajdz(root->right, klucz);
+        }
+    return;
+}
+void znajdz(node *root)
+{
+    char klucz[40];
+        int i;
+        getchar();
+        printf("Wpisz klucz: ");
+        fgets(klucz, 40, stdin);
+        for(i=0;klucz[i]!='\0';i++)
+        if(klucz[i]=='\n') klucz[i]='\0';
+        printf("\n\nZnaleziono nastepujace wpisy:\n\n");
+        z_znajdz(root, klucz);
+        printf("\n\nTo wszystko!\n");
+
+}
 
 
