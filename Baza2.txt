@@ -1384,5 +1384,3 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 							Miniopterus shortridgei   podkasaniec jawajski
 							Miniopterus sororculus   podkasaniec siostrzany
 							Miniopterus tristis   podkasaniec wielki
-
-
