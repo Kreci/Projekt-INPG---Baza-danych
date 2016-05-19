@@ -468,8 +468,8 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 			%G Hipposideros   platkonos%							https://pl.wikipedia.org/wiki/P%C5%82atkonos
 
 				%L Hipposideros abae   %S platkonos tropikalny
-		%L 		%L Hipposideros armiger   %S platkonos zbrojny
-%L 				%L Hipposideros ater   %S platkonos ciemny
+		 		%L Hipposideros armiger   %S platkonos zbrojny
+ 				%L Hipposideros ater   %S platkonos ciemny
 				%L Hipposideros beatus   %S platkonos wspanialy
 				%L Hipposideros bicolor   %S platkonos dwubarwny
 				%L Hipposideros boeadii   %S platkonos mniejszy
@@ -624,7 +624,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 	Rodzina 	Emballonuridae   upiorowate								https://pl.wikipedia.org/wiki/Upiorowate
 
-		Podrodzina	Taphozoinae   grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
+		%Podrodzina	Taphozoinae   grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
 
 			Rodzaj	Saccolaimus   sakiewnik
 
@@ -635,7 +635,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 			Rodzaj	Taphozous   grobownik
 
-				Podrodzaj	Taphozous
+				%Podrodzaj	Taphozous
 
 					Gatunek	Taphozous achates   grobownik nizinny
 						Taphozous australis   grobownik wydmowy
@@ -649,11 +649,11 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 						Taphozous perforatus   grobownik sawannowy
 						Taphozous theobaldi   grobownik dzunglowy
 						Taphozous troughtoni   grobownik skalny
-				Podrodzaj	Liponycteris
+				%Podrodzaj	Liponycteris
 						Taphozous hamiltoni   grobownik skryty
 						Taphozous nudiventris   grobownik golobrzuchy
 
-		PodrodzinaEmballonurinae   upiory								https://pl.wikipedia.org/wiki/Upiory_(podrodzina_ssak%C3%B3w)
+		%PodrodzinaEmballonurinae   upiory								https://pl.wikipedia.org/wiki/Upiory_(podrodzina_ssak%C3%B3w)
 
 			Rodzaj	Balantiopteryx   worecznik							https://pl.wikipedia.org/wiki/Worecznik
 
@@ -772,7 +772,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 	Rodzina 	Phyllostomidae   liscionosowate								https://pl.wikipedia.org/wiki/Li%C5%9Bcionosowate
 
-		Podrodzina	Desmodontinae   wampiry							https://pl.wikipedia.org/wiki/Wampiry
+		%Podrodzina	Desmodontinae   wampiry							https://pl.wikipedia.org/wiki/Wampiry
 
 				Rodzaj	Desmodus   wampir							https://pl.wikipedia.org/wiki/Wampir_(rodzaj_ssaka)
 
@@ -786,14 +786,14 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 							Diphylla hairea   wampirek sierscionogi
 
-		Podrodzina	Brachyphyllinae   rekoliscie							https://pl.wikipedia.org/wiki/R%C4%99koli%C5%9Bcie
+		%Podrodzina	Brachyphyllinae   rekoliscie							https://pl.wikipedia.org/wiki/R%C4%99koli%C5%9Bcie
 
 				Rodzaj	Brachyphylla   rekolisc
 
 						Gatunek	Brachyphylla cavernarum   rekolisc jaskiniowy
 							Brachyphylla nana   rekolisc kubanski
 
-		Podrodzina	Phyllonycterinae   liscioloty							https://pl.wikipedia.org/wiki/Li%C5%9Bcioloty
+		%Podrodzina	Phyllonycterinae   liscioloty							https://pl.wikipedia.org/wiki/Li%C5%9Bcioloty
 
 				Rodzaj	Erophylla   kwiatojad						https://pl.wikipedia.org/wiki/Kwiatojad
 
@@ -802,15 +802,15 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 				Rodzaj	Phyllonycteris   lisciolot						https://pl.wikipedia.org/wiki/Li%C5%9Bciolot
 
-					Podrodzaj	Phyllonycteris
+					%Podrodzaj	Phyllonycteris
 						Gatunek	Phyllonycteris major   lisciolot portorykanski
 							Phyllonycteris poeyi   lisciolot kubanski			https://pl.wikipedia.org/wiki/Li%C5%9Bciolot_kuba%C5%84ski
-					Podrodzaj	Reithronycteris
+					%Podrodzaj	Reithronycteris
 							Phyllonycteris aphylla   lisciolot jamajski
 
-		Podrodzina	Glossophaginae   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki
+		%Podrodzina	Glossophaginae   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki
 
-			Plemie	Glossophagini   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki_(plemi%C4%99)
+			%Plemie	Glossophagini   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki_(plemi%C4%99)
 
 				Rodzaj	Glossophaga   jezornik						https://pl.wikipedia.org/wiki/J%C4%99zornik
 
@@ -831,7 +831,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 						Monophyllus plethodon   jednoplatek wyspowy
 						Monophyllus redmani   jednoplatek kubanski
 
-			Plemie	Choeronycterini   wieprzoryjki							https://pl.wikipedia.org/wiki/Wieprzoryjki
+			%Plemie	Choeronycterini   wieprzoryjki							https://pl.wikipedia.org/wiki/Wieprzoryjki
 
 				Rodzaj	Anoura   brakogonek						https://pl.wikipedia.org/wiki/Brakogonek
 
@@ -874,7 +874,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 						Scleronycteris ega   jezykowiec amazonski
 
-			Plemie	Lonchophyllini   nektaroloty
+			%Plemie	Lonchophyllini   nektaroloty
 
 				Rodzaj	Lionycteris   nektaronocek
 
@@ -898,31 +898,31 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 						Lonchophylla thomasi   nektarolot strumieniowy
 
 
-					Platalina   dlugopyszczek
+				Rodzaj	Platalina   dlugopyszczek
 
 						Platalina genovensium   dlugopyszczek peruwianski
 
-					Xeronycteris   sucholubek
+				Rodzaj	Xeronycteris   sucholubek
 
 						Xeronycteris vieirai   sucholubek brazylijski
 
-		Podrodzina	Phyllostominae   liscionosy							https://pl.wikipedia.org/wiki/Li%C5%9Bcionosy
+		%Podrodzina	Phyllostominae   liscionosy							https://pl.wikipedia.org/wiki/Li%C5%9Bcionosy
 
 				Rodzaj	Chrotopterus   welnianek
 
 						Chrotopterus auritus   welnianek uszaty
 
-					Glyphonycteris   uszatek						https://pl.wikipedia.org/wiki/Uszatek
+				Rodzaj	Glyphonycteris   uszatek						https://pl.wikipedia.org/wiki/Uszatek
 
 						Glyphonycteris behnii   uszatek skryty
 						Glyphonycteris daviesi   uszatek szaropiersiowy
 						Glyphonycteris sylvestris   uszatek trojbarwny
 
-					Lampronycteris   blyszczek
+				Rodzaj	Lampronycteris   blyszczek
 
 						Lampronycteris brachyotis   blyszczek zoltoszyi
 
-					Lonchorhina   mieczonos						https://pl.wikipedia.org/wiki/Mieczonos
+				Rodzaj	Lonchorhina   mieczonos						https://pl.wikipedia.org/wiki/Mieczonos
 
 						Lonchorhina aurita   mieczonos uszaty
 						Lonchorhina fernandezi   mieczonos wenezuelski
@@ -930,7 +930,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 						Lonchorhina marinkellei   mieczonos skryty
 						Lonchorhina orinocensis   mieczonos jaskiniowy
 
-					Lophostoma   czuboustek						https://pl.wikipedia.org/wiki/Czuboustek
+				Rodzaj	Lophostoma   czuboustek						https://pl.wikipedia.org/wiki/Czuboustek
 
 						Lophostoma aequatorialis   czuboustek rownikowy
 						Lophostoma brasiliense   czuboustek karlowaty
@@ -1003,7 +1003,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 						Vampyrum spectrum   widmowiec wielki				https://pl.wikipedia.org/wiki/Widmowiec_wielki
 
-		Podrodzina	Carolliinae   karolie								https://pl.wikipedia.org/wiki/Karolie
+		%Podrodzina	Carolliinae   karolie								https://pl.wikipedia.org/wiki/Karolie
 
 				Rodzaj	Carollia   karolia							https://pl.wikipedia.org/wiki/Karolia
 
@@ -1023,13 +1023,13 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 						Rhinophylla fischerae   listkonosek dzunglowy
 						Rhinophylla pumlio   listkonosek karlowaty
 
-		Podrodzina	Stenodermatinae   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce
+		%Podrodzina	Stenodermatinae   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce
 
-				Plemie	Sturnirini   zoltobarczyki						https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyki
+				%Plemie	Sturnirini   zoltobarczyki						https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyki
 
 					Rodzaj	Sturnira   zoltobarczyk
 
-						Podrodzaj	Sturnira
+						%Podrodzaj	Sturnira
 
 							Gatunek	Sturnira aratathomasi   zoltobarczyk gorski
 								Sturnira bogotensis   zoltobarczyk mgielny
@@ -1047,12 +1047,12 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 								Sturnira thomasi   zoltobarczyk antylski
 								Sturnira tildae   zoltobarczyk amazonski
 
-							Podrodzaj	Corvira
+							%Podrodzaj	Corvira
 
 								Sturnira bidens   zoltobarczyk dwuzebny
 								Sturnira nana   zoltobarczyk drobny
 
-				Plemie	Stenodermatini   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce_(plemi%C4%99_ssak%C3%B3w)
+				%Plemie	Stenodermatini   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce_(plemi%C4%99_ssak%C3%B3w)
 
 					Rodzaj	Ametrida   malek
 
@@ -1124,15 +1124,15 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 	Rodzina 	Natalidae   lejkouchowate
 	Rodzina 	Molossidae   molosowate									https://pl.wikipedia.org/wiki/Molosowate
 
-		Podrodzina	Molossinae
+		%Podrodzina	Molossinae
 				Tomopeatinae
 
 	Rodzina 	Cistugidae   wlosiakowate									https://pl.wikipedia.org/wiki/Mroczkowate
 	Rodzina 	Vespertilionidae   mroczkowate
 
-			Podrodzina	Vespertilioninae   mroczki
+			%Podrodzina	Vespertilioninae   mroczki
 
-					Plemie	Eptesicini   mroczki
+					%Plemie	Eptesicini   mroczki
 
 						Rodzaj	Arielulus   arielek					https://pl.wikipedia.org/wiki/Arielek
 
@@ -1180,11 +1180,11 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 							Hesperoptenus   zmroczek
 							Rhyneptesicus   pomroczek
 
-					Plemie	Lasiurini   kosmatniki
+					%Plemie	Lasiurini   kosmatniki
 
 							Lasiurus   kosmatnik
 
-					Plemie	Nyctyceiini   wieczorki
+					%Plemie	Nyctyceiini   wieczorki
 
 							Nyctyceinops   polmroczek
 							Nycticeius   wieczorek
@@ -1195,12 +1195,12 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 							Scotophilus   ciemnolubek
 							Scotorepens   szerokonosek
 
-					Plemie	Nyctophilini   nocolubki
+					%Plemie	Nyctophilini   nocolubki
 
 							Nyctophilus   nocolubek
 							Pharotis   kapturouszek
 
-					Plemie	Pipistrellini   karliki
+					%Plemie	Pipistrellini   karliki
 
 							Glischropus   grubopalczyk
 							Nyctalus   borowiec					https://pl.wikipedia.org/wiki/Borowiec_(rodzaj_ssaka)
@@ -1255,7 +1255,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 							Scotozous   nocodekanik
 
-					Plemie	Plecotini   gacki
+					%Plemie	Plecotini   gacki
 
 						Rodzaj	Barbastella   mopek					https://pl.wikipedia.org/wiki/Mopek
 
@@ -1293,7 +1293,7 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 								Plecotus turkmenicus   Gacek turkmenski
 								Plecotus wardi   Gacek czujny
 
-					Plemie	Vespertilionini   mroczaki
+					%Plemie	Vespertilionini   mroczaki
 
 							Chalinolobus   mrocznik
 							Eudiscopus   dyskonog
@@ -1315,12 +1315,12 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 
 								Vespertilio superans
 
-			Podrodzina	Antrozoinae   jasnotki
+			%Podrodzina	Antrozoinae   jasnotki
 
 					Rodzaj	Antrozous   jasnotek
 						Bauerus   jasnoteczek
 
-			Podrodzina	Myotinae   nocki
+			%Podrodzina	Myotinae   nocki
 
 					Rodzaj	Lasionycteris   srebrnonocek
 					Rodzaj	Myotis   nocek						https://pl.wikipedia.org/wiki/Nocek
@@ -1336,13 +1336,13 @@ Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/w
 							Myotis mystacinus   nocek wasatek			https://pl.wikipedia.org/wiki/Nocek_w%C4%85satek
 							Myotis nattereri   nocek Natterera			https://pl.wikipedia.org/wiki/Nocek_Natterera
 
-			Podrodzina	Murininae   tubonosy
+			%Podrodzina	Murininae   tubonosy
 
 						Harpiocephalus   harpioglow
 						Harpiola   trabkonos
 						Murina   tubonos
 
-			Podrodzina	Kerivoulinae   welniaczki
+			%Podrodzina	Kerivoulinae   welniaczki
 
 					Rodzaj	Karivoula   welniaczek					https://pl.wikipedia.org/wiki/We%C5%82niaczek
 						Phoniscus   trabkouch
