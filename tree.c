@@ -163,6 +163,7 @@ int nodeNumber(node *root)                                               //Zwrac
         return counter;
     }
 //*******************************************************************************************************************************
+/*
 void findRecord(node *root)             //wyszukuje element o zadanej nazwie gatunkowej
     {
         data input;
@@ -190,7 +191,7 @@ void findRecord(node *root)             //wyszukuje element o zadanej nazwie gat
         printf("Nie znaleziono szukanego gatunku\n");
         return;
     }
-
+*/
 void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
 {   
     data sEntry;                                    //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
