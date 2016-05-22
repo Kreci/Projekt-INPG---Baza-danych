@@ -543,232 +543,232 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 
 		Rodzaj	%G Paracoelops%
 
-			Gatunek	Paracoelops megalotis
+			Gatunek	Paracoelops megalotis%
 
-	Rodzina 	%F Rhinonycteridae   rogonosowate							https://pl.wikipedia.org/wiki/Rogonosowate
+	Rodzina 	%F Rhinonycteridae   rogonosowate%							https://pl.wikipedia.org/wiki/Rogonosowate
 
-		Rodzaj	Cloeotis   krotkouszek
+		Rodzaj	%G Cloeotis   krotkouszek%
 
-				Cloeotis percivali   krotkouszek afrykanski
+				%L Cloeotis percivali   %S krotkouszek afrykanski%
 
-			%G Coelops   bezogonczyk							https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk
+			%G Coelops   bezogonczyk%							https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk
 
-				Coelops frithii   bezogonczyk kraglouchy					https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk_kr%C4%85g%C5%82ouchy
-				Coelops robinsoni   bezogonczyk malajski
+				%L Coelops frithii   %S bezogonczyk kraglouchy%					https://pl.wikipedia.org/wiki/Bezogo%C5%84czyk_kr%C4%85g%C5%82ouchy
+				%L Coelops robinsoni  %S bezogonczyk malajski%
 
-			%G Rhinonicteris   rogonos
+			%G Rhinonicteris   rogonos%
 
-				Rhinonicteris aurantia   rogonos pomaranczowy
+				%L Rhinonicteris aurantia  %S rogonos pomaranczowy%
 
-			%G Paratriaenops   pseudotrojplatnik						https://pl.wikipedia.org/wiki/Pseudotr%C3%B3jp%C5%82atnik
+			%G Paratriaenops   pseudotrojplatnik%						https://pl.wikipedia.org/wiki/Pseudotr%C3%B3jp%C5%82atnik
 
-				Paratriaenops auritus   pseudotrojplatnik zlotawy
-				Paratriaenops furculus   pseudotrojplatnik malgaski
-				Paratriaenops pauliani   pseudotrojplatnik aldabarski
+				%L Paratriaenops auritus  %S pseudotrojplatnik zlotawy%
+				%L Paratriaenops furculus  %S pseudotrojplatnik malgaski%
+				%L Paratriaenops pauliani  %S pseudotrojplatnik aldabarski%
 
-			%G Triaenops   trojplatnik							https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik
+			%G Triaenops   trojplatnik%							https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik
 
-				Triaenops afer   trojplatnik afrykanski
-				Triaenops menamena   trojplatnik madagaskarski
-				Triaenops parvus   trojplatnik jemenski
-				Triaenops persicus   trojplatnik perski					https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik_perski
-				Triaenops rufus   trojplatnik rudy
+				%L Triaenops afer  %S trojplatnik afrykanski%
+				%L Triaenops menamena  %S trojplatnik madagaskarski%
+				%L Triaenops parvus  %S trojplatnik jemenski%
+				%L Triaenops persicus  %S trojplatnik perski%					https://pl.wikipedia.org/wiki/Tr%C3%B3jp%C5%82atnik_perski
+				%L Triaenops rufus  %S trojplatnik rudy%
 
-	Rodzina 	%F Megadermatidae   lironosowate
+	Rodzina 	%F Megadermatidae   lironosowate%
 
-		Rodzaj	%G Cardioderma   serconos
+		Rodzaj	%G Cardioderma   serconos%
 
-				Cardioderma cor   serconos afrykanski					https://pl.wikipedia.org/wiki/Serconos_afryka%C5%84ski
+				%L Cardioderma cor  %S serconos afrykanski%					https://pl.wikipedia.org/wiki/Serconos_afryka%C5%84ski
 
-			%G Lavia   lawia
+			%G Lavia   lawia%
 
-				Lavia frons   lawia zoltoskrzydla					https://pl.wikipedia.org/wiki/Lawia_%C5%BC%C3%B3%C5%82toskrzyd%C5%82a
+				%L Lavia frons  %S lawia zoltoskrzydla%					https://pl.wikipedia.org/wiki/Lawia_%C5%BC%C3%B3%C5%82toskrzyd%C5%82a
 
-			%G Macroderma   dusznik
+			%G Macroderma   dusznik%
 
-				Macroderma gigas   dusznik australijski					https://pl.wikipedia.org/wiki/Dusznik_australijski
+				%L Macroderma gigas  %S dusznik australijski%					https://pl.wikipedia.org/wiki/Dusznik_australijski
 
-			%G Megaderma   lironos							https://pl.wikipedia.org/wiki/Lironos
+			%G Megaderma   lironos%							https://pl.wikipedia.org/wiki/Lironos
 
-				Megaderma lyra   lironos wielkoskrzydly					https://pl.wikipedia.org/wiki/Lironos_wielkoskrzyd%C5%82y
-				Megaderma spasma   lironos zoltozylkowany
+				%L Megaderma lyra  %S lironos wielkoskrzydly%				https://pl.wikipedia.org/wiki/Lironos_wielkoskrzyd%C5%82y
+				%L Megaderma spasma  %S lironos zoltozylkowany%
 
-	Rodzina 	%F Rhinopomatidae   brodawkonosowate							https://pl.wikipedia.org/wiki/Brodawkonosowate
+	Rodzina 	%F Rhinopomatidae   brodawkonosowate%							https://pl.wikipedia.org/wiki/Brodawkonosowate
 
-		Rodzaj	%G Rhinopoma   brodawkonos							https://pl.wikipedia.org/wiki/Brodawkonos
+		Rodzaj	%G Rhinopoma   brodawkonos%							https://pl.wikipedia.org/wiki/Brodawkonos
 
-				Rhinopoma cystops   brodawkonos afrykanski
-				Rhinopoma hadramauticum   brodawkonos jemenski
-				Rhinopoma hardwickii   brodawkonos maly
-				Rhinopoma macinnesi   brodawkonos pustynny
-				Rhinopoma microphyllum   brodawkonos duzy				https://pl.wikipedia.org/wiki/Brodawkonos_du%C5%BCy
-				Rhinopoma muscatellum   brodawkonos drobny
+				%L Rhinopoma cystops  %S brodawkonos afrykanski%
+				%L Rhinopoma hadramauticum  %S brodawkonos jemenski%
+				%L Rhinopoma hardwickii  %S brodawkonos maly%
+				%L Rhinopoma macinnesi  %S brodawkonos pustynny%
+				%L Rhinopoma microphyllum  %S brodawkonos duzy%				https://pl.wikipedia.org/wiki/Brodawkonos_du%C5%BCy
+				%L Rhinopoma muscatellum  %S brodawkonos drobny%
 
-		Rodzaj	%G Qarunycteris
+		Rodzaj	%G Qarunycteris ligatum%
 
-				Qarunycteris moerisae
+				%L Qarunycteris moerisae %S ligatum morskie%
 
-		Rodzaj	%G Corbarhina
+		Rodzaj	%G Corbarhina korbowaty%
 
-				Corbarhina handae
+				%L Corbarhina handae %S korbowaty dłoniasty%
 
-	Rodzina 	%F Craseonycteridae   swinionosowate
+	Rodzina %F Craseonycteridae   swinionosowate%
 
-		Rodzaj	%G Craseonycterid   swinionos
+		Rodzaj	%G Craseonycterid   swinionos%
 
-				Craseonycteris thonglongyai   swinionos malutki				https://pl.wikipedia.org/wiki/%C5%9Awinionos_malutki
+				%L Craseonycteris thonglongyai  %S swinionos malutki%				https://pl.wikipedia.org/wiki/%C5%9Awinionos_malutki
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/wiki/Mroczkokszta%C5%82tne
+%Podrzad	Vespertilioniformes   mroczkoksztaltne								https://pl.wikipedia.org/wiki/Mroczkokszta%C5%82tne
 
-	Rodzina 	Emballonuridae   upiorowate								https://pl.wikipedia.org/wiki/Upiorowate
+	Rodzina %F Emballonuridae   upiorowate%								https://pl.wikipedia.org/wiki/Upiorowate
 
 		%Podrodzina	Taphozoinae   grobowniki						https://pl.wikipedia.org/wiki/Grobowniki
 
-			Rodzaj	Saccolaimus   sakiewnik
+			Rodzaj	%G Saccolaimus   sakiewnik%
 
-				Gatunek	Saccolaimus flaviventris   sakiewnik zoltobrzuchy
-					Saccolaimus mixtus   sakiewnik papuaski
-					Saccolaimus peli   sakiewnik afrykanski
-					Saccolaimus saccolaimus   sakiewnik nagozady
+				Gatunek	%L Saccolaimus flaviventris  %S sakiewnik zoltobrzuchy%
+					%L Saccolaimus mixtus  %S sakiewnik papuaski%
+					%L Saccolaimus peli  %S sakiewnik afrykanski%
+					%L Saccolaimus saccolaimus  %S sakiewnik nagozady%
 
-			Rodzaj	Taphozous   grobownik
+			Rodzaj	%G Taphozous   grobownik%
 
 				%Podrodzaj	Taphozous
 
-					Gatunek	Taphozous achates   grobownik nizinny
-						Taphozous australis   grobownik wydmowy
-						Taphozous georgianus   grobownik ostronosy
-						Tophozous hildegardeae   grobownik nadmorski
-						Taphozous hilli   grobownik pustynny
-						Taphozous kapalgensis   grobownik namorzynowy
-						Taphozous longimanus   grobownik dlugoskrzydly			https://pl.wikipedia.org/wiki/Grobownik_d%C5%82ugoskrzyd%C5%82y
-						Taphozous mauritianus   grobownik mauretanski
-						Taphozous melanopogon   grobownik czarnobrody
-						Taphozous perforatus   grobownik sawannowy
-						Taphozous theobaldi   grobownik dzunglowy
-						Taphozous troughtoni   grobownik skalny
+					Gatunek	%L Taphozous achates  %S grobownik nizinny%
+						%L Taphozous australis  %S grobownik wydmowy%
+						%L Taphozous georgianus  %S grobownik ostronosy%
+						%L Tophozous hildegardeae  %S grobownik nadmorski%
+						%L Taphozous hilli  %S grobownik pustynny%
+						%L Taphozous kapalgensis  %S grobownik namorzynowy%
+						%L Taphozous longimanus  %S grobownik dlugoskrzydly%			https://pl.wikipedia.org/wiki/Grobownik_d%C5%82ugoskrzyd%C5%82y
+						%L Taphozous mauritianus  %S grobownik mauretanski%
+						%L Taphozous melanopogon  %S grobownik czarnobrody%
+						%L Taphozous perforatus  %S grobownik sawannowy%
+						%L Taphozous theobaldi  %S grobownik dzunglowy%
+						%L Taphozous troughtoni  %S grobownik skalny%
 				%Podrodzaj	Liponycteris
-						Taphozous hamiltoni   grobownik skryty
-						Taphozous nudiventris   grobownik golobrzuchy
+						%L Taphozous hamiltoni  %S grobownik skryty%
+						%L Taphozous nudiventris  %S grobownik golobrzuchy%
 
 		%PodrodzinaEmballonurinae   upiory								https://pl.wikipedia.org/wiki/Upiory_(podrodzina_ssak%C3%B3w)
 
-			Rodzaj	Balantiopteryx   worecznik							https://pl.wikipedia.org/wiki/Worecznik
+			Rodzaj	%G Balantiopteryx  %S worecznik%							https://pl.wikipedia.org/wiki/Worecznik
 
-				Gatunek	Balantiopteryx infusca   worecznik ekwadorski
-					Balantiopteryx io   worecznik meksykanski
-					Balantiopteryx plicata   worecznik szary
+				Gatunek	%L Balantiopteryx infusca  %S worecznik ekwadorski%
+					%L Balantiopteryx io  %S worecznik meksykanski%
+					%L Balantiopteryx plicata  %S worecznik szary%
 
-				Centronycteris   kudlatek							https://pl.wikipedia.org/wiki/Kud%C5%82atek
+				%G Centronycteris   kudlatek%							https://pl.wikipedia.org/wiki/Kud%C5%82atek
 
-					Centronycteris centralis   kudlatek powolny
-					Centronycteris maximiliani   kudlatek dziuplowy
+					%L Centronycteris centralis  %S kudlatek powolny%
+					%L Centronycteris maximiliani  %S kudlatek dziuplowy%
 
-				Coleura   pochewnik								https://pl.wikipedia.org/wiki/Pochewnik
+				%G Coleura   pochewnik%								https://pl.wikipedia.org/wiki/Pochewnik
 
-					Coleura afra   pochewnik afrykanski
-					Coleura kibomalandy   pochewnik madagaskarski
-					Coleura seychellensis   pochewnik seszelski
+					%L Coleura afra  %S pochewnik afrykanski%
+					%L Coleura kibomalandy  %S pochewnik madagaskarski%
+					%L Coleura seychellensis  %S pochewnik seszelski%
 
-				Cormura   kasztanik
+				%G Cormura   kasztanik%
 
-					Cormura brevirostris   kasztanik krotkopyski
+					%L Cormura brevirostris  %S kasztanik krotkopyski%
 
-				Cyttarops   malousznik
+				%G Cyttarops   malousznik%
 
-					Cyttarops alecto   malousznik amerykanski
+					%L Cyttarops alecto  %S malousznik amerykanski%
 
-			Rodzaj	Diclidurus   duszek								https://pl.wikipedia.org/wiki/Duszek_(rodzaj_ssaka)
+			Rodzaj	%G Diclidurus   duszek%								https://pl.wikipedia.org/wiki/Duszek_(rodzaj_ssaka)
 
-				Podrodzaj	Diclidurus
-						Diclidurus albus   duszek bialy					https://pl.wikipedia.org/wiki/Duszek_bia%C5%82y
-						Diclidurus ingens   duszek duzy
-						Diclidurus scutatus   duszek tarczowy
-				Podrodzaj	Depanycteris
-						Diclidurus isabellus   duszek wilgotny				https://pl.wikipedia.org/wiki/Duszek_wilgotny
+				%Podrodzaj	Diclidurus
+						%L Diclidurus albus  %S duszek bialy%					https://pl.wikipedia.org/wiki/Duszek_bia%C5%82y
+						%L Diclidurus ingens  %S duszek duzy%
+						%L Diclidurus scutatus  %S duszek tarczowy%
+				%Podrodzaj	Depanycteris
+						%L Diclidurus isabellus  %S duszek wilgotny%				https://pl.wikipedia.org/wiki/Duszek_wilgotny
 
-			Rodzaj	Emballonura   upior
+			Rodzaj	%G Emballonura   upior%
 
-				Gatunek	Emballonura alecto   upior filipinski
-					Emballonura atrata   upior malgaski
-					Emballonura beccarii   upior jaskiniowy
-					Emballonura dianae   upior wielkouchy
-					Emballonura furax   upior zlodziejski
-					Emballonura monticola   upior gorski					https://pl.wikipedia.org/wiki/Upi%C3%B3r_g%C3%B3rski
-					Emballonura raffrayana   upior papuaski
-					Emballonura semicaudata   upior pacyficzny
-					Emballonura serii   upior nowogwinejski
+				Gatunek	%L Emballonura alecto  %S upior filipinski%
+					%L Emballonura atrata  %S upior malgaski%
+					%L Emballonura beccarii  %S upior jaskiniowy%
+					%L Emballonura dianae  %S upior wielkouchy%
+					%L Emballonura furax  %S upior zlodziejski%
+					%L Emballonura monticola  %S upior gorski%					https://pl.wikipedia.org/wiki/Upi%C3%B3r_g%C3%B3rski
+					%L Emballonura raffrayana  %S upior papuaski%
+					%L Emballonura semicaudata  %S upior pacyficzny%
+					%L Emballonura serii  %S upior nowogwinejski%
 
-			Rodzaj	Mosia   papuasnik
+			Rodzaj	%G Mosia   papuasnik%
 
-				Gatunek	Mosia nigrescens   papuasnik czarnawy
+				Gatunek	%L Mosia nigrescens  %S papuasnik czarnawy%
 
-			Rodzaj	Peropteryx   psinek								https://pl.wikipedia.org/wiki/Psinek
+			Rodzaj	%G Peropteryx   psinek%								https://pl.wikipedia.org/wiki/Psinek
 
-				Podrodzaj	Peropteryx
+				%Podrodzaj	Peropteryx
 
-					Gatunek	Peropteryx pallidoptera   psinek bladoskrzydly
-						Peropteryx kappleri   psinek wiekszy
-						Peropteryx macrotis   psinek mniejszy
-						Peropteryx trinitatis   psinek karaibski
+					Gatunek	%L Peropteryx pallidoptera  %S psinek bladoskrzydly%
+						%L Peropteryx kappleri  %S psinek wiekszy%
+						%L Peropteryx macrotis  %S psinek mniejszy%
+						%L Peropteryx trinitatis  %S psinek karaibski%
 
-				Podrodzaj	Peronymus
+				%Podrodzaj	Peronymus
 
-						Peropteryx leucoptera   psinek bialoskrzydly
+						%L Peropteryx leucoptera  %S psinek bialoskrzydly%
 
-			Rodzaj	Rhynchonycteris   dlugonosek
+			Rodzaj	%G Rhynchonycteris   dlugonosek%
 
-					Gatunek	Rhynchonycteris naso   dlugonosek amerykanski			https://pl.wikipedia.org/wiki/D%C5%82ugonosek_ameryka%C5%84ski
+					Gatunek	%L Rhynchonycteris naso  %S dlugonosek amerykanski%			https://pl.wikipedia.org/wiki/D%C5%82ugonosek_ameryka%C5%84ski
 
-			Rodzaj	Saccopteryx   kieszennik							https://pl.wikipedia.org/wiki/Kieszennik
+			Rodzaj	%G Saccopteryx   kieszennik%							https://pl.wikipedia.org/wiki/Kieszennik
 
-				Gatunek		Saccopteryx antioquensis   kieszennik drobny
-						Saccopteryx bilineata   kieszennik dwupregi
-						Saccopteryx canescens   kieszennik siwy
-						Saccopteryx gymnura   kieszennik amazonski
-						Saccopteryx leptura   kieszennik cienkoogonowy
+				Gatunek		%L Saccopteryx antioquensis  %S kieszennik drobny%
+						%L Saccopteryx bilineata  %S kieszennik dwupregi%
+						%L Saccopteryx canescens  %S kieszennik siwy%
+						%L Saccopteryx gymnura  %S kieszennik amazonski%
+						%L Saccopteryx leptura  %S kieszennik cienkoogonowy%
 
-	Rodzina 	Nycteridae   bruzdonosowate									https://pl.wikipedia.org/wiki/Bruzdonosowate
+	Rodzina 	%F Nycteridae   bruzdonosowate%									https://pl.wikipedia.org/wiki/Bruzdonosowate
 
-			Rodzaj	Nycteris   bruzdonos
+			Rodzaj	%G Nycteris   bruzdonos%
 
-				Gatunek	Nycteris arge   bruzdonos rownikowy
-					Nycteris aurita   bruzdonos uszaty
-					Nycteris gambiensis   bruzdonos gambijski
-					Nycteris grandis   bruzdonos wielki
-					Nycteris hispida   bruzdonos owlosiony
-					Nycteris intermedia   bruzdonos posredni
-					Nycteris javanica   bruzdonos jawajski
-					Nycteris macrotis   bruzdonos wielkouchy
-					Nycteris madagascariensis   bruzdonos madagaskarski
-					Nycteris major   bruzdonos duzy
-					Nycteris nana   bruzdonos malutki
-					Nycteris parisii   bruzdonos skryty
-					Nycteris thebaica   bruzdonos egipski					https://pl.wikipedia.org/wiki/Bruzdonos_egipski
-					Nycteris tragata   bruzdonos sundajski
-					Nycteris vinsoni   bruzdonos samotny
-					Nycteris woodi   bruzdonos sawannowy
+				Gatunek	%L Nycteris arge  %S bruzdonos rownikowy%
+					%L Nycteris aurita  %S bruzdonos uszaty%
+					%L Nycteris gambiensis  %S bruzdonos gambijski%
+					%L Nycteris grandis  %S bruzdonos wielki%
+					%L Nycteris hispida  %S bruzdonos owlosiony%
+					%L Nycteris intermedia  %S bruzdonos posredni%
+					%L Nycteris javanica  %S bruzdonos jawajski%
+					%L Nycteris macrotis  %S bruzdonos wielkouchy%
+					%L Nycteris madagascariensis  %S bruzdonos madagaskarski%
+					%L Nycteris major  %S bruzdonos duzy%
+					%L Nycteris nana  %S bruzdonos malutki%
+					%L Nycteris parisii  %S bruzdonos skryty%
+					%L Nycteris thebaica  %S bruzdonos egipski%					https://pl.wikipedia.org/wiki/Bruzdonos_egipski
+					%L Nycteris tragata  %S bruzdonos sundajski%
+					%L Nycteris vinsoni  %S bruzdonos samotny%
+					%L Nycteris woodi  %S bruzdonos sawannowy%
 
-	Rodzina 	Myzopodidae   ssawkonogowate								https://pl.wikipedia.org/wiki/Ssawkonogowate
+	Rodzina %F Myzopodidae   ssawkonogowate%								https://pl.wikipedia.org/wiki/Ssawkonogowate
 
-			Rodzaj	Myzopoda   ssawkonog							https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g
+			Rodzaj	%G Myzopoda   ssawkonog%							https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g
 
-					Gatunek	Myzopoda aurita   ssawkonog uszaty				https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_uszaty
-						Myzopoda schliemanni   ssawkonog skryty			https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_skryty
-						Myzopoda africana   ssawkonog afrykanski
-				Phasmatonycteris			
+					Gatunek	%L Myzopoda aurita  %S ssawkonog uszaty%				https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_uszaty
+						%L Myzopoda schliemanni  %S ssawkonog skryty%			https://pl.wikipedia.org/wiki/Ssawkon%C3%B3g_skryty
+						%L Myzopoda africana  %S ssawkonog afrykanski%
+				%Phasmatonycteris			
 
-	Rodzina 	Mystacinidae   wasonosowate									https://pl.wikipedia.org/wiki/W%C4%85sonosowate
+	Rodzina %F Mystacinidae   wasonosowate%									https://pl.wikipedia.org/wiki/W%C4%85sonosowate
 
-			Rodzaj	Mystacina   wasonos							https://pl.wikipedia.org/wiki/W%C4%85sonos
+			Rodzaj	%G Mystacina   wasonos%							https://pl.wikipedia.org/wiki/W%C4%85sonos
 
-					Gatunek	Mystacina robusta   wasonos wiekszy
-						Mystacina tuberculata   wasonos mniejszy			https://pl.wikipedia.org/wiki/W%C4%85sonos_mniejszy
-						Mystacina miocenalis
+					Gatunek	%L Mystacina robusta  %S wasonos wiekszy%
+						%L Mystacina tuberculata  %S wasonos mniejszy%			https://pl.wikipedia.org/wiki/W%C4%85sonos_mniejszy
+						%L Mystacina miocenalis %S wasonos micenski%
 
-				Icarops
+				%Icarops
 
 	Rodzina 	Phyllostomidae   liscionosowate								https://pl.wikipedia.org/wiki/Li%C5%9Bcionosowate
 
