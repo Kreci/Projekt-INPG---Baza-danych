@@ -24,7 +24,7 @@ void menu(node* root)
                         " [2] Wypisz zawartosc bazy danych\n"
                         " [3] Wypisz pierwszy (alfabetycznie) gatunek\n"
                         " [4] Wypisz ostatni (alfabetycznie) gatunek\n"
-                        " [5] Wyszukaj gatunek\n"
+                        " [5] Wyszukaj gatunki\n"
                         " [6] Usun wpis\n"                        
                         " [7] Wczytaj baze z pliku\n"
                         "----------------------------------------------\n"
