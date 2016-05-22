@@ -880,177 +880,177 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 
 					Gatunek	%L Lionycteris spurrelli  %S nektaronocek kasztanowaty%
 
-				Rodzaj	Lonchophylla   nektarolot						https://pl.wikipedia.org/wiki/Nektarolot
+				Rodzaj	%G Lonchophylla   nektarolot%						https://pl.wikipedia.org/wiki/Nektarolot
 
-					Gatunek	Lonchophylla bokermanni   nektarolot samotny
-						Lonchophylla cadenai   nektarolot kolumbijski
-						Lonchophylla chocoana   nektarolot duzy
-						Lonchophylla concava   nektarolot rabujacy
-						Lonchophylla dekeyseri   nektarolot stoleczny
-						Lonchophylla fornicata   nektarolot nizinny
-						Lonchophylla handleyi   nektarolot jaskiniowy
-						Lonchophylla hesperia   nektarolot skryty
-						Lonchophylla mordax   nektarolot kasajacy
-						Lonchophylla orcesi   nektarolot tajemniczy
-						Lonchophylla orienticollina   nektarolot kordylierski
-						Lonchophylla peracchii   nektarolot lesny
-						Lonchophylla robusta   nektarolot pomaranczowy
-						Lonchophylla thomasi   nektarolot strumieniowy
+					Gatunek	%L Lonchophylla bokermanni  %S nektarolot samotny%
+						%L Lonchophylla cadenai  %S nektarolot kolumbijski%
+						%L Lonchophylla chocoana  %S nektarolot duzy%
+						%L Lonchophylla concava  %S nektarolot rabujacy%
+						%L Lonchophylla dekeyseri  %S nektarolot stoleczny%
+						%L Lonchophylla fornicata  %S nektarolot nizinny%
+						%L Lonchophylla handleyi  %S nektarolot jaskiniowy%
+						%L Lonchophylla hesperia  %S nektarolot skryty%
+						%L Lonchophylla mordax  %S nektarolot kasajacy%
+						%L Lonchophylla orcesi  %S nektarolot tajemniczy%
+						%L Lonchophylla orienticollina  %S nektarolot kordylierski%
+						%L Lonchophylla peracchii  %S nektarolot lesny%
+						%L Lonchophylla robusta  %S nektarolot pomaranczowy%
+						%L Lonchophylla thomasi  %S nektarolot strumieniowy%
 
 
-				Rodzaj	Platalina   dlugopyszczek
+				Rodzaj	%G Platalina   dlugopyszczek%
 
-						Platalina genovensium   dlugopyszczek peruwianski
+						%L Platalina genovensium  %S dlugopyszczek peruwianski%
 
-				Rodzaj	Xeronycteris   sucholubek
+				Rodzaj	%G Xeronycteris   sucholubek%
 
-						Xeronycteris vieirai   sucholubek brazylijski
+						%L Xeronycteris vieirai  %S sucholubek brazylijski%
 
 		%Podrodzina	Phyllostominae   liscionosy							https://pl.wikipedia.org/wiki/Li%C5%9Bcionosy
 
-				Rodzaj	Chrotopterus   welnianek
+				Rodzaj	%G Chrotopterus   welnianek%
 
-						Chrotopterus auritus   welnianek uszaty
+						%L Chrotopterus auritus  %S welnianek uszaty%
 
-				Rodzaj	Glyphonycteris   uszatek						https://pl.wikipedia.org/wiki/Uszatek
+				Rodzaj	%G Glyphonycteris   uszatek%						https://pl.wikipedia.org/wiki/Uszatek
 
-						Glyphonycteris behnii   uszatek skryty
-						Glyphonycteris daviesi   uszatek szaropiersiowy
-						Glyphonycteris sylvestris   uszatek trojbarwny
+						%L Glyphonycteris behnii  %S uszatek skryty%
+						%L Glyphonycteris daviesi  %S uszatek szaropiersiowy%
+						%L Glyphonycteris sylvestris  %S uszatek trojbarwny%
 
-				Rodzaj	Lampronycteris   blyszczek
+				Rodzaj	%G Lampronycteris   blyszczek%
 
-						Lampronycteris brachyotis   blyszczek zoltoszyi
+						%L Lampronycteris brachyotis  %S blyszczek zoltoszyi%
 
-				Rodzaj	Lonchorhina   mieczonos						https://pl.wikipedia.org/wiki/Mieczonos
+				Rodzaj	%G Lonchorhina   mieczonos%						https://pl.wikipedia.org/wiki/Mieczonos
 
-						Lonchorhina aurita   mieczonos uszaty
-						Lonchorhina fernandezi   mieczonos wenezuelski
-						Lonchorhina inusitata   mieczonos niezwykly
-						Lonchorhina marinkellei   mieczonos skryty
-						Lonchorhina orinocensis   mieczonos jaskiniowy
+						%L Lonchorhina aurita  %S mieczonos uszaty%
+						%L Lonchorhina fernandezi  %S mieczonos wenezuelski%
+						%L Lonchorhina inusitata  %S mieczonos niezwykly%
+						%L Lonchorhina marinkellei  %S mieczonos skryty%
+						%L Lonchorhina orinocensis  %S mieczonos jaskiniowy%
 
-				Rodzaj	Lophostoma   czuboustek						https://pl.wikipedia.org/wiki/Czuboustek
+				Rodzaj	%G Lophostoma   czuboustek%						https://pl.wikipedia.org/wiki/Czuboustek
 
-						Lophostoma aequatorialis   czuboustek rownikowy
-						Lophostoma brasiliense   czuboustek karlowaty
-						Lophostoma carrikeri   czuboustek termitierowy
-						Lophostoma evotis   czuboustek nizinny
-						Lophostoma kalkoae   czuboustek bialobrzuchy
-						Lophostoma schulzi   czuboustek skryty
-						Lophostoma silvicolum   czuboustek bialogardly
-						Lophostoma yasuni   czuboustek ekwadorski
+						%L Lophostoma aequatorialis  %S czuboustek rownikowy%
+						%L Lophostoma brasiliense  %S czuboustek karlowaty%
+						%L Lophostoma carrikeri  %S czuboustek termitierowy%
+						%L Lophostoma evotis  %S czuboustek nizinny%
+						%L Lophostoma kalkoae  %S czuboustek bialobrzuchy%
+						%L Lophostoma schulzi  %S czuboustek skryty%
+						%L Lophostoma silvicolum  %S czuboustek bialogardly%
+						%L Lophostoma yasuni  %S czuboustek ekwadorski%
 
-					Macrophyllum   wielkoplat
+					%G Macrophyllum   wielkoplat%
 
-						Macrophyllum macrophyllum   wielkoplat dlugonogi
+						%L Macrophyllum macrophyllum   wielkoplat dlugonogi%
 
-					Macrotus   wielkouszak						https://pl.wikipedia.org/wiki/Wielkouszak
+					%G Macrotus   wielkouszak%						https://pl.wikipedia.org/wiki/Wielkouszak
 
-						Macrotus californicus   wielkouszak kalifornijski
-						Macrotus waterhousii   wielkouszak liscionosy
+						%L Macrotus californicus  %S wielkouszak kalifornijski%
+						%L Macrotus waterhousii  %S wielkouszak liscionosy%
 
-					Micronycteris   karlogacek						https://pl.wikipedia.org/wiki/Kar%C5%82ogacek
+					%G Micronycteris   karlogacek%						https://pl.wikipedia.org/wiki/Kar%C5%82ogacek
 
-						Micronycteris brosseti   karlogacek amazonski
-						Micronycteris buriri   karlogacek wyspowy
-						Micronycteris giovanniae   karlogacek ekwadorski
-						Micronycteris hirsuta   karlogacek kosmaty
-						Micronycteris homezi   karlogacek skryty
-						Micronycteris matses   karlogacek samotny
-						Micronycteris megalotis   karlogacek wielkouchy			https://pl.wikipedia.org/wiki/Kar%C5%82ogacek_wielkouchy
-						Micronycteris microtis   karlogacek zwyczajny
-						Mieronycteris minuta   karlogacek bialobrzuchy
-						Micronytteris sanborni   karlogacek brazylijski
-						Micronycteris schmidtorum   karlogacek lesny
-						Micronycteris yatesi   karlogacek boliwijski
+						%L Micronycteris brosseti  %S karlogacek amazonski%
+						%L Micronycteris buriri  %S karlogacek wyspowy%
+						%L Micronycteris giovanniae  %S karlogacek ekwadorski%
+						%L Micronycteris hirsuta  %S karlogacek kosmaty%
+						%L Micronycteris homezi  %S karlogacek skryty%
+						%L Micronycteris matses  %S karlogacek samotny%
+						%L Micronycteris megalotis  %S karlogacek wielkouchy%			https://pl.wikipedia.org/wiki/Kar%C5%82ogacek_wielkouchy%
+						%L Micronycteris microtis  %S karlogacek zwyczajny%
+						%L Mieronycteris minuta  %S karlogacek bialobrzuchy%
+						%L Micronytteris sanborni  %S karlogacek brazylijski%
+						%L Micronycteris schmidtorum  %S karlogacek lesny%
+						%L Micronycteris yatesi  %S karlogacek boliwijski%
 
-					Mimon   mimon							https://pl.wikipedia.org/wiki/Mimon_(rodzaj_ssaka)
+					%G Mimon   mimon%							https://pl.wikipedia.org/wiki/Mimon_(rodzaj_ssaka)
 
-						Mimon bennettii   mimon zloty
-						Mimon cozumelae   mimon kozumelski
-						Mimon crenulatum   mimon pregowany
-						Mimon koepckeae   mimon sierscionosy
+						%L Mimon bennettii  %S mimon zloty%
+						%L Mimon cozumelae  %S mimon kozumelski%
+						%L Mimon crenulatum  %S mimon pregowany%
+						%L Mimon koepckeae  %S mimon sierscionosy%
 
-					Neonycteris   wielkouszek
+					%G Neonycteris   wielkouszek%
 
-						Neonycteris pusilla   wielkouszek malutki
+						%L Neonycteris pusilla  %S wielkouszek malutki%
 
-					Phylloderma   liscioskorek
+					%G Phylloderma   liscioskorek%
 
-						Phylloderma stenops   liscioskorek jasnolicy
+						%L Phylloderma stenops  %S liscioskorek jasnolicy%
 
-					Phyllostomus   liscionos						https://pl.wikipedia.org/wiki/Li%C5%9Bcionos
+					%G Phyllostomus   liscionos%						https://pl.wikipedia.org/wiki/Li%C5%9Bcionos
 
-						Phyllostomus discolor   liscionos jasny
-						Phyllostomus elongatus   liscionos maly
-						Phyllostomus hastatus   liscionos okazaly				https://pl.wikipedia.org/wiki/Li%C5%9Bcionos_okaza%C5%82y
-						Phyllostomus latifolius   liscionos gujanski
+						%L Phyllostomus discolor  %S liscionos jasny%
+						%L Phyllostomus elongatus  %S liscionos maly%
+						%L Phyllostomus hastatus  %S liscionos okazaly%				https://pl.wikipedia.org/wiki/Li%C5%9Bcionos_okaza%C5%82y
+						%L Phyllostomus latifolius  %S liscionos gujanski%
 
-					Tonatia   tonatia							https://pl.wikipedia.org/wiki/Tonatia
+					%G Tonatia   tonatia%							https://pl.wikipedia.org/wiki/Tonatia
 
-						Tonatia bidens   tonatia ptaszkozerna
-						Tonatia saurophila   tonatia gadolubna
+						%L Tonatia bidens  %S tonatia ptaszkozerna%
+						%L Tonatia saurophila  %S tonatia gadolubna%
 
-					Trachops   zabojadek
+					%G Trachops   zabojadek%
 
-						Trachops cirrhosus   zabojadek brazylijski
-					Trinycteris   liscionosek
+						%L Trachops cirrhosus  %S zabojadek brazylijski%
+					%G Trinycteris   liscionosek%
 
-						Trinycteris nicefori   liscionosek lesny
+						%L Trinycteris nicefori  %S liscionosek lesny%
 
-					Vampyrum   widmowiec
+					%G Vampyrum   widmowiec%
 
-						Vampyrum spectrum   widmowiec wielki				https://pl.wikipedia.org/wiki/Widmowiec_wielki
+						%L Vampyrum spectrum  %S widmowiec wielki%				https://pl.wikipedia.org/wiki/Widmowiec_wielki
 
 		%Podrodzina	Carolliinae   karolie								https://pl.wikipedia.org/wiki/Karolie
 
-				Rodzaj	Carollia   karolia							https://pl.wikipedia.org/wiki/Karolia
+				Rodzaj	%G Carollia   karolia%							https://pl.wikipedia.org/wiki/Karolia
 
-					Garunek	Carollia benkeithi   karolia amazonska
-						Carollia brevicauda   karolia jedwabista
-						Carollia castanea   karolia kasztanowa
-						Carollia columbiana   karolia kolumbijska
-						Carollia manu   karolia peruwianska
-						Carollia monohernandezi   karolia lesna
-						Carollia perspicillata   karolia okularowa				https://pl.wikipedia.org/wiki/Karolia_okularowa
-						Carollia sowelli   karolia srodkowoameryka
-						Carollia subrufa   karolia szarawa
+					Garunek	%L Carollia benkeithi  %S karolia amazonska%
+						%L Carollia brevicauda  %S karolia jedwabista%
+						%L Carollia castanea  %S karolia kasztanowa%
+						%L Carollia columbiana  %S karolia kolumbijska%
+						%L Carollia manu  %S karolia peruwianska%
+						%L Carollia monohernandezi  %S karolia lesna%
+						%L Carollia perspicillata  %S karolia okularowa%				https://pl.wikipedia.org/wiki/Karolia_okularowa
+						%L Carollia sowelli  %S karolia srodkowoameryka%
+						%L Carollia subrufa  %S karolia szarawa%
 
-				Rodzaj	Rhinophylla   listkonosek						https://pl.wikipedia.org/wiki/Listkonosek
+				Rodzaj	%G Rhinophylla   listkonosek%						https://pl.wikipedia.org/wiki/Listkonosek
 
-					Garunek	Rhinophylla alethina   listkonosek owlosiony
-						Rhinophylla fischerae   listkonosek dzunglowy
-						Rhinophylla pumlio   listkonosek karlowaty
+					Garunek	%L Rhinophylla alethina  %S listkonosek owlosiony%
+						%L Rhinophylla fischerae  %S listkonosek dzunglowy%
+						%L Rhinophylla pumlio  %S listkonosek karlowaty%
 
 		%Podrodzina	Stenodermatinae   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce
 
 				%Plemie	Sturnirini   zoltobarczyki						https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyki
 
-					Rodzaj	Sturnira   zoltobarczyk
+					Rodzaj	%G Sturnira   zoltobarczyk%
 
 						%Podrodzaj	Sturnira
 
-							Gatunek	Sturnira aratathomasi   zoltobarczyk gorski
-								Sturnira bogotensis   zoltobarczyk mgielny
-								Sturnira erythromos   zoltobarczyk owlosiony
-								Sturnira koopmanhili   zoltobarczyk skryty
-								Sturnira lilium   zoltobarczyk maly		https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyk_ma%C5%82y
-								Sturnira ludovici   zoltobarczyk wyzynny
-								Sturnira luisi   zoltobarczyk pacyficzny
-								Sturnira magna   zoltobarczyk duzy
-								Sturnira mistratensis   zoltobarczyk samotny
-								Sturnira mordax   zoltobarczyk kordylierski
-								Sturnira oporaphilum   zoltobarczyk andyjski
-								Sturnira perla   zoltobarczyk ekwadorski
-								Sturnira sorianoi   zoltobarczyk tajemniczy
-								Sturnira thomasi   zoltobarczyk antylski
-								Sturnira tildae   zoltobarczyk amazonski
+							Gatunek	%L Sturnira aratathomasi  %S zoltobarczyk gorski%
+								%L Sturnira bogotensis  %S zoltobarczyk mgielny%
+								%L Sturnira erythromos  %S zoltobarczyk owlosiony%
+								%L Sturnira koopmanhili  %S zoltobarczyk skryty%
+								%L Sturnira lilium  %S zoltobarczyk maly%		https://pl.wikipedia.org/wiki/%C5%BB%C3%B3%C5%82tobarczyk_ma%C5%82y
+								%L Sturnira ludovici  %S zoltobarczyk wyzynny%
+								%L Sturnira luisi  %S zoltobarczyk pacyficzny%
+								%L Sturnira magna  %S zoltobarczyk duzy%
+								%L Sturnira mistratensis  %S zoltobarczyk samotny%
+								%L Sturnira mordax  %S zoltobarczyk kordylierski%
+								%L Sturnira oporaphilum  %S zoltobarczyk andyjski%
+								%L Sturnira perla  %S zoltobarczyk ekwadorski%
+								%L Sturnira sorianoi  %S zoltobarczyk tajemniczy%
+								%L Sturnira thomasi  %S zoltobarczyk antylski%
+								%L Sturnira tildae  %S zoltobarczyk amazonski%
 
 							%Podrodzaj	Corvira
 
-								Sturnira bidens   zoltobarczyk dwuzebny
-								Sturnira nana   zoltobarczyk drobny
+								%L Sturnira bidens  %S zoltobarczyk dwuzebny%
+								%L Sturnira nana  %S zoltobarczyk drobny%
 
 				%Plemie	Stenodermatini   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce_(plemi%C4%99_ssak%C3%B3w)
 
