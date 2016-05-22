@@ -143,33 +143,6 @@ int nodeNumber(node *root)                                               //Zwrac
         return counter;
     }
 //*******************************************************************************************************************************
-void findRecord(node *root)             //wyszukuje element o zadanej nazwie gatunkowej
-    {
-        data input;
-
-        if(root == NULL)
-            {
-                printf("Baza jest pusta!\n");
-                return;
-            }
-        printf("Podaj nazwe zwyczajowa\n");
-        scanf("%s", input.stdName);
-
-        while(root != NULL)
-            {
-                if(compare(root->entry, input) == -1)
-                    root = root->right;
-                else if(compare(root->entry, input) == 1)
-                    root = root->left;
-                else
-                    {
-                        display(root->entry);
-                        return;
-                    }
-            }
-        printf("Nie znaleziono szukanego gatunku\n");
-        return;
-    }
 void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
 {   
     data sEntry;                                    //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
