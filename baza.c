@@ -106,7 +106,7 @@ void z_znajdz(node *root, char *klucz)               //Displays whole tree in-or
             if(zawiera((root->entry).stdName, klucz))
             {
                 display(root->entry);
-                printf("\n\n");
+                printf("\n");
             }
 
             z_znajdz(root->right, klucz);
@@ -127,9 +127,9 @@ void znajdz(node *root)
       fgets(klucz, 40, stdin);
       for(i=0;klucz[i]!='\0';i++)
       if(klucz[i]=='\n') klucz[i]='\0';
-      printf("\n\nZnaleziono nastepujace wpisy:\n\n");
+      printf("\n\nZnaleziono nastepujace wpisy:\n");
       z_znajdz(root, klucz);
-      printf("\n\nTo wszystko!\n");
+      printf("\nTo wszystko!\n");
 }
 
 
