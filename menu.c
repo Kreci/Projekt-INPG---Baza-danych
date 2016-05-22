@@ -25,7 +25,7 @@ void menu(node* root)
                         " [3] Wypisz pierwszy (alfabetycznie) rekord\n"
                         " [4] Wypisz ostatni (alfabetycznie) rekord\n"
                         " [5] Wyszukaj rekord\n"
-                        //" [6] Usun wpis\n"                        soonTM, problem z usuwaniem roota
+                        " [6] Usun wpis\n"                        
                         /*
                         " [5] Wypisz spis gatunków\n" \
                         " [6] Wypisz spis rodzai\n"    } Jedna ze specyfikacja czego
@@ -60,9 +60,21 @@ void menu(node* root)
                             break;
                         case 11: wczytajBaze(& root,  "Baza.txt");
                             break;
-                       /* case 6: mDestroy(root);               soonTM
+                        case 6: 
+                                if(root==NULL)
+                                {
+                                    printf("Nie ma drzewa do usuniecia\n");
+                                    break;
+                                }
+                                else if(root->left==NULL&&root->right==NULL)
+                                {
+                                    printf("Nie mozna usunac jedynego elementu bazy\n");
+                                    break;
+                                }
+                                else
+                                mDestroy(root);               
                             break;
-                        case 5: findRecord(node *root);
+                        /*case 5: findRecord(node *root);
                             break;
                         case 6: puts("Dostepne w DLC juz 15 maja");
                             break;
