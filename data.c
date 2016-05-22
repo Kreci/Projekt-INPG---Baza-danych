@@ -45,7 +45,7 @@ void fDisplay(node *root)               //Displays whole tree in-order (alphabet
         {
             fDisplay(root->left);
             display(root->entry);
-            printf("\n\n");
+            printf("\n");
             fDisplay(root->right);
         }
     return;
