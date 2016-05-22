@@ -1054,333 +1054,333 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 
 				%Plemie	Stenodermatini   owocnikowce						https://pl.wikipedia.org/wiki/Owocnikowce_(plemi%C4%99_ssak%C3%B3w)
 
-					Rodzaj	Ametrida   malek
+					Rodzaj	%G Ametrida   malek%
 
-							Ametrida centurio   malek bialobarki
+							%L Ametrida centurio  %S malek bialobarki%
 
-						Ardops   antylot
+						%G Ardops   antylot%
 
-							Ardops nichollsi   antylot wyspowy
+							%L Ardops nichollsi  %S antylot wyspowy%
 
-						Ariteus   figozerek
+						%G Ariteus   figozerek%
 
-							Ariteus flavescens   figozerek jamajski
+							%L Ariteus flavescens  %S figozerek jamajski%
 
-						Artibeus   owocowiec
-						Centurio   starzec
+						%Artibeus   owocowiec
+						%G Centurio   starzec%
 
-							Centurio senex   starzec pomarszczony			https://pl.wikipedia.org/wiki/Starzec_pomarszczony
+							%L Centurio senex  %S starzec pomarszczony%			https://pl.wikipedia.org/wiki/Starzec_pomarszczony
 
-						Chiroderma   wielkook
-						Ectophylla   podlistnik
+						%Chiroderma   wielkook
+						%G Ectophylla   podlistnik%
 
-							Ectophylla alba   podlistnik bialawy			https://pl.wikipedia.org/wiki/Podlistnik_bia%C5%82awy
+							%L Ectophylla alba  %S podlistnik bialawy%			https://pl.wikipedia.org/wiki/Podlistnik_bia%C5%82awy
 
-						Enchisthenes   wielkooczek
+						%G Enchisthenes   wielkooczek%
 
-							Enchisthenes hartii   wielkooczek aksamitny
+							%L Enchisthenes hartii  %S wielkooczek aksamitny%
 
-						Mesophylla   namiotowiec
+						%G Mesophylla   namiotowiec%
 
-							Mesophylla macconnelli   namiotowiec palmowy
+							%L Mesophylla macconnelli  %S namiotowiec palmowy%
 
-						Phyllops   lisciolotnik
+						%G Phyllops   lisciolotnik%
 
-							Phyllops falcatus   lisciolotnik sierpowaty
+							%L Phyllops falcatus  %S lisciolotnik sierpowaty%
 
-						Platyrrhinus   szerokonos
-						Pygoderma   skorozad
+						%Platyrrhinus   szerokonos
+						%G Pygoderma   skorozad%
 
-							Pygoderma bilabiatum   skorozad dwuwargi
+							%L Pygoderma bilabiatum  %S skorozad dwuwargi%
 
-						Sphaeronycteris   maskonosek
+						%G Sphaeronycteris   maskonosek%
 
-							Sphaeronycteris toxophyllum   maskonosek amerykanski
+							%L Sphaeronycteris toxophyllum  %S maskonosek amerykanski%
 
-						Stenoderma   owocnikowiec
+						%G Stenoderma   owocnikowiec%
 
-							Stenoderma rufum   owocnikowiec rudy
+							%L Stenoderma rufum  %S owocnikowiec rudy%
 
-						Uroderma   namiotnik
-						Vampyressa   zoltouch
-						Vampyrodes   straszydlak
+						%Uroderma   namiotnik
+						%Vampyressa   zoltouch
+						%G Vampyrodes   straszydlak%
 
-							Vampyrodes caraccioli   straszydlak paskoglowy
+							%L Vampyrodes caraccioli  %S straszydlak paskoglowy%
 
-	Rodzina 	Mormoopidae   straszakowate									https://pl.wikipedia.org/wiki/Straszakowate
+	Rodzina %F Mormoopidae   straszakowate%									https://pl.wikipedia.org/wiki/Straszakowate
 
-		Rodzaj	Heleophryne   Straszaki
+		Rodzaj	%G Heleophryne   Straszaki%
 
-			Gatunek	Heleophryne hewitti   straszak helwecki						https://pl.wikipedia.org/wiki/Heleophryne_hewitti
-				Heleophryne natalensis   straszak nikczemny							https://pl.wikipedia.org/wiki/Heleophryne_natalensis
-				Heleophryne orientalis   straszak wschodni							https://pl.wikipedia.org/wiki/Heleophryne_orientalis
-				Heleophryne purcelli   straszak czysty
-				Heleophryne regis   straszak krolewski
-				Heleophryne rosei   straszak kapsztadzki
+			Gatunek	%L Heleophryne hewitti  %S straszak helwecki%						https://pl.wikipedia.org/wiki/Heleophryne_hewitti
+				%L Heleophryne natalensis  %S straszak nikczemny%							https://pl.wikipedia.org/wiki/Heleophryne_natalensis
+				%L Heleophryne orientalis  %S straszak wschodni%							https://pl.wikipedia.org/wiki/Heleophryne_orientalis
+				%L Heleophryne purcelli  %S straszak czysty%
+				%L Heleophryne regis  %S straszak krolewski%
+				%L Heleophryne rosei  %S straszak kapsztadzki%
 
-	Rodzina 	Noctilionidae   rybakowate
-	Rodzina 	Furipteridae   furiakowate
-	Rodzina 	Thyropteridae   przylgowcowate
-	Rodzina 	Natalidae   lejkouchowate
-	Rodzina 	Molossidae   molosowate									https://pl.wikipedia.org/wiki/Molosowate
+	Rodzina 	%Noctilionidae   rybakowate
+	Rodzina 	%Furipteridae   furiakowate
+	Rodzina 	%Thyropteridae   przylgowcowate
+	Rodzina 	%Natalidae   lejkouchowate
+	Rodzina 	%Molossidae   molosowate									https://pl.wikipedia.org/wiki/Molosowate
 
 		%Podrodzina	Molossinae
-				Tomopeatinae
+				%Tomopeatinae
 
-	Rodzina 	Cistugidae   wlosiakowate									https://pl.wikipedia.org/wiki/Mroczkowate
-	Rodzina 	Vespertilionidae   mroczkowate
+	Rodzina %Cistugidae   wlosiakowate									https://pl.wikipedia.org/wiki/Mroczkowate
+	Rodzina %FVespertilionidae   mroczkowate
 
 			%Podrodzina	Vespertilioninae   mroczki
 
 					%Plemie	Eptesicini   mroczki
 
-						Rodzaj	Arielulus   arielek					https://pl.wikipedia.org/wiki/Arielek
+						Rodzaj	%G Arielulus   arielek%					https://pl.wikipedia.org/wiki/Arielek
 
-							Gatunek	Arielulus aureocollaris   Arielek kolnierzowaty
-								Arielulus circumdatus   Arielek okraglasty
-								Arielulus cuprosus   Arielek ciekawski
-								Arielulus societatis   Arielek stadny
-								Arielulus torquatus   Arielek krety
+							Gatunek	%L Arielulus aureocollaris  %S Arielek kolnierzowaty%
+								%L Arielulus circumdatus  %S Arielek okraglasty%
+								%L Arielulus cuprosus  %S Arielek ciekawski%
+								%L Arielulus societatis  %S Arielek stadny%
+								%L Arielulus torquatus  %S Arielek krety%
 
-						Rodzaj	Eptesicus   mroczek					https://pl.wikipedia.org/wiki/Mroczek_(nietoperze)
+						Rodzaj	%G Eptesicus   mroczek%					https://pl.wikipedia.org/wiki/Mroczek_(nietoperze)
 
-								Eptesicus baverstocki   Mroczek bawarski
-								Eptesicus bobrinskoi   Mroczek bobronosy
-								Eptesicus bottae   Mroczek podeszwowy
-								Eptesicus brasiliensis   Mroczek brazylijski
-								Eptesicus brunneus   Mroczek czarny
-								Eptesicus capensis   Mroczek czepiasty
-								Eptesicus demissus   Mroczek polowiasty
-								Eptesicus diminutus   Mroczek mniejszy
-								Eptesicus douglasorum   mroczek zwyczajny
-								Eptesicus flavescens   Mroczek kwiatonosy
-								Eptesicus floweri   Mroczek kwiecisty
-								Eptesicus furinalis   Mroczek futrzasty
-								Eptesicus fuscus   mroczek brunatny		https://pl.wikipedia.org/wiki/Mroczek_brunatny
-								Eptesicus guadeloupensis   Mroczek gwadelupski
-								Eptesicus guineensisv   Mroczek gwinejski
-								Eptesicus hottentotus   Mroczek hottentocki
-								Eptesicus innoxius   Mroczke niewinny
-								Eptesicus kobayashii   Mroczek japonski
-								Eptesicus melckorum   Mroczek mroczny
-								Eptesicus nasutus   Mroczek wedrowny
-								Eptesicus nilssoni   mroczek pozlocisty		https://pl.wikipedia.org/wiki/Mroczek_poz%C5%82ocisty
-								Eptesicus pachyotis   Mroczek szerokoskrzydly
-								Eptesicus platyops   Mroczek wielkooki
-								Eptesicus pumilus   Mroczek gladki
-								Eptesicus regulus   Mroczek szlachetny
-								Eptesicus rendalli   Mroczek kaukaski
-								Eptesicus sagittula   Mroczek krwisty
-								Eptesicus serotinus   mroczek pozny		https://pl.wikipedia.org/wiki/Mroczek_p%C3%B3%C5%BAny
-								Eptesicus somalicus   Mroczek somalijski
-								Eptesicus tatei   Mroczek chinski
-								Eptesicus tenuipinnis   Mroczek drzewny
-								Eptesicus vulturnus   Mroczek paskudny
+								%L Eptesicus baverstocki  %S Mroczek bawarski%
+								%L Eptesicus bobrinskoi  %S Mroczek bobronosy%
+								%L Eptesicus bottae  %S Mroczek podeszwowy%
+								%L Eptesicus brasiliensis  %S Mroczek brazylijski%
+								%L Eptesicus brunneus  %S Mroczek czarny%
+								%L Eptesicus capensis  %S Mroczek czepiasty%
+								%L Eptesicus demissus  %S Mroczek polowiasty%
+								%L Eptesicus diminutus  %S Mroczek mniejszy%
+								%L Eptesicus douglasorum  %S mroczek zwyczajny%
+								%L Eptesicus flavescens  %S Mroczek kwiatonosy%
+								%L Eptesicus floweri  %S Mroczek kwiecisty%
+								%L Eptesicus furinalis  %S Mroczek futrzasty%
+								%L Eptesicus fuscus   mroczek brunatny%		https://pl.wikipedia.org/wiki/Mroczek_brunatny
+								%L Eptesicus guadeloupensis  %S Mroczek gwadelupski%
+								%L Eptesicus guineensisv  %S Mroczek gwinejski%
+								%L Eptesicus hottentotus  %S Mroczek hottentocki%
+								%L Eptesicus innoxius  %S Mroczke niewinny%
+								%L Eptesicus kobayashii  %S Mroczek japonski%
+								%L Eptesicus melckorum  %S Mroczek mroczny%
+								%L Eptesicus nasutus  %S Mroczek wedrowny%
+								%L Eptesicus nilssoni  %S mroczek pozlocisty%		https://pl.wikipedia.org/wiki/Mroczek_poz%C5%82ocisty%
+								%L Eptesicus pachyotis  %S Mroczek szerokoskrzydly%
+								%L Eptesicus platyops  %S Mroczek wielkooki%
+								%L Eptesicus pumilus  %S Mroczek gladki%
+								%L Eptesicus regulus  %S Mroczek szlachetny%
+								%L Eptesicus rendalli  %S Mroczek kaukaski%
+								%L Eptesicus sagittula  %S Mroczek krwisty%
+								%L Eptesicus serotinus  %S mroczek pozny%		https://pl.wikipedia.org/wiki/Mroczek_p%C3%B3%C5%BAny
+								%L Eptesicus somalicus  %S Mroczek somalijski%
+								%L Eptesicus tatei  %S Mroczek chinski%
+								%L Eptesicus tenuipinnis  %S Mroczek drzewny%
+								%L Eptesicus vulturnus  %S Mroczek paskudny%
 
-							Hesperoptenus   zmroczek
-							Rhyneptesicus   pomroczek
+							%Hesperoptenus   zmroczek
+							%Rhyneptesicus   pomroczek
 
 					%Plemie	Lasiurini   kosmatniki
 
-							Lasiurus   kosmatnik
+							%Lasiurus   kosmatnik
 
 					%Plemie	Nyctyceiini   wieczorki
 
-							Nyctyceinops   polmroczek
-							Nycticeius   wieczorek
-							Rhogeessa   zolcinek
-							Scoteanax   szerokopyszczek
-							Scotoecus   maurek
-							Scotomanes   arlekinek
-							Scotophilus   ciemnolubek
-							Scotorepens   szerokonosek
+							%Nyctyceinops   polmroczek
+							%Nycticeius   wieczorek
+							%Rhogeessa   zolcinek
+							%coteanax   szerokopyszczek
+							%Scotoecus   maurek
+							%Scotomanes   arlekinek
+							%Scotophilus   ciemnolubek
+							%Scotorepens   szerokonosek
 
 					%Plemie	Nyctophilini   nocolubki
 
-							Nyctophilus   nocolubek
-							Pharotis   kapturouszek
+							%Nyctophilus   nocolubek
+							%Pharotis   kapturouszek
 
 					%Plemie	Pipistrellini   karliki
 
-							Glischropus   grubopalczyk
-							Nyctalus   borowiec					https://pl.wikipedia.org/wiki/Borowiec_(rodzaj_ssaka)
+							%Glischropus   grubopalczyk
+							%G Nyctalus   borowiec%					https://pl.wikipedia.org/wiki/Borowiec_(rodzaj_ssaka)
 
-								Nyctalus aviator   borowiec ptasi
-								Nyctalus azoreum   borowiec azorski
-								Nyctalus furvus   borowiec japonski
-								Nyctalus lasiopterus   borowiec olbrzymi		https://pl.wikipedia.org/wiki/Borowiec_olbrzymi
-								Nyctalus leisleri   borowiec lesny		https://pl.wikipedia.org/wiki/Borowiec_le%C5%9Bny
-								Nyctalus montanus   borowiec gorski
-								Nyctalus noctula   borowiec wielki		https://pl.wikipedia.org/wiki/Borowiec_wielki
-								Nyctalus plancyi   borowiec chinski
+								%L Nyctalus aviator  %S borowiec ptasi%
+								%L Nyctalus azoreum  %S borowiec azorski%
+								%L Nyctalus furvus  %S borowiec japonski%
+								%L Nyctalus lasiopterus  %S borowiec olbrzymi%		https://pl.wikipedia.org/wiki/Borowiec_olbrzymi
+								%L Nyctalus leisleri  %S borowiec lesny%		https://pl.wikipedia.org/wiki/Borowiec_le%C5%9Bny
+								%L Nyctalus montanus  %S borowiec gorski%
+								%L Nyctalus noctula  %S borowiec wielki%		https://pl.wikipedia.org/wiki/Borowiec_wielki
+								%L Nyctalus plancyi  %S borowiec chinski%
 
-							Parastrellus   karlikowiec
-							Perimyotis   karlicznik
+							%Parastrellus   karlikowiec
+							%Perimyotis   karlicznik
 
-						Rodzaj	Pipistrellus   karlik					https://pl.wikipedia.org/wiki/Karlik_(nietoperze)
+						Rodzaj	%G Pipistrellus   karlik%					https://pl.wikipedia.org/wiki/Karlik_(nietoperze)
 
-							Gatunek	Pipistrellus abramus   Karlik pierwotny
-								Pipistrellus adamsi   Karlik tamski
-								Pipistrellus aero   Karlik powietrzny
-								Pipistrellus angulatus   Karlik krzywonosy
-								Pipistrellus ceylonicus   Karlik cejlonski
-								Pipistrellus collinus   Karlik madry
-								Pipistrellus coromandra   Karlik plamisty
-								Pipistrellus deserti Karlik pustynny
-								Pipistrellus endoi   Karlik arktyczny
-								Pipistrellus hanaki   Karlik chinski
-								Pipistrellus hesperidus   Karlik jableczny
-								Pipistrellus hesperus   Karlik zlotonosy
-								Pipistrellus inexspectatus   Karlik niespodziewany
-								Pipistrellus javanicus   Karlik jawajski
-								Pipistrellus maderensis   Karlik mateczny
-								Pipistrellus minahassae   karlik niemiecki
-								Pipistrellus murrayi   Karlik amerykanski
-								Pipistrellus nanulus   Karlik mniejszy
-								Pipistrellus papuanus   Karlik papuaski
-								Pipistrellus paterculus   Karlik ojczysty
-								Pipistrellus permixtus   Karlik przywzwolony
-								Pipistrellus rueppellii   Karlik wloski
-								Pipistrellus rusticus   Karlik rdzawy
-								Pipistrellus stenopterus   Karlik gladkoskrzydly
-								Pipistrellus sturdeei   Karlik twardy
-								Pipistrellus subflavus   Karlik bezbledny
-								Pipistrellus tenuis   Karlik tenuenski
-								Pipistrellus wattsi   Karlik szkocki
-								Pipistrellus westralis   Karlik zachodni
-								Pipistrellus kuhlii   karlik sredni		https://pl.wikipedia.org/wiki/Karlik_%C5%9Bredni
-								Pipistrellus nathusii   karlik wiekszy		https://pl.wikipedia.org/wiki/Karlik_wi%C4%99kszy
-								Pipistrellus pipistrellus   karlik malutki		https://pl.wikipedia.org/wiki/Karlik_malutki
-								Pipistrellus pygmaeus   karlik drobny		https://pl.wikipedia.org/wiki/Karlik_drobny
+							Gatunek	%L Pipistrellus abramus  %S Karlik pierwotny%
+								%L Pipistrellus adamsi  %S Karlik tamski%
+								%L Pipistrellus aero  %S Karlik powietrzny%
+								%L Pipistrellus angulatus  %S Karlik krzywonosy%
+								%L Pipistrellus ceylonicus  %S Karlik cejlonski%
+								%L Pipistrellus collinus  %S Karlik madry%
+								%L Pipistrellus coromandra  %S Karlik plamisty%
+								%L Pipistrellus deserti %S Karlik pustynny%
+								%L Pipistrellus endoi  %S Karlik arktyczny%
+								%L Pipistrellus hanaki  %S Karlik chinski%
+								%L Pipistrellus hesperidus  %S Karlik jableczny%
+								%L Pipistrellus hesperus  %S Karlik zlotonosy%
+								%L Pipistrellus inexspectatus  %S Karlik niespodziewany%
+								%L Pipistrellus javanicus  %S Karlik jawajski%
+								%L Pipistrellus maderensis  %S Karlik mateczny%
+								%L Pipistrellus minahassae  %S karlik niemiecki%
+								%L Pipistrellus murrayi  %S Karlik amerykanski%
+								%L Pipistrellus nanulus  %S Karlik mniejszy%
+								%L Pipistrellus papuanus  %S Karlik papuaski%
+								%L Pipistrellus paterculus  %S Karlik ojczysty%
+								%L Pipistrellus permixtus  %S Karlik przywzwolony%
+								%L Pipistrellus rueppellii  %S Karlik wloski%
+								%L Pipistrellus rusticus  %S Karlik rdzawy%
+								%L Pipistrellus stenopterus  %S Karlik gladkoskrzydly%
+								%L Pipistrellus sturdeei  %S Karlik twardy%
+								%L Pipistrellus subflavus  %S Karlik bezbledny%
+								%L Pipistrellus tenuis  %S Karlik tenuenski%
+								%L Pipistrellus wattsi  %S Karlik szkocki%
+								%L Pipistrellus westralis  %S Karlik zachodni%
+								%L Pipistrellus kuhlii  %S karlik sredni%		https://pl.wikipedia.org/wiki/Karlik_%C5%9Bredni
+								%L Pipistrellus nathusii  %S karlik wiekszy%		https://pl.wikipedia.org/wiki/Karlik_wi%C4%99kszy%
+								%L Pipistrellus pipistrellus  %S karlik malutki%		https://pl.wikipedia.org/wiki/Karlik_malutki
+								%L Pipistrellus pygmaeus  %S karlik drobny%		https://pl.wikipedia.org/wiki/Karlik_drobny
 
-							Scotozous   nocodekanik
+							%Scotozous   nocodekanik
 
 					%Plemie	Plecotini   gacki
 
-						Rodzaj	Barbastella   mopek					https://pl.wikipedia.org/wiki/Mopek
+						Rodzaj	%G Barbastella   mopek%					https://pl.wikipedia.org/wiki/Mopek
 
-							Gatunek	Barbastella barbastellus   mopek zachodni	https://pl.wikipedia.org/wiki/Mopek_zachodni
-								Barbastella beijingensis   mopek pekinski
-								Barbastella darjelinensis   mopek orientalny
-								Barbastella leucomelas   mopek azjatycki
+							Gatunek	%L Barbastella barbastellus  %S mopek zachodni%	https://pl.wikipedia.org/wiki/Mopek_zachodni
+								%L Barbastella beijingensis  %S mopek pekinski%
+								%L Barbastella darjelinensis  %S mopek orientalny%
+								%L Barbastella leucomelas  %S mopek azjatycki%
 
-							Corynorhinus   brylonosek
-							Euderma   plamek
-							Idionycteris   osobliwiec
-							Otonycteris   dlugouch
+							%Corynorhinus   brylonosek
+							%Euderma   plamek
+							%Idionycteris   osobliwiec
+							%Otonycteris   dlugouch
 
-						Rodzaj	Plecotus   gacek					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
+						Rodzaj	%G Plecotus   gacek					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
 
-							Gatunek	Plecotus alpinus   gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
-								Plecotus ariel   gacek powietrzny
-								Plecotus auritus   gacek brunatny		https://pl.wikipedia.org/wiki/Gacek_brunatny
-								Plecotus austriacus   gacek szary		https://pl.wikipedia.org/wiki/Gacek_szary
-								Plecotus balensis   gacek lysy
-								Plecotus christiei   gacek ochrzczony
-								Plecotus homochrous   gacek domowy
-								Plecotus kolombatovici   gacek balkanski		https://pl.wikipedia.org/wiki/Gacek_ba%C5%82ka%C5%84ski
-								Plecotus kozlovi   gacek kozi
-								Plecotus macrobullaris   gacek alpejski		https://pl.wikipedia.org/wiki/Gacek_alpejski
-								Plecotus mexicanus   gacek maksykanski
-								Plecotus ognevi   gacek plomienny
-								Plecotus rafinesquii   gacek wybitny
-								Plecotus sacrimontis   gacek watykanski
-								Plecotus sardus   gacek sardynski		https://pl.wikipedia.org/wiki/Gacek_sardy%C5%84ski
-								Plecotus strelkovi   Gacek rosyjski
-								Plecotus taivanus   Gacek tajwanski
-								Plecotus teneriffae   gacek kanaryjski		https://pl.wikipedia.org/wiki/Gacek_kanaryjski
-								Plecotus townsendii   Gacek miejski
-								Plecotus turkmenicus   Gacek turkmenski
-								Plecotus wardi   Gacek czujny
+							Gatunek	%L Plecotus alpinus  %S gacek alpejski%		https://pl.wikipedia.org/wiki/Gacek_alpejski
+								%L Plecotus ariel  %S gacek powietrzny%
+								%L Plecotus auritus  %S gacek brunatny%		https://pl.wikipedia.org/wiki/Gacek_brunatny
+								%L Plecotus austriacus  %S gacek szary%		https://pl.wikipedia.org/wiki/Gacek_szary
+								%L Plecotus balensis  %S gacek lysy%
+								%L Plecotus christiei  %S gacek ochrzczony%
+								%L Plecotus homochrous  %S gacek domowy%
+								%L Plecotus kolombatovici  %S gacek balkanski%		https://pl.wikipedia.org/wiki/Gacek_ba%C5%82ka%C5%84ski
+								%L Plecotus kozlovi  %S gacek kozi%
+								%L Plecotus macrobullaris  %S gacek alpejski%		https://pl.wikipedia.org/wiki/Gacek_alpejski
+								%L Plecotus mexicanus  %S gacek maksykanski%
+								%L Plecotus ognevi  %S gacek plomienny%
+								%L Plecotus rafinesquii  %S gacek wybitny%
+								%L Plecotus sacrimontis  %S gacek watykanski%
+								%L Plecotus sardus  %S gacek sardynski%		https://pl.wikipedia.org/wiki/Gacek_sardy%C5%84ski
+								%L Plecotus strelkovi  %S Gacek rosyjski%
+								%L Plecotus taivanus  %S Gacek tajwanski%
+								%L Plecotus teneriffae  %S gacek kanaryjski%		https://pl.wikipedia.org/wiki/Gacek_kanaryjski%
+								%L Plecotus townsendii  %S Gacek miejski%
+								%L Plecotus turkmenicus  %S Gacek turkmenski%
+								%L Plecotus wardi  %S Gacek czujny%
 
 					%Plemie	Vespertilionini   mroczaki
 
-							Chalinolobus   mrocznik
-							Eudiscopus   dyskonog
-							Falisistrellus   nibykarlik
-							Glauconycteris   latnik
-							Histiotus   zaglouch
-							Hypsugo   przymroczek
-							Ia   wieczornik
-							Laephotis   zaglouszek
-							Mimetillus   skaposkrzydlik
-							Niumbaha   laciatek
-							Neoromicia   afrokarlik
-							Philetor   karlowatek
-							Tylonycteris   bambusik
-							Vespadelus   lasomroczek
-							Vespertilio   mroczak					https://pl.wikipedia.org/wiki/Mroczak
+							%Chalinolobus   mrocznik
+							%Eudiscopus   dyskonog
+							%Falisistrellus   nibykarlik
+							%Glauconycteris   latnik
+							%Histiotus   zaglouch
+							%Hypsugo   przymroczek
+							%Ia   wieczornik
+							%Laephotis   zaglouszek
+							%Mimetillus   skaposkrzydlik
+							%Niumbaha   laciatek
+							%Neoromicia   afrokarlik
+							%Philetor   karlowatek
+							%Tylonycteris   bambusik
+							%Vespadelus   lasomroczek
+							%Vespertilio   mroczak					https://pl.wikipedia.org/wiki/Mroczak
 
-							Gatunek	Vespertilio murinus   mroczak posrebrzany
+							Gatunek	%G Vespertilio murinus %S mroczak posrebrzany%
 
-								Vespertilio superans
+								%L Vespertilio superans %S mroczak potezny%
 
 			%Podrodzina	Antrozoinae   jasnotki
 
-					Rodzaj	Antrozous   jasnotek
-						Bauerus   jasnoteczek
+					Rodzaj	%Antrozous   jasnotek%
+						%Bauerus   jasnoteczek
 
 			%Podrodzina	Myotinae   nocki
 
-					Rodzaj	Lasionycteris   srebrnonocek
-					Rodzaj	Myotis   nocek						https://pl.wikipedia.org/wiki/Nocek
+					Rodzaj	%Lasionycteris   srebrnonocek
+					Rodzaj	%G Myotis   nocek%						https://pl.wikipedia.org/wiki/Nocek
 
-						Gatunek	Myotis alcathoe   nocek Alkatoe			https://pl.wikipedia.org/wiki/Nocek_Alkatoe
-							Myotis bechsteini   nocek Bechsteina			https://pl.wikipedia.org/wiki/Nocek_Bechsteina
-							Myotis blythii   nocek wschodni			https://pl.wikipedia.org/wiki/Nocek_wschodni
-							Myotis brandtii   nocek Brandta			https://pl.wikipedia.org/wiki/Nocek_Brandta
-							Myotis dasycneme   nocek lydkowlosy			https://pl.wikipedia.org/wiki/Nocek_%C5%82ydkow%C5%82osy
-							Myotis daubentonii   nocek rudy			https://pl.wikipedia.org/wiki/Nocek_rudy
-							Myotis emarginatus   nocek orzesiony			https://pl.wikipedia.org/wiki/Nocek_orz%C4%99siony
-							Myotis myotis   nocek duzy				https://pl.wikipedia.org/wiki/Nocek_du%C5%BCy
-							Myotis mystacinus   nocek wasatek			https://pl.wikipedia.org/wiki/Nocek_w%C4%85satek
-							Myotis nattereri   nocek Natterera			https://pl.wikipedia.org/wiki/Nocek_Natterera
+						Gatunek	%L Myotis alcathoe  %S nocek Alkatoe%			https://pl.wikipedia.org/wiki/Nocek_Alkatoe
+							%L Myotis bechsteini  %S nocek Bechsteina%			https://pl.wikipedia.org/wiki/Nocek_Bechsteina
+							%L Myotis blythii  %S nocek wschodni%			https://pl.wikipedia.org/wiki/Nocek_wschodni
+							%L Myotis brandtii  %S nocek Brandta%			https://pl.wikipedia.org/wiki/Nocek_Brandta
+							%L Myotis dasycneme  %S nocek lydkowlosy%			https://pl.wikipedia.org/wiki/Nocek_%C5%82ydkow%C5%82osy
+							%L Myotis daubentonii  %S nocek rudy%			https://pl.wikipedia.org/wiki/Nocek_rudy
+							%L Myotis emarginatus  %S nocek orzesiony%			https://pl.wikipedia.org/wiki/Nocek_orz%C4%99siony
+							%L Myotis myotis  %S nocek duzy%			https://pl.wikipedia.org/wiki/Nocek_du%C5%BCy
+							%L Myotis mystacinus  %S nocek wasatek%			https://pl.wikipedia.org/wiki/Nocek_w%C4%85satek
+							%L Myotis nattereri  %S nocek Natterera%			https://pl.wikipedia.org/wiki/Nocek_Natterera
 
 			%Podrodzina	Murininae   tubonosy
 
-						Harpiocephalus   harpioglow
-						Harpiola   trabkonos
-						Murina   tubonos
+						%Harpiocephalus   harpioglow
+						%Harpiola   trabkonos
+						%Murina   tubonos
 
 			%Podrodzina	Kerivoulinae   welniaczki
 
-					Rodzaj	Karivoula   welniaczek					https://pl.wikipedia.org/wiki/We%C5%82niaczek
-						Phoniscus   trabkouch
+					Rodzaj	%Karivoula   welniaczek					https://pl.wikipedia.org/wiki/We%C5%82niaczek
+						%Phoniscus   trabkouch
 
-	Rodzina 	Miniopteridae   podkasancowate								https://pl.wikipedia.org/wiki/Podkasaniec
+	Rodzina %F Miniopteridae   podkasancowate%								https://pl.wikipedia.org/wiki/Podkasaniec
 
-					Rodzaj	Miniopterus   podkasaniec
+					Rodzaj	%G Miniopterus   podkasaniec%
 
-						Gatunek	Miniopterus aelleni   podkasaniec wyspowy
-							Miniopterus africanus   podkasaniec afrykanski
-							Miniopterus australis   podkasaniec zgietoskrzydly
-							Miniopterus brachytragos   podkasaniec krotkowlosy
-							Miniopterus egeri   podkasaniec czuprynoczelny
-							Miniopterus fraterculus   podkasaniec braterski
-							Miniopterus fuliginosus   podkasaniec okopcony
-							Miniopterus fuscus   podkasaniec ciemny
-							Miniopterus gleni   podkasaniec madagaskarski
-							Miniopterus griffithsi   podkasaniec skryty
-							Miniopterus griveaudi   podkasaniec komorski
-							Miniopterus inflatus   podkasaniec wiekszy
-							Miniopterus macrocneme   podkasaniec nowokaledonski
-							Miniopterus magnater   podkasaniec duzy
-							Miniopterus mahafaliensis   podkasaniec mahafalski
-							Miniopterus majori   podkasaniec dlugopalcy
-							Miniopterus manavi   podkasaniec malgaski
-							Miniopterus medius   podkasaniec sredni
-							Miniopterus minor   podkasaniec najmniejszy
-							Miniopterus mossambicus   podkasaniec mozambicki
-							Miniopterus natalensis   podkasaniec natalski
-							Miniopterus newtoni   podkasaniec zatokowy
-							Miniopterus oceanensis   podkasaniec australijski
-							Miniopterus pallidus   podkasaniec pozlacany
-							Miniopterus paululus   podkasaniec filipinski
-							Miniopterus petersoni   podkasaniec nizinny
-							Miniopterus propitristis   podkasaniec salomonski
-							Miniopterus pusillus   podkasaniec maly
-							Miniopterus robustior   podkasaniec konacki
-							Miniopterus schreibersii   podkasaniec zwyczajny
-							Miniopterus shortridgei   podkasaniec jawajski
-							Miniopterus sororculus   podkasaniec siostrzany
-							Miniopterus tristis   podkasaniec wielki
+						Gatunek	%L Miniopterus aelleni  %S podkasaniec wyspowy%
+							%L Miniopterus africanus  %S podkasaniec afrykanski%
+							%L Miniopterus australis  %S podkasaniec zgietoskrzydly%
+							%L Miniopterus brachytragos  %S podkasaniec krotkowlosy%
+							%L Miniopterus egeri  %S podkasaniec czuprynoczelny%
+							%L Miniopterus fraterculus  %S podkasaniec braterski%
+							%L Miniopterus fuliginosus  %S podkasaniec okopcony%
+							%L Miniopterus fuscus  %S podkasaniec ciemny%
+							%L Miniopterus gleni  %S podkasaniec madagaskarski%
+							%L Miniopterus griffithsi  %S podkasaniec skryty%
+							%L Miniopterus griveaudi  %S podkasaniec komorski%
+							%L Miniopterus inflatus  %S podkasaniec wiekszy%
+							%L Miniopterus macrocneme  %S podkasaniec nowokaledonski%
+							%L Miniopterus magnater  %S podkasaniec duzy%
+							%L Miniopterus mahafaliensis  %S podkasaniec mahafalski%
+							%L Miniopterus majori  %S podkasaniec dlugopalcy%
+							%L Miniopterus manavi  %S podkasaniec malgaski%
+							%L Miniopterus medius  %S podkasaniec sredni%
+							%L Miniopterus minor  %S podkasaniec najmniejszy%
+							%L Miniopterus mossambicus  %S podkasaniec mozambicki%
+							%L Miniopterus natalensis  %S podkasaniec natalski%
+							%L Miniopterus newtoni  %S podkasaniec zatokowy%
+							%L Miniopterus oceanensis  %S podkasaniec australijski%
+							%L Miniopterus pallidus  %S podkasaniec pozlacany%
+							%L Miniopterus paululus  %S podkasaniec filipinski%
+							%L Miniopterus petersoni  %S podkasaniec nizinny%
+							%L Miniopterus propitristis  %S podkasaniec salomonski%
+							%L Miniopterus pusillus  %S podkasaniec maly%
+							%L Miniopterus robustior  %S podkasaniec konacki%
+							%L Miniopterus schreibersii  %S podkasaniec zwyczajny%
+							%L Miniopterus shortridgei  %S podkasaniec jawajski%
+							%L Miniopterus sororculus  %S podkasaniec siostrzany%
+							%L Miniopterus tristis  %S podkasaniec wielki%
