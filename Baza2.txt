@@ -770,115 +770,115 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 
 				%Icarops
 
-	Rodzina 	Phyllostomidae   liscionosowate								https://pl.wikipedia.org/wiki/Li%C5%9Bcionosowate
+	Rodzina %G Phyllostomidae   liscionosowate%								https://pl.wikipedia.org/wiki/Li%C5%9Bcionosowate
 
 		%Podrodzina	Desmodontinae   wampiry							https://pl.wikipedia.org/wiki/Wampiry
 
-				Rodzaj	Desmodus   wampir							https://pl.wikipedia.org/wiki/Wampir_(rodzaj_ssaka)
+				Rodzaj	%G Desmodus   wampir%							https://pl.wikipedia.org/wiki/Wampir_(rodzaj_ssaka)
 
-						Garunek	Desmodus rotundus   wampir zwyczajny			https://pl.wikipedia.org/wiki/Wampir_zwyczajny
-							Desmodus draculae   wampir olbrzymi
+						Garunek	%L Desmodus rotundus  %S wampir zwyczajny%			https://pl.wikipedia.org/wiki/Wampir_zwyczajny
+							%L Desmodus draculae  %S wampir olbrzymi%
 
-				Rodzaj	Diaemus   wampirzec
+				Rodzaj	%G Diaemus   wampirzec%
 
-							Diaemus youngi   wampirzec bialoskrzydly
-				Rodzaj	Diphylla   wampirek
+							%L Diaemus youngi  %S wampirzec bialoskrzydly%
+				Rodzaj	%G Diphylla   wampirek%
 
-							Diphylla hairea   wampirek sierscionogi
+							%L Diphylla hairea  %S wampirek sierscionogi%
 
 		%Podrodzina	Brachyphyllinae   rekoliscie							https://pl.wikipedia.org/wiki/R%C4%99koli%C5%9Bcie
 
-				Rodzaj	Brachyphylla   rekolisc
+				Rodzaj	%G Brachyphylla   rekolisc%
 
-						Gatunek	Brachyphylla cavernarum   rekolisc jaskiniowy
-							Brachyphylla nana   rekolisc kubanski
+						Gatunek	%L Brachyphylla cavernarum  %S rekolisc jaskiniowy%
+							%L Brachyphylla nana  %S rekolisc kubanski%
 
 		%Podrodzina	Phyllonycterinae   liscioloty							https://pl.wikipedia.org/wiki/Li%C5%9Bcioloty
 
-				Rodzaj	Erophylla   kwiatojad						https://pl.wikipedia.org/wiki/Kwiatojad
+				Rodzaj	%G Erophylla   kwiatojad%						https://pl.wikipedia.org/wiki/Kwiatojad
 
-						Gatunek	Erophylla bombifrons   kwiatojad brunatny
-							Erophylla sezekorni   kwiatojad plowy
+						Gatunek	%L Erophylla bombifrons  %S kwiatojad brunatny%
+							%L Erophylla sezekorni  %S kwiatojad plowy%
 
-				Rodzaj	Phyllonycteris   lisciolot						https://pl.wikipedia.org/wiki/Li%C5%9Bciolot
+				Rodzaj	%G Phyllonycteris   lisciolot%						https://pl.wikipedia.org/wiki/Li%C5%9Bciolot
 
 					%Podrodzaj	Phyllonycteris
-						Gatunek	Phyllonycteris major   lisciolot portorykanski
-							Phyllonycteris poeyi   lisciolot kubanski			https://pl.wikipedia.org/wiki/Li%C5%9Bciolot_kuba%C5%84ski
+						Gatunek	%L Phyllonycteris major  %S lisciolot portorykanski%
+							%L Phyllonycteris poeyi  %S lisciolot kubanski%			https://pl.wikipedia.org/wiki/Li%C5%9Bciolot_kuba%C5%84ski
 					%Podrodzaj	Reithronycteris
-							Phyllonycteris aphylla   lisciolot jamajski
+							%L Phyllonycteris aphylla  %S lisciolot jamajski%
 
 		%Podrodzina	Glossophaginae   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki
 
 			%Plemie	Glossophagini   jezorniki							https://pl.wikipedia.org/wiki/J%C4%99zorniki_(plemi%C4%99)
 
-				Rodzaj	Glossophaga   jezornik						https://pl.wikipedia.org/wiki/J%C4%99zornik
+				Rodzaj	%G Glossophaga   jezornik%						https://pl.wikipedia.org/wiki/J%C4%99zornik
 
-					Gatunek	Glossophaga commissarisi   jezornik dzunglowy
-						Glossophaga leachii   jezornik szary
-						Glossophaga longirostris   jezornik dlugonosy
-						Glossophaga morenoi   jezornik zaroslowy
-						Glossophaga soricina   jezornik ryjowkowaty			https://pl.wikipedia.org/wiki/J%C4%99zornik_ryj%C3%B3wkowaty
+					Gatunek	%L Glossophaga commissarisi  %S jezornik dzunglowy%
+						%L Glossophaga leachii  %S jezornik szary%
+						%L Glossophaga longirostris  %S jezornik dlugonosy%
+						%L Glossophaga morenoi  %S jezornik zaroslowy%
+						%L Glossophaga soricina  %S jezornik ryjowkowaty%			https://pl.wikipedia.org/wiki/J%C4%99zornik_ryj%C3%B3wkowaty
 
-				Rodzaj	Leptonycteris   smuklonosek						https://pl.wikipedia.org/wiki/Smuk%C5%82onosek
+				Rodzaj	%G Leptonycteris   smuklonosek%						https://pl.wikipedia.org/wiki/Smuk%C5%82onosek
 
-					Gatunek	Leptonycteris curasoae   smuklonosek kaktusowy
-						Leptonycteris nivalis   smuklonosek duzy				https://pl.wikipedia.org/wiki/Smuk%C5%82onosek_du%C5%BCy
-						Leptonycteris yerbabuenae   smuklonosek maly
+					Gatunek	%L Leptonycteris curasoae  %S smuklonosek kaktusowy%
+						%L Leptonycteris nivalis  %S smuklonosek duzy%				https://pl.wikipedia.org/wiki/Smuk%C5%82onosek_du%C5%BCy
+						%L Leptonycteris yerbabuenae  %S smuklonosek maly%
 
-					Monophyllus   jednoplatek						https://pl.wikipedia.org/wiki/Jednop%C5%82atek
+					%G Monophyllus   jednoplatek%						https://pl.wikipedia.org/wiki/Jednop%C5%82atek
 
-						Monophyllus plethodon   jednoplatek wyspowy
-						Monophyllus redmani   jednoplatek kubanski
+						%L Monophyllus plethodon  %S jednoplatek wyspowy%
+						%L Monophyllus redmani  %S jednoplatek kubanski%
 
 			%Plemie	Choeronycterini   wieprzoryjki							https://pl.wikipedia.org/wiki/Wieprzoryjki
 
-				Rodzaj	Anoura   brakogonek						https://pl.wikipedia.org/wiki/Brakogonek
+				Rodzaj	%G Anoura   brakogonek%						https://pl.wikipedia.org/wiki/Brakogonek
 
-					Gatunek	Anoura cadenai   brakogonek kordylierski
-						Anoura canishina   brakogonek kolumbijski
-						Anoura caudifer   brakogonek ogoniasty
-						Anoura cultrata   brakogonek naktarowy
-						Anoura fistulata   brakogonek rurkowargi			https://pl.wikipedia.org/wiki/Brakogonek_rurkowargi
-						Anoura geoffroyi   brakogonek dzunglowy
-						Anoura latidens   brakogonek szerokozebny
-						Anoura luismanueli   brakogonek stokowy
+					Gatunek	%L Anoura cadenai  %S brakogonek kordylierski%
+						%L Anoura canishina  %S brakogonek kolumbijski%
+						%L Anoura caudifer  %S brakogonek ogoniasty%
+						%L Anoura cultrata  %S brakogonek naktarowy%
+						%L Anoura fistulata  %S brakogonek rurkowargi%			https://pl.wikipedia.org/wiki/Brakogonek_rurkowargi
+						%L Anoura geoffroyi  %S brakogonek dzunglowy%
+						%L Anoura latidens  %S brakogonek szerokozebny%
+						%L Anoura luismanueli  %S brakogonek stokowy%
 
-				Rodzaj	Choeroniscus   dlugoryjek						https://pl.wikipedia.org/wiki/D%C5%82ugoryjek
+				Rodzaj	%G Choeroniscus   dlugoryjek%						https://pl.wikipedia.org/wiki/D%C5%82ugoryjek
 
-					Gatunek	Choeroniscus godmani   dlugoryjek dzunglowy
-						Choeroniscus minor   dlugoryjek maly
-						Choeroniscus periosus   dlugoryjek duzy
+					Gatunek	%L Choeroniscus godmani  %S dlugoryjek dzunglowy%
+						%L Choeroniscus minor  %S dlugoryjek maly%
+						%L Choeroniscus periosus  %S dlugoryjek duzy%
 
-				Rodzaj	Choeronycteris   wieprzoryjek
+				Rodzaj	%G Choeronycteris   wieprzoryjek%
 
-						Choeronycteris mexicana   wieprzoryjek meksykanski
+						%L Choeronycteris mexicana  %S wieprzoryjek meksykanski%
 
-				Rodzaj	Dryadonycteris   driadek
+				Rodzaj	%G Dryadonycteris   driadek%
 
-						Dryadonycteris capixaba   driadek lesny
+						%L Dryadonycteris capixaba  %S driadek lesny%
 
-				Rodzaj	Hylonycteris   nietopernik
+				Rodzaj	%G Hylonycteris   nietopernik%
 
-						Hylonycteris underwoodi   nietopernik stokowy
+						%L Hylonycteris underwoodi  %S nietopernik stokowy%
 
-				Rodzaj	Lichonycteris   jezornicznik
+				Rodzaj	%G Lichonycteris   jezornicznik%
 
-						Lichonycteris obscura   jezornicznik ciemny
+						%L Lichonycteris obscura  %S jezornicznik ciemny%
 
-				Rodzaj	Musonycteris   bananowek
+				Rodzaj	%G Musonycteris   bananowek%
 
-						Musonycteris harrisoni   bananowek meksykanski
+						%L Musonycteris harrisoni  %S bananowek meksykanski%
 
-				Rodzaj	Scleronycteris   jezykowiec
+				Rodzaj	%G Scleronycteris   jezykowiec%
 
-						Scleronycteris ega   jezykowiec amazonski
+						%L Scleronycteris ega  %S jezykowiec amazonski%
 
 			%Plemie	Lonchophyllini   nektaroloty
 
-				Rodzaj	Lionycteris   nektaronocek
+				Rodzaj	%G Lionycteris   nektaronocek%
 
-					Gatunek	Lionycteris spurrelli   nektaronocek kasztanowaty
+					Gatunek	%L Lionycteris spurrelli  %S nektaronocek kasztanowaty%
 
 				Rodzaj	Lonchophylla   nektarolot						https://pl.wikipedia.org/wiki/Nektarolot
 
