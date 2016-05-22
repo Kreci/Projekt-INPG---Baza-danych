@@ -125,6 +125,11 @@ void znajdz(node *root)
 {
     char klucz[40];
         int i;
+        if(root == NULL)
+          {
+            printf("Baza jest pusta!\n");
+            return;
+          }
         getchar();
         printf("Wpisz klucz: ");
         fgets(klucz, 40, stdin);
