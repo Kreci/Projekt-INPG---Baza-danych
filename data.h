@@ -1,7 +1,6 @@
 #ifndef DATA_H
 #define DATA_H
 #define LENGTH 40
-#define DSCRPTN_L 200
 
 typedef struct note // data structure
 {
@@ -9,7 +8,6 @@ typedef struct note // data structure
     char latinName[LENGTH];
     char rodzina[LENGTH];
     char rodzaj[LENGTH];
-    char opis[DSCRPTN_L];
 }data;
 
 typedef struct junction //node structure
