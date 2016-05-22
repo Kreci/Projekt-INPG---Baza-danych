@@ -60,15 +60,8 @@ void wczytajBaze(node ** root,  char* nazwapliku)
     }
 
     char linia[100];
-    char bufor=' ';
     int indekslinii=0;
     data dane, x;
-    int i;
-    int literka;
-
-
-
-
 
     while(fgets(linia, 100, plik)!=NULL)
     {
