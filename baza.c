@@ -55,7 +55,7 @@ void wczytajBaze(node ** root,  char* nazwapliku)
     FILE *plik;
     if((plik=fopen(nazwapliku, "r"))==NULL)
     {
-        printf("blad otwarcia plku");
+        printf("Blad otwarcia pliku\n");
         return;
     }
 
@@ -88,7 +88,7 @@ void zapiszDane(data dane,  char* nazwapliku)
     FILE *plik;
     if(plik=fopen(nazwapliku, "a")!=NULL)
     {
-        printf("blad otwarcia plku");
+        printf("Blad otwarcia pliku\n");
         return;
     }
 
@@ -116,21 +116,20 @@ void z_znajdz(node *root, char *klucz)               //Displays whole tree in-or
 void znajdz(node *root)
 {
     char klucz[40];
-        int i;
-        if(root == NULL)
-          {
-            printf("Baza jest pusta!\n");
-            return;
-          }
-        getchar();
-        printf("Wpisz klucz: ");
-        fgets(klucz, 40, stdin);
-        for(i=0;klucz[i]!='\0';i++)
-        if(klucz[i]=='\n') klucz[i]='\0';
-        printf("\n\nZnaleziono nastepujace wpisy:\n\n");
-        z_znajdz(root, klucz);
-        printf("\n\nTo wszystko!\n");
-
+     int i;
+    if(root == NULL)
+      {
+        printf("Baza jest pusta!\n");
+        return;
+      }
+      getchar();
+      printf("Wpisz klucz: ");
+      fgets(klucz, 40, stdin);
+      for(i=0;klucz[i]!='\0';i++)
+      f(klucz[i]=='\n') klucz[i]='\0';
+      printf("\n\nZnaleziono nastepujace wpisy:\n\n");
+      z_znajdz(root, klucz);
+      printf("\n\nTo wszystko!\n");
 }
 
 
