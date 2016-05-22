@@ -125,7 +125,7 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 
 				%L Epomops buettikoferi  %S epoletnik gwinejski%
 				%L Epomops dobsonii  %S epoletnik spiewajacy%
-				%L Epomops franqueti  %S epoletnik afrykanski	%		https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
+				%L Epomops franqueti  %S epoletnik afrykanski%		https://pl.wikipedia.org/wiki/Epoletnik_afryka%C5%84ski
 
 		Rodzaj	%G Haplonycteris  dlugopalczyk%
 
@@ -134,414 +134,414 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 		Rodzaj	%G Harpyionycteris  harpiolot%					https://pl.wikipedia.org/wiki/Harpiolot
 
 				%L Harpyionycteris celebensis  %S harpiolot sulaweski%
-				%L Harpyionycteris whiteheadi  %S harpiolot filipinski	%	https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
+				%L Harpyionycteris whiteheadi  %S harpiolot filipinski%	https://pl.wikipedia.org/wiki/Harpiolot_filipi%C5%84ski
 
-		Rodzaj	%G Hypsignathus   mlotoglow
+		Rodzaj	%G Hypsignathus   mlotoglow%
 
 				%L Hypsignathus monstrosus  %S mlotoglow wielkoglowy%		https://pl.wikipedia.org/wiki/M%C5%82otog%C5%82%C3%B3w_wielkog%C5%82owy
 
-		Rodzaj	%G Latidens   tamilolot
+		Rodzaj	%G Latidens   tamilolot%
 
-				%L Latidens salimalii  %S tamilolot jaskiniowy
+				%L Latidens salimalii  %S tamilolot jaskiniowy%
 
-		Rodzaj	%G Lissonycteris   owocolot
+		Rodzaj	%G Lissonycteris   owocolot%
 
-				%L Lissonycteris angolensis  %S owocolot afrykanski
+				%L Lissonycteris angolensis  %S owocolot afrykanski%
 
 		Rodzaj	%G Macroglossus   jezycznik%					https://pl.wikipedia.org/wiki/J%C4%99zycznik_(rodzaj_ssaka)
 
-				%L Macroglossus minimus  %S jezycznik malutki	%	https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
-				%L Macroglossus sabrinus  %S jezycznik wiekszy
+				%L Macroglossus minimus  %S jezycznik malutki%	https://pl.wikipedia.org/wiki/J%C4%99zycznik_malutki
+				%L Macroglossus sabrinus  %S jezycznik wiekszy%
 
 		Rodzaj	%G Megaerops   bezogoniec%					https://pl.wikipedia.org/wiki/Bezogoniec
 
-				%L Megaerops ecaudatus  %S bezogoniec sundajski
-				%L Megaerops kusnotoi  %S bezogoniec jawajski
-				%L Megaerops niphanae  %S bezogoniec indochinski
-				%L Megaerops wetmorei  %S bezogoniec obrozny
+				%L Megaerops ecaudatus  %S bezogoniec sundajski%
+				%L Megaerops kusnotoi  %S bezogoniec jawajski%
+				%L Megaerops niphanae  %S bezogoniec indochinski%
+				%L Megaerops wetmorei  %S bezogoniec obrozny%
 
-		Rodzaj	%G Megaloglossus   ozornik
+		Rodzaj	%G Megaloglossus   ozornik%
 
-				%L Megaloglossus woermanni  %S ozornik afrykanski
+				%L Megaloglossus woermanni  %S ozornik afrykanski%
 
 		Rodzaj	%G Melonycteris   solomonowiec%					https://pl.wikipedia.org/wiki/Solomonowiec
 
-				%L Melonycteris melanops  %S solomonowiec czarnobrzuchy
-				%L Melonycteris fardoulisi  %S solomonowiec kwiatowy
-				%L Melonycteris woodfordi  %S solomonowiec drzewny
+				%L Melonycteris melanops  %S solomonowiec czarnobrzuchy%
+				%L Melonycteris fardoulisi  %S solomonowiec kwiatowy%
+				%L Melonycteris woodfordi  %S solomonowiec drzewny%
 
-		Rodzaj	%G Micropteropus   epoletniczek	%				https://pl.wikipedia.org/wiki/Epoletniczek
+		Rodzaj	%G Micropteropus   epoletniczek%				https://pl.wikipedia.org/wiki/Epoletniczek
 
-				%L Micropteropus intermedius  %S epoletniczek wiekszy
-				%L Micropteropus pusillus  %S epoletniczek drobny
+				%L Micropteropus intermedius  %S epoletniczek wiekszy%
+				%L Micropteropus pusillus  %S epoletniczek drobny%
 
-		Rodzaj	%G Mirimiri   malpionosek
+		Rodzaj	%G Mirimiri   malpionosek%
 
-				%L Mirimiri acrodonta  %S malpionosek fidzijski
+				%L Mirimiri acrodonta  %S malpionosek fidzijski%
 
 		Rodzaj	%G Myonycteris   myszolot%					https://pl.wikipedia.org/wiki/Myszolot
 
-				%L Myonycteris brachycephala  %S myszolot wyspowy
-				%L Myonycteris relicta  %S myszolot reliktowy
-				%L Myonycteris torquata  %S myszolot obrozny
+				%L Myonycteris brachycephala  %S myszolot wyspowy%
+				%L Myonycteris relicta  %S myszolot reliktowy%
+				%L Myonycteris torquata  %S myszolot obrozny%
 
-		Rodzaj	%G Nanonycteris   drobnolot
+		Rodzaj	%G Nanonycteris   drobnolot%
 
-				%L Nanonycteris veldkampii  %S drobnolot afrykanski
+				%L Nanonycteris veldkampii  %S drobnolot afrykanski%
 
-		Rodzaj	%G Neopteryx   owocniczek
+		Rodzaj	%G Neopteryx   owocniczek%
 
-				%L Neopteryx frosti  %S owocniczek drobnozebny
+				%L Neopteryx frosti  %S owocniczek drobnozebny%
 
-		Rodzaj	%G Notopteris   ogoniec	%					https://pl.wikipedia.org/wiki/Ogoniec
+		Rodzaj	%G Notopteris   ogoniec%					https://pl.wikipedia.org/wiki/Ogoniec
 
-				%L Notopteris macdonaldi  %S ogoniec polinezyjski
-				%L Notopteris neocaledonica  %S ogoniec nowokaledonski
+				%L Notopteris macdonaldi  %S ogoniec polinezyjski%
+				%L Notopteris neocaledonica  %S ogoniec nowokaledonski%
 
-		Rodzaj	%G Nyctimene   rurkonos	%				https://pl.wikipedia.org/wiki/Rurkonos
+		Rodzaj	%G Nyctimene   rurkonos%				https://pl.wikipedia.org/wiki/Rurkonos
 
-				%L Nyctimene aello  %S rurkonos szerokopaskowany
-				%L Nyctimene albiventer  %S rurkonos papuaski
-				%L Nyctimene cephalotes  %S rurkonos sulaweski
-				%L Nyctimene certans  %S rurkonos gorski
-				%L Nyctimene cyclotis  %S rurkonos okraglouchy	%	https://pl.wikipedia.org/wiki/Rurkonos_okr%C4%85g%C5%82ouchy
-				%L Nyctimene draconilla  %S rurkonos smoczy
-				%L Nyctimene keasti  %S rurkonos molucki
+				%L Nyctimene aello  %S rurkonos szerokopaskowany%
+				%L Nyctimene albiventer  %S rurkonos papuaski%
+				%L Nyctimene cephalotes  %S rurkonos sulaweski%
+				%L Nyctimene certans  %S rurkonos gorski%
+				%L Nyctimene cyclotis  %S rurkonos okraglouchy%	https://pl.wikipedia.org/wiki/Rurkonos_okr%C4%85g%C5%82ouchy
+				%L Nyctimene draconilla  %S rurkonos smoczy%
+				%L Nyctimene keasti  %S rurkonos molucki%
 				%L Nyctimene major  %S rurkonos wyspowy%			https://pl.wikipedia.org/wiki/Rurkonos_wyspowy
-				%L Nyctimene malaitensis  %S rurkonos salomonski
-				%L Nyctimene masalai  %S rurkonos demoniczny
-				%L Nyctimene minutus  %S rurkonos maly
-				%L Nyctimene rabori  %S rurkonos filipinski
-				%L Nyctimene robinsoni  %S rurkonos zoltoplamy
-				%L Nyctimene sanctacrucis  %S rurkonos samotny
-				%L Nyctimene vizcaccia  %S rurkonos archipelagowy
+				%L Nyctimene malaitensis  %S rurkonos salomonski%
+				%L Nyctimene masalai  %S rurkonos demoniczny%
+				%L Nyctimene minutus  %S rurkonos maly%
+				%L Nyctimene rabori  %S rurkonos filipinski%
+				%L Nyctimene robinsoni  %S rurkonos zoltoplamy%
+				%L Nyctimene sanctacrucis  %S rurkonos samotny%
+				%L Nyctimene vizcaccia  %S rurkonos archipelagowy%
 
-		Rodzaj	%G Otopteropus   luzanczyk
+		Rodzaj	%G Otopteropus   luzanczyk%
 
-				%L Otopteropus cartilagonodus  %S luzanczyk dzunglowy
+				%L Otopteropus cartilagonodus  %S luzanczyk dzunglowy%
 
-		Rodzaj	%G Paranyctimene   rurkonosek	%				https://pl.wikipedia.org/wiki/Rurkonosek
+		Rodzaj	%G Paranyctimene   rurkonosek%				https://pl.wikipedia.org/wiki/Rurkonosek
 
-				%L Paranyctimene raptor  %S rurkonosek jednobarwny
-				%L Paranyctimene tenax  %S rurkonosek uparty
+				%L Paranyctimene raptor  %S rurkonosek jednobarwny%
+				%L Paranyctimene tenax  %S rurkonosek uparty%
 
-		Rodzaj	%G Penthetor   psolotek
+		Rodzaj	%G Penthetor   psolotek%
 
-				%L Penthetor lucasi  %S psolotek ciemny
+				%L Penthetor lucasi  %S psolotek ciemny%
 
-		Rodzaj	%G Plerotes   rudawnica
+		Rodzaj	%G Plerotes   rudawnica%
 
-				%L Plerotes anchietae  %S rudawnica afrykanska
+				%L Plerotes anchietae  %S rudawnica afrykanska%
 
-		Rodzaj	%G Ptenochirus   pizmolot	%				https://pl.wikipedia.org/wiki/Pi%C5%BCmolot
+		Rodzaj	%G Ptenochirus   pizmolot%				https://pl.wikipedia.org/wiki/Pi%C5%BCmolot
 
-				%L Ptenochirus jegori  %S pizmolot duzy
-				%L Ptenochirus minor  %S pizmolot maly
+				%L Ptenochirus jegori  %S pizmolot duzy%
+				%L Ptenochirus minor  %S pizmolot maly%
 
 		Rodzaj	%G Pteralopex   skrzydlolis%					https://pl.wikipedia.org/wiki/Skrzyd%C5%82olis
 
-				%L Pteralopex anceps  %S skrzydlolis zoltobrzuchy
-				%L Pteralopex atrata  %S skrzydlolis sierpozebny
-				%L Pteralopex flanneryi  %S skrzydlolis samotny
-				%L Pteralopex pulchra  %S skrzydlolis gorski
-				%L Pteralopex taki  %S skrzydlolis dziuplowy
+				%L Pteralopex anceps  %S skrzydlolis zoltobrzuchy%
+				%L Pteralopex atrata  %S skrzydlolis sierpozebny%
+				%L Pteralopex flanneryi  %S skrzydlolis samotny%
+				%L Pteralopex pulchra  %S skrzydlolis gorski%
+				%L Pteralopex taki  %S skrzydlolis dziuplowy%
 
-		Rodzaj	%G Pteropus   rudawka	%					https://pl.wikipedia.org/wiki/Rudawka_(rodzaj_ssaka)
+		Rodzaj	%G Pteropus   rudawka%					https://pl.wikipedia.org/wiki/Rudawka_(rodzaj_ssaka)
 
-				%L Pteropus admiralitatum  %S rudawka admiralska
-				%L Pteropus aldabrensis  %S rudawka aldabranska
-				%L Pteropus alecto  %S rudawka zalobna
-				%L Pteropus allenorum  %S rudawka muzealna
-				%L Pteropus anetianus  %S rudawka biala
-				%L Pteropus argentanus  %S rudawka srebrzysta
-				%L Pteropus aruensis  %S rudawka aruanska
-				%L Pteropus banakrisi  %S rudawka czarnawa
-				%L Pteropus brunneus  %S rudawka ciemna
-				%L Pteropus caniceps  %S rudawka popielatoglowa
-				%L Pteropus capistratus  %S rudawka maskowa
-				%L Pteropus chrysoproctus  %S rudawka molucka
-				%L Pteropus cognatus  %S rudawka makirska
-				%L Pteropus conspicillatus  %S rudawka okularowa
-				%L Pteropus coxi  %S rudawka zapomniana
-				%L Pteropus dasymallus  %S rudawka figowa
-				%L Pteropus faunulus  %S rudawka nikobarska
-				%L Pteropus fundatus  %S rudawka nizinna
-				%L Pteropus giganteus  %S rudawka wielka %			https://pl.wikipedia.org/wiki/Rudawka_wielka
+				%L Pteropus admiralitatum  %S rudawka admiralska%
+				%L Pteropus aldabrensis  %S rudawka aldabranska%
+				%L Pteropus alecto  %S rudawka zalobna%
+				%L Pteropus allenorum  %S rudawka muzealna%
+				%L Pteropus anetianus  %S rudawka biala%
+				%L Pteropus argentanus  %S rudawka srebrzysta%
+				%L Pteropus aruensis  %S rudawka aruanska%
+				%L Pteropus banakrisi  %S rudawka czarnawa%
+				%L Pteropus brunneus  %S rudawka ciemna%
+				%L Pteropus caniceps  %S rudawka popielatoglowa%
+				%L Pteropus capistratus  %S rudawka maskowa%
+				%L Pteropus chrysoproctus  %S rudawka molucka%
+				%L Pteropus cognatus  %S rudawka makirska%
+				%L Pteropus conspicillatus  %S rudawka okularowa%
+				%L Pteropus coxi  %S rudawka zapomniana%
+				%L Pteropus dasymallus  %S rudawka figowa%
+				%L Pteropus faunulus  %S rudawka nikobarska%
+				%L Pteropus fundatus  %S rudawka nizinna%
+				%L Pteropus giganteus  %S rudawka wielka%			https://pl.wikipedia.org/wiki/Rudawka_wielka
 				%L Pteropus gilliardorum  %S rudawka samotna%
-				%L Pteropus griseus  %S rudawka szara
-				%L Pteropus howensis  %S rudawka atolowa
-				%L Pteropus hypomelanus  %S rudawka zmienna
-				%L Pteropus insularis  %S rudawka wyspowa
-				%L Pteropus intermedius  %S rudawka birmanska
-				%L Pteropus keyensis  %S rudawka pustelnicza
-				%L Pteropus livingstonei  %S rudawka komorska	%	https://pl.wikipedia.org/wiki/Rudawka_komorska
-				%L Pteropus lombocensis  %S rudawka plantacjowa
-				%L Pteropus loochoensis  %S rudawka okinawska
-				%L Pteropus lylei  %S rudawka zlotoszyja
-				%L Pteropus macrotis  %S rudawka wielkoucha
-				%L Pteropus mahaganus  %S rudawka mahaganska
+				%L Pteropus griseus  %S rudawka szara%
+				%L Pteropus howensis  %S rudawka atolowa%
+				%L Pteropus hypomelanus  %S rudawka zmienna%
+				%L Pteropus insularis  %S rudawka wyspowa%
+				%L Pteropus intermedius  %S rudawka birmanska%
+				%L Pteropus keyensis  %S rudawka pustelnicza%
+				%L Pteropus livingstonei  %S rudawka komorska%	https://pl.wikipedia.org/wiki/Rudawka_komorska
+				%L Pteropus lombocensis  %S rudawka plantacjowa%
+				%L Pteropus loochoensis  %S rudawka okinawska%
+				%L Pteropus lylei  %S rudawka zlotoszyja%
+				%L Pteropus macrotis  %S rudawka wielkoucha%
+				%L Pteropus mahaganus  %S rudawka mahaganska%
 				%L Pteropus mariannus  %S rudawka marianska%		https://pl.wikipedia.org/wiki/Rudawka_maria%C5%84ska
-				%L Pteropus melanopogon  %S rudawka czarnobroda
-				%L Pteropus melanotus  %S rudawka czarnoucha
-				%L Pteropus molossinus  %S rudawka mikronezyjska
-				%L Pteropus neohibernicus  %S rudawka duza
-				%L Pteropus niger  %S rudawka mauritiuska
-				%L Pteropus nitendiensis  %S rudawka namorzynowa
-				%L Pteropus ocularis  %S rudawka seramska
-				%L Pteropus ornatus  %S rudawka ozdobna
-				%L Pteropus pelewensis  %S rudawka pelewska
-				%L Pteropus personatus  %S rudawka zamaskowana
-				%L Pteropus pilosus  %S rudawka owlosiona
-				%L Pteropus pohlei  %S rudawka tropikalna
-				%L Pteropus poliocephalus  %S rudawka szaroglowa
-				%L Pteropus pselaphon  %S rudawka boninska
-				%L Pteropus pumilus  %S rudawka karlowata
-				%L Pteropus rayneri  %S rudawka salomonska
-				%L Pteropus rennelli  %S rudawka rafowa
-				%L Pteropus rodricensis  %S rudawka gromadna
-				%L Pteropus rufus  %S rudawka madagaskarska
-				%L Pteropus samoensis  %S rudawka samoanska
-				%L Pteropus scapulatus  %S rudawka eukaliptusowa
-				%L Pteropus seychellensis  %S rudawka seszelska
-				%L Pteropus speciosus  %S rudawka piekna
-				%L Pteropus subniger  %S rudawka maskarenska
-				%L Pteropus temminckii  %S rudawka okazala
+				%L Pteropus melanopogon  %S rudawka czarnobroda%
+				%L Pteropus melanotus  %S rudawka czarnoucha%
+				%L Pteropus molossinus  %S rudawka mikronezyjska%
+				%L Pteropus neohibernicus  %S rudawka duza%
+				%L Pteropus niger  %S rudawka mauritiuska%
+				%L Pteropus nitendiensis  %S rudawka namorzynowa%
+				%L Pteropus ocularis  %S rudawka seramska%
+				%L Pteropus ornatus  %S rudawka ozdobna%
+				%L Pteropus pelewensis  %S rudawka pelewska%
+				%L Pteropus personatus  %S rudawka zamaskowana%
+				%L Pteropus pilosus  %S rudawka owlosiona%
+				%L Pteropus pohlei  %S rudawka tropikalna%
+				%L Pteropus poliocephalus  %S rudawka szaroglowa%
+				%L Pteropus pselaphon  %S rudawka boninska%
+				%L Pteropus pumilus  %S rudawka karlowata%
+				%L Pteropus rayneri  %S rudawka salomonska%
+				%L Pteropus rennelli  %S rudawka rafowa%
+				%L Pteropus rodricensis  %S rudawka gromadna%
+				%L Pteropus rufus  %S rudawka madagaskarska%
+				%L Pteropus samoensis  %S rudawka samoanska%
+				%L Pteropus scapulatus  %S rudawka eukaliptusowa%
+				%L Pteropus seychellensis  %S rudawka seszelska%
+				%L Pteropus speciosus  %S rudawka piekna%
+				%L Pteropus subniger  %S rudawka maskarenska%
+				%L Pteropus temminckii  %S rudawka okazala%
 				%L Pteropus tokudae  %S rudawka guamska%			https://pl.wikipedia.org/wiki/Rudawka_guamska
-				%L Pteropus tonganus  %S rudawka pacyficzna
-				%L Pteropus tuberculatus  %S rudawka eremicka
-				%L Pteropus ualanus  %S rudawka nadbrzezna
-				%L Pteropus vampyrus  %S rudawka malajska	%		https://pl.wikipedia.org/wiki/Rudawka_malajska
-				%L Pteropus vetulus  %S rudawka nowokaledonska
-				%L Pteropus voeltzkowi  %S rudawka pembanska
-				%L Pteropus woodfordi  %S rudawka najmniejsza
-				%L Pteropus yapensis  %S rudawka karolinska
+				%L Pteropus tonganus  %S rudawka pacyficzna%
+				%L Pteropus tuberculatus  %S rudawka eremicka%
+				%L Pteropus ualanus  %S rudawka nadbrzezna%
+				%L Pteropus vampyrus  %S rudawka malajska%		https://pl.wikipedia.org/wiki/Rudawka_malajska
+				%L Pteropus vetulus  %S rudawka nowokaledonska%
+				%L Pteropus voeltzkowi  %S rudawka pembanska%
+				%L Pteropus woodfordi  %S rudawka najmniejsza%
+				%L Pteropus yapensis  %S rudawka karolinska%
 
-		Rodzaj	%G Rousettus   rudawiec	%					https://pl.wikipedia.org/wiki/Rudawiec_(rodzaj_ssaka)
+		Rodzaj	%G Rousettus   rudawiec%					https://pl.wikipedia.org/wiki/Rudawiec_(rodzaj_ssaka)
 
-				%L Rousettus aegyptiacus  %S rudawiec nilowy	%		https://pl.wikipedia.org/wiki/Rudawiec_nilowy
-				%L Rousettus amplexicaudatus  %S rudawiec sundajski
-				%L Rousettus bidens  %S rudawiec jaskiniowy
-				%L Rousettus celebensis  %S rudawiec sulaweski
-				%L Rousettus lanosus  %S rudawiec dlugowlosy
-				%L Rousettus leschenaulti  %S rudawiec orientalny
-				%L Rousettus linduensis  %S rudawiec bagienny
-				%L Rousettus madagascariensis  %S rudawiec malgaski
-				%L Rousettus obliviosus  %S rudawiec komorski
-				%L Rousettus spinalatus  %S rudawiec nagogrzbiety
+				%L Rousettus aegyptiacus  %S rudawiec nilowy%		https://pl.wikipedia.org/wiki/Rudawiec_nilowy
+				%L Rousettus amplexicaudatus  %S rudawiec sundajski%
+				%L Rousettus bidens  %S rudawiec jaskiniowy%
+				%L Rousettus celebensis  %S rudawiec sulaweski%
+				%L Rousettus lanosus  %S rudawiec dlugowlosy%
+				%L Rousettus leschenaulti  %S rudawiec orientalny%
+				%L Rousettus linduensis  %S rudawiec bagienny%
+				%L Rousettus madagascariensis  %S rudawiec malgaski%
+				%L Rousettus obliviosus  %S rudawiec komorski%
+				%L Rousettus spinalatus  %S rudawiec nagogrzbiety%
 
-		Rodzaj	%G Scotonycteris   rownikowiec	%				https://pl.wikipedia.org/wiki/R%C3%B3wnikowiec
+		Rodzaj	%G Scotonycteris   rownikowiec%				https://pl.wikipedia.org/wiki/R%C3%B3wnikowiec
 
-				%L Scotonycteris ophiodon  %S rownikowiec lzawy
-				%L Scotonycteris zenkeri  %S rownikowiec nektarowy
+				%L Scotonycteris ophiodon  %S rownikowiec lzawy%
+				%L Scotonycteris zenkeri  %S rownikowiec nektarowy%
 
-		Rodzaj	%G Sphaerias   kulecznik
+		Rodzaj	%G Sphaerias   kulecznik%
 
-				%L Sphaerias blanfordi  %S kulecznik gorski
+				%L Sphaerias blanfordi  %S kulecznik gorski%
 
-		Rodzaj	%G Styloctenium   prazkoliczek	%				https://pl.wikipedia.org/wiki/Pr%C4%85%C5%BCkoliczek
+		Rodzaj	%G Styloctenium   prazkoliczek%				https://pl.wikipedia.org/wiki/Pr%C4%85%C5%BCkoliczek
 
-				%L Styloctenium mindorensis  %S prazkoliczek mindorski
-				%LStyloctenium wallacei  %S prazkoliczek sulaweski
+				%L Styloctenium mindorensis  %S prazkoliczek mindorski%
+				%LStyloctenium wallacei  %S prazkoliczek sulaweski%
 
 		Rodzaj	%G Syconycteris   pedzelnik%					https://pl.wikipedia.org/wiki/P%C4%99dzelnik
 
 				%L Syconycteris australis  %S pedzelnik australijski%		https://pl.wikipedia.org/wiki/P%C4%99dzelnik_australijski
-				%L Syconycteris carolinae  %S pedzelnik halmeherski
-				%L Syconycteris hobbit  %S pedzelnik kosmatonogi
+				%L Syconycteris carolinae  %S pedzelnik halmeherski%
+				%L Syconycteris hobbit  %S pedzelnik kosmatonogi%
 
 		Rodzaj	%G Thoopterus   bystrolot%					https://pl.wikipedia.org/wiki/Bystrolot
 
-				%L Thoopterus nigrescens   %S bystrolot ciemny
-				%L Thoopterus suhaniahae   %S bystrolot lesny
+				%L Thoopterus nigrescens   %S bystrolot ciemny%
+				%L Thoopterus suhaniahae   %S bystrolot lesny%
 
 
 
-	Rodzina 	%F Rhinolophidae   podkowcowate	%					https://pl.wikipedia.org/wiki/Podkowcowate
+	Rodzina 	%F Rhinolophidae   podkowcowate%					https://pl.wikipedia.org/wiki/Podkowcowate
 
-		Rodzaj	%G Rhinolophus   podkowiec
+		Rodzaj	%G Rhinolophus   podkowiec%
 
-			Gatunek	%L Rhinolophus acuminatus   %S podkowiec spiczasty
-				%L Rhinolophus adami   %S podkowiec samotny
-				%L Rhinolophus affinis   %S podkowiec posredni
-				%L Rhinolophus alcyone   %S podkowiec lagodny
-				%L Rhinolophus arcuatus   %S podkowiec lukowaty
-				%L Rhinolophus beddomei   %S podkowiec tamilski
-				%L Rhinolophus blasii   %S podkowiec poludniowy
-				%L Rhinolophus bocharicus   %S podkowiec bucharski
-				%L Rhinolophus borneensis   %S podkowiec borneanski
-				%L Rhinolophus canuti   %S podkowiec jawajski
-				%L Rhinolophus capensis   %S podkowiec przyladkowy
-				%L Rhinolophus celebensis   %S podkowiec sulaweski
-				%L Rhinolophus chiewkweeae   %S podkowiec zlotawy
-				%L Rhinolophus clivosus   %S podkowiec pagorkowaty
-				%L Rhinolophus coelophyllus   %S podkowiec birmanski
-				%L Rhinolophus cognatus   %S podkowiec andamanski
-				%L Rhinolophus cohenae   %S podkowiec poludniowoafrykanski
-				%L Rhinolophus convexus   %S podkowiec wypukly
-				%L Rhinolophus cornutus   %S podkowiec rogaty
-				%L Rhinolophus creaghi   %S podkowiec sundajski
-				%L Rhinolophus darlingi   %S podkowiec rodezyjski
-				%L Rhinolophus deckenii   %S podkowiec tanzanski
-				%L Rhinolophus denti   %S podkowiec sawannowy
-				%L Rhinolophus eloquens   %S podkowiec wymowny
+			Gatunek	%L Rhinolophus acuminatus   %S podkowiec spiczasty%
+				%L Rhinolophus adami   %S podkowiec samotny%
+				%L Rhinolophus affinis   %S podkowiec posredni%
+				%L Rhinolophus alcyone   %S podkowiec lagodny%
+				%L Rhinolophus arcuatus   %S podkowiec lukowaty%
+				%L Rhinolophus beddomei   %S podkowiec tamilski%
+				%L Rhinolophus blasii   %S podkowiec poludniowy%
+				%L Rhinolophus bocharicus   %S podkowiec bucharski%
+				%L Rhinolophus borneensis   %S podkowiec borneanski%
+				%L Rhinolophus canuti   %S podkowiec jawajski%
+				%L Rhinolophus capensis   %S podkowiec przyladkowy%
+				%L Rhinolophus celebensis   %S podkowiec sulaweski%
+				%L Rhinolophus chiewkweeae   %S podkowiec zlotawy%
+				%L Rhinolophus clivosus   %S podkowiec pagorkowaty%
+				%L Rhinolophus coelophyllus   %S podkowiec birmanski%
+				%L Rhinolophus cognatus   %S podkowiec andamanski%
+				%L Rhinolophus cohenae   %S podkowiec poludniowoafrykanski%
+				%L Rhinolophus convexus   %S podkowiec wypukly%
+				%L Rhinolophus cornutus   %S podkowiec rogaty%
+				%L Rhinolophus creaghi   %S podkowiec sundajski%
+				%L Rhinolophus darlingi   %S podkowiec rodezyjski%
+				%L Rhinolophus deckenii   %S podkowiec tanzanski%
+				%L Rhinolophus denti   %S podkowiec sawannowy%
+				%L Rhinolophus eloquens   %S podkowiec wymowny%
 				%L Rhinolophus euryale   %S podkowiec srodziemnomorski%			https://pl.wikipedia.org/wiki/Podkowiec_%C5%9Br%C3%B3dziemnomorski
 				%L Rhinolophus euryotis   %S podkowiec szerokouchy%
 				%L Rhinolophus ferrumequinum   %S podkowiec duzy%			https://pl.wikipedia.org/wiki/Podkowiec_du%C5%BCy
-				%L Rhinolophus formosae   %S podkowiec tajwanski
-				%L Rhinolophus fumigatus   %S podkowiec subsaharyjski
-				%L Rhinolophus guineensis   %S podkowiec gwinejski
-				%L Rhinolophus hildebrandtii   %S podkowiec malawski
-				%L Rhinolophus hilli   %S podkowiec rwandyjski
-				%L Rhinolophus hillorum   %S podkowiec wyzynny
+				%L Rhinolophus formosae   %S podkowiec tajwanski%
+				%L Rhinolophus fumigatus   %S podkowiec subsaharyjski%
+				%L Rhinolophus guineensis   %S podkowiec gwinejski%
+				%L Rhinolophus hildebrandtii   %S podkowiec malawski%
+				%L Rhinolophus hilli   %S podkowiec rwandyjski%
+				%L Rhinolophus hillorum   %S podkowiec wyzynny%
 				%L Rhinolophus hipposideros   %S podkowiec maly%			https://pl.wikipedia.org/wiki/Podkowiec_ma%C5%82y
-				%L Rhinolophus huananus   %S podkowiec tajemniczy
-				%L Rhinolophus imaizumii   %S podkowiec riukiuski
-				%L Rhinolophus inops   %S podkowiec mindanajski
-				%L Rhinolophus kahuzi   %S podkowiec kongijski
-				%L Rhinolophus keyensis   %S podkowiec indonezyjski
-				%L Rhinolophus landeri   %S podkowiec tropikalny
-				%L Rhinolophus lepidus   %S podkowiec gladki
-				%L Rhinolophus luctus   %S podkowiec welnisty
-				%L Rhinolophus mabuensis   %S podkowiec mabuanski
-				%L Rhinolophus maclaudi   %S podkowiec galeriowy
-				%L Rhinolophus macrotis   %S podkowiec wielkouchy
-				%L Rhinolophus madurensis   %S podkowiec wyspowy
-				%L Rhinolophus maendeleo   %S podkowiec unikatowy
-				%L Rhinolophus malayanus   %S podkowiec malajski
-				%L Rhinolophus marshalli   %S podkowiec indochinski
-				%L Rhinolophus megaphyllus   %S podkowiec wschodni
-				%L Rhinolophus mehelyi   %S podkowiec sredni
-				%L Rhinolophus mitratus   %S podkowiec mitrowy
-				%L Rhinolophus monoceros   %S podkowiec jednorogi
-				%L Rhinolophus montanus   %S podkowiec gorski
-				%L Rhinolophus mossambicus   %S podkowiec mozambicki
-				%L Rhinolophus nereis   %S podkowiec izolowany
-				%L Rhinolophus osgoodi   %S podkowiec dalijski
-				%L Rhinolophus paradoxolophus   %S podkowiec dziwnoczuby
-				%L Rhinolophus pearsonii   %S podkowiec wietnamski
+				%L Rhinolophus huananus   %S podkowiec tajemniczy%
+				%L Rhinolophus imaizumii   %S podkowiec riukiuski%
+				%L Rhinolophus inops   %S podkowiec mindanajski%
+				%L Rhinolophus kahuzi   %S podkowiec kongijski%
+				%L Rhinolophus keyensis   %S podkowiec indonezyjski%
+				%L Rhinolophus landeri   %S podkowiec tropikalny%
+				%L Rhinolophus lepidus   %S podkowiec gladki%
+				%L Rhinolophus luctus   %S podkowiec welnisty%
+				%L Rhinolophus mabuensis   %S podkowiec mabuanski%
+				%L Rhinolophus maclaudi   %S podkowiec galeriowy%
+				%L Rhinolophus macrotis   %S podkowiec wielkouchy%
+				%L Rhinolophus madurensis   %S podkowiec wyspowy%
+				%L Rhinolophus maendeleo   %S podkowiec unikatowy%
+				%L Rhinolophus malayanus   %S podkowiec malajski%
+				%L Rhinolophus marshalli   %S podkowiec indochinski%
+				%L Rhinolophus megaphyllus   %S podkowiec wschodni%
+				%L Rhinolophus mehelyi   %S podkowiec sredni%
+				%L Rhinolophus mitratus   %S podkowiec mitrowy%
+				%L Rhinolophus monoceros   %S podkowiec jednorogi%
+				%L Rhinolophus montanus   %S podkowiec gorski%
+				%L Rhinolophus mossambicus   %S podkowiec mozambicki%
+				%L Rhinolophus nereis   %S podkowiec izolowany%
+				%L Rhinolophus osgoodi   %S podkowiec dalijski%
+				%L Rhinolophus paradoxolophus   %S podkowiec dziwnoczuby%
+				%L Rhinolophus pearsonii   %S podkowiec wietnamski%
 				%L Rhinolophus philippinensis   %S podkowiec filipinski%			https://pl.wikipedia.org/wiki/Podkowiec_filipi%C5%84ski
-				%L Rhinolophus pusillus   %S podkowiec drobny
-				%L Rhinolophus rex   %S podkowiec krolewski
-				%L Rhinolophus robinsoni   %S podkowiec polwyspowy
-				%L Rhinolophus rouxii   %S podkowiec rudy
-				%L Rhinolophus rufus   %S podkowiec rudowlosy
-				%L Rhinolophus ruwenzorii   %S podkowiec ruwenzorski
-				%L Rhinolophus sakejiensis   %S podkowiec zambijski
-				%L Rhinolophus schnitzleri   %S podkowiec junnanski
-				%L Rhinolophus sedulus   %S podkowiec sarawaski
-				%L Rhinolophus shameli   %S podkowiec laotanski
-				%L Rhinolophus shortridgei   %S podkowiec mjanmarski
-				%L Rhinolophus siamensis   %S podkowiec tajski
-				%L Rhinolophus silvestris   %S podkowiec lesny
-				%L Rhinolophus simulator   %S podkowiec jaskiniowy
-				%L Rhinolophus sinicus   %S podkowiec chinski
-				%L Rhinolophus smithersi   %S podkowiec czujny
-				%L Rhinolophus stheno   %S podkowiec brunatny
-				%L Rhinolophus subbadius   %S podkowiec nepalski
-				%L Rhinolophus subrufus   %S podkowiec ryzy
-				%L Rhinolophus swinnyi   %S podkowiec deszczowy
-				%L Rhinolophus thailandensis   %S podkowiec orientalny
-				%L Rhinolophus thomasi   %S podkowiec piaskowcowy
-				%L Rhinolophus trifoliatus   %S podkowiec trojlistny
-				%L Rhinolophus willardi   %S podkowiec ryftowy
-				%L Rhinolophus xinanzhongguoensis   %S podkowiec skryty
-				%L Rhinolophus yunanensis   %S podkowiec bambusowy
-				%L Rhinolophus ziama   %S podkowiec liberyjski
+				%L Rhinolophus pusillus   %S podkowiec drobny%
+				%L Rhinolophus rex   %S podkowiec krolewski%
+				%L Rhinolophus robinsoni   %S podkowiec polwyspowy%
+				%L Rhinolophus rouxii   %S podkowiec rudy%
+				%L Rhinolophus rufus   %S podkowiec rudowlosy%
+				%L Rhinolophus ruwenzorii   %S podkowiec ruwenzorski%
+				%L Rhinolophus sakejiensis   %S podkowiec zambijski%
+				%L Rhinolophus schnitzleri   %S podkowiec junnanski%
+				%L Rhinolophus sedulus   %S podkowiec sarawaski%
+				%L Rhinolophus shameli   %S podkowiec laotanski%
+				%L Rhinolophus shortridgei   %S podkowiec mjanmarski%
+				%L Rhinolophus siamensis   %S podkowiec tajski%
+				%L Rhinolophus silvestris   %S podkowiec lesny%
+				%L Rhinolophus simulator   %S podkowiec jaskiniowy%
+				%L Rhinolophus sinicus   %S podkowiec chinski%
+				%L Rhinolophus smithersi   %S podkowiec czujny%
+				%L Rhinolophus stheno   %S podkowiec brunatny%
+				%L Rhinolophus subbadius   %S podkowiec nepalski%
+				%L Rhinolophus subrufus   %S podkowiec ryzy%
+				%L Rhinolophus swinnyi   %S podkowiec deszczowy%
+				%L Rhinolophus thailandensis   %S podkowiec orientalny%
+				%L Rhinolophus thomasi   %S podkowiec piaskowcowy%
+				%L Rhinolophus trifoliatus   %S podkowiec trojlistny%
+				%L Rhinolophus willardi   %S podkowiec ryftowy%
+				%L Rhinolophus xinanzhongguoensis   %S podkowiec skryty%
+				%L Rhinolophus yunanensis   %S podkowiec bambusowy%
+				%L Rhinolophus ziama   %S podkowiec liberyjski%
 
 	Rodzina 	%F Hipposideridae   platkonosowate%							https://pl.wikipedia.org/wiki/P%C5%82atkonosowate
 
-		Rodzaj	%G Anthops   kwiatonos
+		Rodzaj	%G Anthops   kwiatonos%
 
 			%LGatunek	Anthops ornatus   %S kwiatonos salomonski%					https://pl.wikipedia.org/wiki/Kwiatonos_salomo%C5%84ski
 
 			%G Asellia   grzebieniec%								https://pl.wikipedia.org/wiki/Grzebieniec_(rodzaj_ssaka)
 
-				%L Asellia arabica   %S grzebieniec arabski
-				%L Asellia patrizii   %S grzebieniec liscionosy
+				%L Asellia arabica   %S grzebieniec arabski%
+				%L Asellia patrizii   %S grzebieniec liscionosy%
 				%L Asellia tridens   %S grzebieniec palmowy%					https://pl.wikipedia.org/wiki/Grzebieniec_palmowy
 
 			%G Aselliscus   grzebienczyk%							https://pl.wikipedia.org/wiki/Grzebie%C5%84czyk
 
-				%L Aselliscus stoliczkanus   %S grzebienczyk azjatycki
-				%L Aselliscus tricuspidatus   %S grzebienczyk wyspowy
+				%L Aselliscus stoliczkanus   %S grzebienczyk azjatycki%
+				%L Aselliscus tricuspidatus   %S grzebienczyk wyspowy%
 
 			%G Hipposideros   platkonos%							https://pl.wikipedia.org/wiki/P%C5%82atkonos
 
-				%L Hipposideros abae   %S platkonos tropikalny
-		 		%L Hipposideros armiger   %S platkonos zbrojny
- 				%L Hipposideros ater   %S platkonos ciemny
-				%L Hipposideros beatus   %S platkonos wspanialy
-				%L Hipposideros bicolor   %S platkonos dwubarwny
-				%L Hipposideros boeadii   %S platkonos mniejszy
-				%L Hipposideros breviceps   %S platkonos krotkoglowy
-				%L Hipposideros caffer   %S platkonos kafryjski
-				%L Hipposideros calcaratus   %S platkonos ostrogowy
-				%L Hipposideros camerunensis   %S platkonos kamerunski
-				%L Hipposideros cervinus   %S platkonos plowy
-				%L Hipposideros cineraceus   %S platkonos popielaty
-				%L Hipposideros commersoni   %S platkonos duzy
-				%L Hipposideros coronatus   %S platkonos zwienczony
-				%L Hipposideros corynophyllus   %S platkonos samotny
-				%L Hipposideros coxi   %S platkonos pustelniczy
-				%L Hipposideros crumeniferus   %S platkonos timorski
-				%L Hipposideros curtus   %S platkonos kusy
-				%L Hipposideros cyclops   %S platkonos cyklopi
-				%L Hipposideros demissus   %S platkonos wyspowy
+				%L Hipposideros abae   %S platkonos tropikalny%
+		 		%L Hipposideros armiger   %S platkonos zbrojny%
+ 				%L Hipposideros ater   %S platkonos ciemny%
+				%L Hipposideros beatus   %S platkonos wspanialy%
+				%L Hipposideros bicolor   %S platkonos dwubarwny%
+				%L Hipposideros boeadii   %S platkonos mniejszy%
+				%L Hipposideros breviceps   %S platkonos krotkoglowy%
+				%L Hipposideros caffer   %S platkonos kafryjski%
+				%L Hipposideros calcaratus   %S platkonos ostrogowy%
+				%L Hipposideros camerunensis   %S platkonos kamerunski%
+				%L Hipposideros cervinus   %S platkonos plowy%
+				%L Hipposideros cineraceus   %S platkonos popielaty%
+				%L Hipposideros commersoni   %S platkonos duzy%
+				%L Hipposideros coronatus   %S platkonos zwienczony%
+				%L Hipposideros corynophyllus   %S platkonos samotny%
+				%L Hipposideros coxi   %S platkonos pustelniczy%
+				%L Hipposideros crumeniferus   %S platkonos timorski%
+				%L Hipposideros curtus   %S platkonos kusy%
+				%L Hipposideros cyclops   %S platkonos cyklopi%
+				%L Hipposideros demissus   %S platkonos wyspowy%
 				%L Hipposideros diadema   %S platkonos diademowy%			https://pl.wikipedia.org/wiki/P%C5%82atkonos_diademowy
-				%L Hipposideros dinops   %S platkonos dziki
-				%L Hipposideros doriae   %S platkonos sundajski
-				%L Hipposideros durgadasi   %S platkonos skryty
-				%L Hipposideros dyacorum   %S platkonos dajacki
-				%L Hipposideros edwardshilli   %S platkonos papuaski
-				%L Hipposideros einnaythu   %S platkonos domowy
-				%L Hipposideros fuliginosus   %S platkonos okopcony
-				%L Hipposideros fulvus   %S platkonos brunatny
-				%L Hipposideros galeritus   %S platkonos orientalny
-				%L Hipposideros gigas   %S platkonos olbrzymi
-				%L Hipposideros grandis   %S platkonos wielki
-				%L Hipposideros griffini   %S platkonos wietnamski
-				%L Hipposideros halophyllus   %S platkonos tajski
-				%L Hipposideros hypophyllus   %S platkonos podlisciowy
-				%L Hipposideros inexpectatus   %S platkonos grzebieniasty
-				%L Hipposideros inornatus   %S platkonos skromny
-				%L Hipposideros jonesi   %S platkonos jaskiniowy
-				%L Hipposideros khaokhouayensis   %S platkonos laotanski
-				%L Hipposideros khasiana   %S platkonos gorski
-				%L Hipposideros lamottei   %S platkonos pieczarowy
-				%L Hipposideros lankadiva   %S platkonos hinduski
-				%L Hipposideros larvatus   %S platkonos posredni
-				%L Hipposideros lekaguli   %S platkonos piaskowcowy
-				%L Hipposideros lylei   %S platkonos tarczolicy
-				%L Hipposideros macrobullatus   %S platkonos wielkouchy
-				%L Hipposideros madurae   %S platkonos jawajski
-				%L Hipposideros maggietaylorae   %S platkonos zarloczny
-				%L Hipposideros marisae   %S platkonos tajemniczy
-				%L Hipposideros magalotis   %S platkonos uszaty
-				%L Hipposideros muscinus   %S platkonos nizinny
-				%L Hipposideros nequam   %S platkonos unikatowy
-				%L Hipposideros obscurus   %S platkonos filipinski
-				%L Hipposideros orbiculus   %S platkonos okraglolistny
-				%L Hipposideros papua   %S platkonos halmaherski
-				%L Hipposideros polingensis   %S platkonos pelenganski
-				%L Hipposideros pomona   %S platkonos zwyczajny
-				%L Hipposideros pratti   %S platkonos chinski
-				%L Hipposideros pygmaeus   %S platkonos karlowaty
-				%L Hipposideros ridleyi   %S platkonos singapurski
-				%L Hipposideros rotalis   %S platkonos ukryty
-				%L Hipposideros ruber   %S platkonos afrykanski
-				%L Hipposideros scutinares   %S platkonos tarczonosy
-				%L Hipposideros semoni   %S platkonos brodawkonosy
-				%L Hipposideros sorenseni   %S platkonos towarzyski
-				%L Hipposideros speoris   %S platkonos dekanski
-				%L Hipposideros stenotis   %S platkonos waskouchy
-				%L Hipposideros sumbae   %S platkonos sumbajski
-				%L Hipposideros tephrus   %S platkonos sahelski
-				%L Hipposideros thomensis   %S platkonos lawowy
-				%L Hipposideros turpis   %S platkonos drobny
-				%L Hipposideros vittatus   %S platkonos prazkowany
-				%L Hipposideros wollastoni   %S platkonos nowogwinejski
+				%L Hipposideros dinops   %S platkonos dziki%
+				%L Hipposideros doriae   %S platkonos sundajski%
+				%L Hipposideros durgadasi   %S platkonos skryty%
+				%L Hipposideros dyacorum   %S platkonos dajacki%
+				%L Hipposideros edwardshilli   %S platkonos papuaski%
+				%L Hipposideros einnaythu   %S platkonos domowy%
+				%L Hipposideros fuliginosus   %S platkonos okopcony%
+				%L Hipposideros fulvus   %S platkonos brunatny%
+				%L Hipposideros galeritus   %S platkonos orientalny%
+				%L Hipposideros gigas   %S platkonos olbrzymi%
+				%L Hipposideros grandis   %S platkonos wielki%
+				%L Hipposideros griffini   %S platkonos wietnamski%
+				%L Hipposideros halophyllus   %S platkonos tajski%
+				%L Hipposideros hypophyllus   %S platkonos podlisciowy%
+				%L Hipposideros inexpectatus   %S platkonos grzebieniasty%
+				%L Hipposideros inornatus   %S platkonos skromny%
+				%L Hipposideros jonesi   %S platkonos jaskiniowy%
+				%L Hipposideros khaokhouayensis   %S platkonos laotanski%
+				%L Hipposideros khasiana   %S platkonos gorski%
+				%L Hipposideros lamottei   %S platkonos pieczarowy%
+				%L Hipposideros lankadiva   %S platkonos hinduski%
+				%L Hipposideros larvatus   %S platkonos posredni%
+				%L Hipposideros lekaguli   %S platkonos piaskowcowy%
+				%L Hipposideros lylei   %S platkonos tarczolicy%
+				%L Hipposideros macrobullatus   %S platkonos wielkouchy%
+				%L Hipposideros madurae   %S platkonos jawajski%
+				%L Hipposideros maggietaylorae   %S platkonos zarloczny%
+				%L Hipposideros marisae   %S platkonos tajemniczy%
+				%L Hipposideros magalotis   %S platkonos uszaty%
+				%L Hipposideros muscinus   %S platkonos nizinny%
+				%L Hipposideros nequam   %S platkonos unikatowy%
+				%L Hipposideros obscurus   %S platkonos filipinski%
+				%L Hipposideros orbiculus   %S platkonos okraglolistny%
+				%L Hipposideros papua   %S platkonos halmaherski%
+				%L Hipposideros polingensis   %S platkonos pelenganski%
+				%L Hipposideros pomona   %S platkonos zwyczajny%
+				%L Hipposideros pratti   %S platkonos chinski%
+				%L Hipposideros pygmaeus   %S platkonos karlowaty%
+				%L Hipposideros ridleyi   %S platkonos singapurski%
+				%L Hipposideros rotalis   %S platkonos ukryty%
+				%L Hipposideros ruber   %S platkonos afrykanski%
+				%L Hipposideros scutinares   %S platkonos tarczonosy%
+				%L Hipposideros semoni   %S platkonos brodawkonosy%
+				%L Hipposideros sorenseni   %S platkonos towarzyski%
+				%L Hipposideros speoris   %S platkonos dekanski%
+				%L Hipposideros stenotis   %S platkonos waskouchy%
+				%L Hipposideros sumbae   %S platkonos sumbajski%
+				%L Hipposideros tephrus   %S platkonos sahelski%
+				%L Hipposideros thomensis   %S platkonos lawowy%
+				%L Hipposideros turpis   %S platkonos drobny%
+				%L Hipposideros vittatus   %S platkonos prazkowany%
+				%L Hipposideros wollastoni   %S platkonos nowogwinejski%
 
-		Rodzaj	%G Paracoelops
+		Rodzaj	%G Paracoelops%
 
 			Gatunek	Paracoelops megalotis
 
