@@ -36,8 +36,6 @@ void display(data entry)                //Displays name, surname and tel of entr
     puts(entry.rodzina);
     printf("Rodzaj: ");
     puts(entry.rodzaj);
-    printf("Opis: ");
-    puts(entry.opis);
     return;
 }
 //*******************************************************************************************************************************
