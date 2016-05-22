@@ -126,7 +126,7 @@ void znajdz(node *root)
       printf("Wpisz klucz: ");
       fgets(klucz, 40, stdin);
       for(i=0;klucz[i]!='\0';i++)
-      f(klucz[i]=='\n') klucz[i]='\0';
+      if(klucz[i]=='\n') klucz[i]='\0';
       printf("\n\nZnaleziono nastepujace wpisy:\n\n");
       z_znajdz(root, klucz);
       printf("\n\nTo wszystko!\n");
