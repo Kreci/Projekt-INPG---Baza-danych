@@ -15,26 +15,18 @@ void menu(node* root)
                 system("clear");
                 #endif // WIN32
 
-                printf(" Witaj w bazie danych!\n"
+                printf(" Witaj w bazie danych dot. nietoperzy!\n"
                         "**********************************************\n"
                         " Wybierz funkcje\n"
                         "----------------------------------------------\n"
                         " [0] Koniec programu\n"
-                        " [1] Dodaj wezly\n"
-                        " [2] Wypisz zawartosc bazy\n"
-                        " [3] Wypisz pierwszy (alfabetycznie) rekord\n"
-                        " [4] Wypisz ostatni (alfabetycznie) rekord\n"
-                        " [5] Wyszukaj rekord\n"
+                        " [1] Dodaj nowe gatunki\n"
+                        " [2] Wypisz zawartosc bazy danych\n"
+                        " [3] Wypisz pierwszy (alfabetycznie) gatunek\n"
+                        " [4] Wypisz ostatni (alfabetycznie) gatunek\n"
+                        " [5] Wyszukaj gatunek\n"
                         " [6] Usun wpis\n"                        
-                        /*
-                        " [5] Wypisz spis gatunków\n" \
-                        " [6] Wypisz spis rodzai\n"    } Jedna ze specyfikacja czego
-                        " [7] Wypisz spis rodzin\n"   /
-                        " [8] Wyszukaj gatunek\n"   \
-                        " [9] Wyszukaj rodzaj\n"     } Jedna ze specyfikacja czego
-                        " [10] Wyszukaj rodzine\n"  /
-                        */
-                        " [11] Wczytaj baze z pliku\n"
+                        " [7] Wczytaj baze z pliku\n"
                         "----------------------------------------------\n"
                         " Twoj wybor: ");
                 scanf("%d", &choice);
@@ -58,8 +50,6 @@ void menu(node* root)
                             break;
                         case 5: znajdz(root);
                             break;
-                        case 11: wczytajBaze(& root,  "Baza.txt");
-                            break;
                         case 6: 
                                 if(root==NULL)
                                 {
@@ -74,19 +64,8 @@ void menu(node* root)
                                 else
                                 mDestroy(root);               
                             break;
-                        /*case 5: findRecord(node *root);
+                         case 7: wczytajBaze(& root,  "Baza.txt");
                             break;
-                        case 6: puts("Dostepne w DLC juz 15 maja");
-                            break;
-                        case 7: puts("Dostepne w DLC juz 15 maja");
-                            break;
-                        case 8: ;puts("Dostepne w DLC juz 15 maja");
-                            break;
-                        case 9: puts("Dostepne w DLC juz 15 maja");
-                            break;
-                        case 5: puts("Dostepne w DLC juz 15 maja");
-                            break;
-                        */
                         default:  puts ("Niepoprawna wartosc, sprobuj ponownie");
                             break;
                         
