@@ -92,8 +92,6 @@ void addNodes(node** root)                            //Funkcja tworzy i element
         gets(input.rodzina);
         printf("Podaj rodzaj\n");
         gets(input.rodzaj);
-        printf("Wprowadz opis gatunku\n");
-        gets(input.opis);
         
         #ifdef WIN32
         system("cls");
@@ -105,24 +103,6 @@ void addNodes(node** root)                            //Funkcja tworzy i element
       }
     return;
   }
-//*******************************************************************************************************************************
-/*int browse_tree(node *head)       //Umożliwia chodzenie po drzewie galez po galezi
-{
-    if(head==NULL)return;
-    char menu[3];
-    printf("%s \n%s\n\n", head->data.stdName, head->data.latinName);
-    if(head->lewy!=NULL)printf("w lewej gałęzi: %s %s\n", head->left->data.stdName, head->left->data.latinName);
-    else printf("lewy pusty\n");
-    if(head->prawy!=NULL)printf("w prawej gałęzi: %s %s\n", head->right->data.stdName, head->right->data.latinName);
-    else printf("prawy pusty\n");
-    printf("\nMENU:\n1-idz w lewo\n2-idz w prawo\n3-cofnij (do gory)");
-    scanf("%3s", menu);
-    if(menu[0]=='1')			if(browse_tree(head->left)) browse_tree(head);	else return 0;
-    else if(menu[0]=='2')	if(browse_tree(head->right))inorder(head);	else return 0;
-    else if(menu[0]=='3')return 1;
-    else return 0;
-    return 0;
-}*/
 //*******************************************************************************************************************************
 void findMin(node* root)	              //displays first (alphabetically) entry
     {
@@ -163,7 +143,6 @@ int nodeNumber(node *root)                                               //Zwrac
         return counter;
     }
 //*******************************************************************************************************************************
-/*
 void findRecord(node *root)             //wyszukuje element o zadanej nazwie gatunkowej
     {
         data input;
@@ -191,7 +170,6 @@ void findRecord(node *root)             //wyszukuje element o zadanej nazwie gat
         printf("Nie znaleziono szukanego gatunku\n");
         return;
     }
-*/
 void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowiedni, w jego miejsce
 {   
     data sEntry;                                    //Jesli najwiekszy w swoim poddrzewie - lewe dziecko
