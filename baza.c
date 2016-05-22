@@ -63,7 +63,6 @@ void wczytajBaze(node ** root,  char* nazwapliku)
     char bufor=' ';
     int indekslinii=0;
     data dane, x;
-    dane.opis[0]='\0';
     int i;
     int literka;
 
