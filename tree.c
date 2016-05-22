@@ -260,13 +260,7 @@ void mDestroy(node *root)                 //Usuwa wezel i wstawia inny, odpowied
     }
     else                                                //Jezeli usuwamy korzen
     {
-        /*if(root->right == NULL && root->left == NULL)         //PROBLEM
-        {
-            free(root);
-            root = NULL;
-            return;
-        }*/                       //Siekiera, motyka, brutalna sila, PO PROBLEMIE :)
-        else if(root->right == NULL)
+        if(root->right == NULL)
         {
             root->entry = root->left->entry;
             ptr = root->left->left;
