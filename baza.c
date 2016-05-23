@@ -92,9 +92,9 @@ void zapiszDane(data dane,  char* nazwapliku)
         return;
     }
 
-    fprintf(plik, "\t%%R Rodzina %s\n", dane.rodzina);
-    fprintf(plik, "\t\t%%G %s\n", dane.rodzaj);
-    fprintf(plik, "\t\t\t%%L %s %%S %s\n", dane.latinName, dane.stdName);
+    fprintf(plik, "\t%%R Rodzina %s%%\n", dane.rodzina);
+    fprintf(plik, "\t\t%%G %s%%\n", dane.rodzaj);
+    fprintf(plik, "\t\t\t%%L %s %%S %s%%\n", dane.latinName, dane.stdName);
     fclose(plik);
 }
 
