@@ -86,7 +86,7 @@ void wczytajBaze(node ** root,  char* nazwapliku)
 void zapiszDane(data dane,  char* nazwapliku)
 {
     FILE *plik;
-    if(plik=fopen(nazwapliku, "a")!=NULL)
+    if((plik=fopen(nazwapliku, "a"))!=NULL)
     {
         printf("Blad otwarcia pliku\n");
         return;
