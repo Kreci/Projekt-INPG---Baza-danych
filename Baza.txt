@@ -1269,7 +1269,7 @@ Podrzad	Pteropodiformes   rudawkoksztaltne
 							%Idionycteris   osobliwiec
 							%Otonycteris   dlugouch
 
-						Rodzaj	%G Plecotus   gacek					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
+						Rodzaj	%G Plecotus   gacek%					https://pl.wikipedia.org/wiki/Gacek_(nietoperze)
 
 							Gatunek	%L Plecotus alpinus  %S gacek alpejski%		https://pl.wikipedia.org/wiki/Gacek_alpejski
 								%L Plecotus ariel  %S gacek powietrzny%
